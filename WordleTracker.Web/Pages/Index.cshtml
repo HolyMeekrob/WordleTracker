@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+@{
+	ViewData["Title"] = "Home";
+}
+<div class="text-center">
+	<h1 class="display-4">Submit your Wordle entry</h1>
+</div>
+
+<div class="text-success">@Model.SuccessMessage</div>
+
+<form method="post">
+	<div class="foo">
+		<label asp-for="Email" class="form-label"></label>
+		<input asp-for="Email" class="form-control" />
+		<span asp-validation-for="Email" class="text-danger"></span>
+	</div>
+
+	<div>
+		<label asp-for="Share" class="form-label"></label>
+		<textarea asp-for="Share" class="form-control" cols="15" rows="8"></textarea>
+	</div>
+
+	<div>
+		<button type="submit" class="btn btn-primary">Submit</button>
+	</div>
+	<span asp-validation-for="Share" class="text-danger"></span>
+</form>
+
+@section Scripts
+{
+<partial name="_ValidationScriptsPartial" />
+}

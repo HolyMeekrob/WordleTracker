@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Web", "WordleTracker.Web\WordleTracker.Web.csproj", "{9E0F071B-52F4-4916-B038-82951EDF46D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Data", "WordleTracker.Data\WordleTracker.Data.csproj", "{9CD0C2EA-BE79-438D-9503-050E069BD9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Core", "WordleTracker.Core\WordleTracker.Core.csproj", "{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0F071B-52F4-4916-B038-82951EDF46D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0F071B-52F4-4916-B038-82951EDF46D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0F071B-52F4-4916-B038-82951EDF46D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0F071B-52F4-4916-B038-82951EDF46D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD0C2EA-BE79-438D-9503-050E069BD9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD0C2EA-BE79-438D-9503-050E069BD9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD0C2EA-BE79-438D-9503-050E069BD9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD0C2EA-BE79-438D-9503-050E069BD9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
