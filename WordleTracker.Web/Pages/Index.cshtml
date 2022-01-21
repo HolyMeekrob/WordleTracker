@@ -10,12 +10,6 @@
 <div class="text-success">@Model.SuccessMessage</div>
 
 <form method="post">
-	<div class="foo">
-		<label asp-for="Email" class="form-label"></label>
-		<input asp-for="Email" class="form-control" />
-		<span asp-validation-for="Email" class="text-danger"></span>
-	</div>
-
 	<div>
 		<label asp-for="Share" class="form-label"></label>
 		<textarea asp-for="Share" class="form-control" cols="15" rows="8"></textarea>
