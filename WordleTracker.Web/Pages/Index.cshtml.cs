@@ -35,7 +35,7 @@ public class IndexModel : PageModel
 		else
 		{
 			SuccessMessage = "Hooray!";
-			var result = Result.Parse(Share);
+			var result = Result.Parse(User.Identity!.Name!, Share);
 			return Task.FromResult<IActionResult>(Page());
 		}
 	}

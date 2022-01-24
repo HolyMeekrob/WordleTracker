@@ -8,6 +8,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\WordleTracker.Data\WordleTracker.Data.csproj" />
+		<ProjectReference Include="..\WordleTracker.Svc\WordleTracker.Svc.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -17,6 +18,10 @@
 	    <PrivateAssets>all</PrivateAssets>
 	  </PackageReference>
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="db\" />
 	</ItemGroup>
 
 </Project>

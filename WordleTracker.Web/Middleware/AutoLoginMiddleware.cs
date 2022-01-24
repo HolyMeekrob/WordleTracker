@@ -3,10 +3,15 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Options;
 using WordleTracker.Core.Configuration;
+using WordleTracker.Svc;
 
 namespace WordleTracker.Web.Middleware;
 public class AutoLoginMiddleware
 {
+	private const int DigitSuffixLength = 5;
+	private static readonly int s_maxRandomDigit = (int)Math.Pow(10, DigitSuffixLength);
+	private static readonly string s_suffixFormat = string.Concat(Enumerable.Repeat("0", DigitSuffixLength));
+
 	private readonly RequestDelegate _next;
 	private readonly NamesOptions _names;
 	private readonly int _adjectivesCount;
@@ -20,20 +25,23 @@ public class AutoLoginMiddleware
 		_nounsCount = _names.Nouns.Count();
 	}
 
-	public async Task InvokeAsync(HttpContext context)
+	public async Task InvokeAsync(HttpContext context, UserSvc userSvc)
 	{
 		if (!context.User?.Identity?.IsAuthenticated ?? true)
 		{
-			await SignInNewUser(context);
+			await SignInNewUser(context, userSvc);
 		}
 		await _next(context);
 	}
 
-	private async Task SignInNewUser(HttpContext context)
+	private async Task SignInNewUser(HttpContext context, UserSvc userSvc)
 	{
+		var userName = CreateUserName();
+		await userSvc.CreateUser(userName, userName, new CancellationToken());
+
 		var claims = new[]
 		{
-			new Claim(ClaimTypes.Name, CreateUserName())
+			new Claim(ClaimTypes.Name, userName)
 		};
 
 		var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -54,11 +62,12 @@ public class AutoLoginMiddleware
 
 	private string CreateUserName()
 	{
-		var random = DateTimeOffset.UtcNow.Ticks;
-		var adjective = _names.Adjectives[(int)(random % _adjectivesCount)];
-		var noun = _names.Nouns[(int)(random % _nounsCount)];
+		var random = new Random();
+		var adjective = _names.Adjectives[random.Next(_adjectivesCount)];
+		var noun = _names.Nouns[random.Next(_nounsCount)];
+		var suffix = random.Next(s_maxRandomDigit).ToString(s_suffixFormat);
 
-		return $"{adjective}{noun}";
+		return $"{adjective}{noun}{suffix}";
 	}
 }
 

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authentication.Cookies;
 using WordleTracker.Data;
+using WordleTracker.Svc;
 using WordleTracker.Web.Extensions;
 using WordleTracker.Web.Middleware;
 
@@ -15,7 +16,14 @@ builder.Host.ConfigureAppConfiguration((hostingContext, config) =>
 builder.Services.AddRazorPages();
 builder.Services.AddConfig(builder.Configuration);
 
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+#region DI Registration
+
+builder.Services.AddScoped<UserSvc, UserSvc>();
+
+#endregion DI Registration
+
+builder.Services
+	.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
 	.AddCookie(options =>
 	{
 		options.ExpireTimeSpan = TimeSpan.FromDays(365);
