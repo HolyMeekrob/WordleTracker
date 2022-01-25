@@ -22,10 +22,11 @@
 						<li class="nav-item">
 							<a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-						</li>
 					</ul>
+				</div>
+
+				<div>
+					<span title="@ViewBag.UserId" class="editable">@ViewBag.UserName</span>
 				</div>
 			</div>
 		</nav>
@@ -38,7 +39,7 @@
 
 	<footer class="border-top footer text-muted">
 		<div class="container">
-			&copy; 2022 - WordleTracker.Web - <a asp-area="" asp-page="/Privacy">Privacy</a>
+			Built with gusto by Holy Meekrob
 		</div>
 	</footer>
 

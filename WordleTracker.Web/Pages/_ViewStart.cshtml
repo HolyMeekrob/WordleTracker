@@ -1,3 +1,11 @@
-﻿@{
-    Layout = "_Layout";
+﻿@using System.Security.Claims
+
+@{
+	Layout = "_Layout";
+	ViewBag.UserId =
+		Context.User.Claims.FirstOrDefault(claim => claim.Type == ClaimTypes.NameIdentifier)?.Value
+		?? Context.Items[ClaimTypes.NameIdentifier];
+	ViewBag.UserName =
+		Context.User.Claims.FirstOrDefault(claim => claim.Type == ClaimTypes.Name)?.Value
+		?? Context.Items[ClaimTypes.Name];
 }

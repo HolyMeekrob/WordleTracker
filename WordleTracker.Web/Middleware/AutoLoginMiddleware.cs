@@ -44,6 +44,7 @@ public class AutoLoginMiddleware
 		var userId = await CreateUser(userSvc);
 		var claims = new[]
 		{
+			new Claim(ClaimTypes.NameIdentifier, userId),
 			new Claim(ClaimTypes.Name, userId)
 		};
 
@@ -61,6 +62,9 @@ public class AutoLoginMiddleware
 			CookieAuthenticationDefaults.AuthenticationScheme,
 			new ClaimsPrincipal(claimsIdentity),
 			authProperties);
+
+		context.Items[ClaimTypes.NameIdentifier] = userId;
+		context.Items[ClaimTypes.Name] = userId;
 	}
 
 	private async Task<string> CreateUser(UserSvc userSvc)

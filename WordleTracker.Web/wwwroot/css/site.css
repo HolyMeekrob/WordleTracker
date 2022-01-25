@@ -1,18 +1,31 @@
 html {
-  font-size: 14px;
+	font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+	html {
+		font-size: 16px;
+	}
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+	position: relative;
+	min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+	margin-bottom: 60px;
 }
+
+.editable {
+	padding: .25rem;
+	margin-right: .25rem;
+}
+
+	.editable:hover {
+		border-radius: .25rem;
+		border-style: inset;
+		border-width: .1rem;
+		margin-right: .15rem;
+		background-color: #FAFAFA;
+	}
