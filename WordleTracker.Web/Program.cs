@@ -13,7 +13,14 @@ builder.Host.ConfigureAppConfiguration((hostingContext, config) =>
 });
 
 // Add services to the container.
-builder.Services.AddRazorPages();
+
+builder.Services
+	.AddRazorPages()
+	.AddRazorOptions(options =>
+	{
+		options.PageViewLocationFormats.Add("/Pages/Shared/Partials/{0}/_{0}.cshtml");
+	});
+
 builder.Services.AddConfig(builder.Configuration);
 
 #region DI Registration

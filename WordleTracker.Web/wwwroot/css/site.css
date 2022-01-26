@@ -29,3 +29,15 @@ body {
 		margin-right: .15rem;
 		background-color: #FAFAFA;
 	}
+
+.fs-small {
+	font-size: 0.8rem;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.w-0 {
+	width: 0;
+}

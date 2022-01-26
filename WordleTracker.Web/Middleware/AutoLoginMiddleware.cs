@@ -1,10 +1,9 @@
 ﻿using System.Security.Claims;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Options;
 using WordleTracker.Core.Configuration;
 using WordleTracker.Data.Models;
 using WordleTracker.Svc;
+using static WordleTracker.Web.Utilities.Authentication;
 
 namespace WordleTracker.Web.Middleware;
 public class AutoLoginMiddleware
@@ -41,33 +40,15 @@ public class AutoLoginMiddleware
 
 	private async Task SignInNewUser(HttpContext context, UserSvc userSvc)
 	{
-		var userId = await CreateUser(userSvc);
-		var claims = new[]
-		{
-			new Claim(ClaimTypes.NameIdentifier, userId),
-			new Claim(ClaimTypes.Name, userId)
-		};
+		var user = await CreateUser(userSvc);
 
-		var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+		await SignIn(context, user);
 
-		var authProperties = new AuthenticationProperties
-		{
-			AllowRefresh = true,
-			ExpiresUtc = new DateTime(2038, 1, 1, 0, 0, 0, DateTimeKind.Utc),
-			IssuedUtc = DateTimeOffset.UtcNow,
-			IsPersistent = true
-		};
-
-		await context.SignInAsync(
-			CookieAuthenticationDefaults.AuthenticationScheme,
-			new ClaimsPrincipal(claimsIdentity),
-			authProperties);
-
-		context.Items[ClaimTypes.NameIdentifier] = userId;
-		context.Items[ClaimTypes.Name] = userId;
+		context.Items[ClaimTypes.NameIdentifier] = user.Id;
+		context.Items[ClaimTypes.Name] = user.Id;
 	}
 
-	private async Task<string> CreateUser(UserSvc userSvc)
+	private async Task<User> CreateUser(UserSvc userSvc)
 	{
 		var attempts = 0;
 		var userId = string.Empty;
@@ -92,7 +73,7 @@ public class AutoLoginMiddleware
 			}
 		}
 
-		return userId;
+		return user!;
 	}
 
 	private string CreateUserId()

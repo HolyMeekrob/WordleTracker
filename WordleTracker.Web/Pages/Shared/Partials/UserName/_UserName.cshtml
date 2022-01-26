@@ -1,0 +1,21 @@
+﻿@model UserNameModel
+
+<div id="user-name">
+	<div>
+		<span asp-validation-for="UserName" id="update-name-error" class="text-danger fs-small"></span>
+		<span id="view-name" title="@Model!.UserId" class="editable">@Model.UserName</span>
+		<div class="w-0 d-inline-block">
+			<i id="copy-id" title="Share user id" class="fa-regular fa-copy pointer"></i>
+			<span id="copy-message" class="d-none fs-small text-muted">Copied</span>
+		</div>
+	</div>
+	<form id="edit-name" method="post" asp-page="Partials" asp-page-handler="UpdateName" class="d-none">
+		<div class="input-group">
+			<input asp-for="UserName" class="form-control" title="Edit user name" tabindex="0" />
+			<a id="undo-edit-name" class="input-group-text btn btn-outline-dark" title="Undo" tabindex="1">
+				<i class="fa-solid fa-rotate-left"></i>
+			</a>
+		</div>
+		<input type="hidden" asp-for="UserId" />
+	</form>
+</div>

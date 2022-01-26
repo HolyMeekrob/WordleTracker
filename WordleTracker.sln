@@ -1,27 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Web", "WordleTracker.Web\WordleTracker.Web.csproj", "{9E0F071B-52F4-4916-B038-82951EDF46D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleTracker.Web", "WordleTracker.Web\WordleTracker.Web.csproj", "{9E0F071B-52F4-4916-B038-82951EDF46D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Data", "WordleTracker.Data\WordleTracker.Data.csproj", "{9CD0C2EA-BE79-438D-9503-050E069BD9BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleTracker.Data", "WordleTracker.Data\WordleTracker.Data.csproj", "{9CD0C2EA-BE79-438D-9503-050E069BD9BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Core", "WordleTracker.Core\WordleTracker.Core.csproj", "{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleTracker.Core", "WordleTracker.Core\WordleTracker.Core.csproj", "{3C116326-AAD7-4B8A-A0B7-E74BDAB28B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Svc", "WordleTracker.Svc\WordleTracker.Svc.csproj", "{CAFC8105-8DB1-47A5-8EA2-18967AF8B621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleTracker.Svc", "WordleTracker.Svc\WordleTracker.Svc.csproj", "{CAFC8105-8DB1-47A5-8EA2-18967AF8B621}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D847AC13-12BE-425A-B0CD-9CFAD85702A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleTracker.Svc.Tests", "WordleTracker.Svc.Tests\WordleTracker.Svc.Tests.csproj", "{3D5F6536-DE23-4050-89C2-3AC6513E8FFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleTracker.Svc.Tests", "WordleTracker.Svc.Tests\WordleTracker.Svc.Tests.csproj", "{3D5F6536-DE23-4050-89C2-3AC6513E8FFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9E0F071B-52F4-4916-B038-82951EDF46D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -45,7 +42,13 @@ Global
 		{3D5F6536-DE23-4050-89C2-3AC6513E8FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D5F6536-DE23-4050-89C2-3AC6513E8FFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3D5F6536-DE23-4050-89C2-3AC6513E8FFB} = {D847AC13-12BE-425A-B0CD-9CFAD85702A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED0A6E28-17E5-4CDD-B46A-4605D63AC38D}
 	EndGlobalSection
 EndGlobal

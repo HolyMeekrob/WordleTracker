@@ -52,8 +52,8 @@ public class CreateUserTests : DbTests
 		var fetchedUser = await DbContext.Users.FindAsync(id);
 
 		Assert.NotNull(fetchedUser);
-		Assert.Equal(returnedUser.Name, id);
-		Assert.Equal(fetchedUser!.Name, id);
+		Assert.Equal(id, returnedUser.Name);
+		Assert.Equal(id, fetchedUser!.Name);
 	}
 
 	[Theory]
@@ -68,8 +68,8 @@ public class CreateUserTests : DbTests
 		var fetchedUser = await DbContext.Users.FindAsync(id);
 
 		Assert.NotNull(fetchedUser);
-		Assert.Equal(returnedUser.Name, id);
-		Assert.Equal(fetchedUser!.Name, id);
+		Assert.Equal(id, returnedUser.Name);
+		Assert.Equal(id, fetchedUser!.Name);
 	}
 
 	[Fact]
@@ -83,7 +83,7 @@ public class CreateUserTests : DbTests
 		var fetchedUser = await DbContext.Users.FindAsync(id);
 
 		Assert.NotNull(fetchedUser);
-		Assert.Equal(returnedUser.Name, name);
+		Assert.Equal(name, returnedUser.Name);
 		Assert.Equal(returnedUser.Name, fetchedUser!.Name);
 	}
 

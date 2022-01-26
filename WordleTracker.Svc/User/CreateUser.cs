@@ -9,7 +9,7 @@ public partial class UserSvc
 	{
 		if (string.IsNullOrWhiteSpace(id))
 		{
-			throw new ArgumentException("User Id cannot be empty or whitespace", nameof(id));
+			throw new ArgumentException("User id cannot be empty or whitespace", nameof(id));
 		}
 
 		var now = DateTimeOffset.UtcNow;
