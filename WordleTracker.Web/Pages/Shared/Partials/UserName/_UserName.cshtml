@@ -3,19 +3,47 @@
 <div id="user-name">
 	<div>
 		<span asp-validation-for="UserName" id="update-name-error" class="text-danger fs-small"></span>
-		<span id="view-name" title="@Model!.UserId" class="editable">@Model.UserName</span>
-		<div class="w-0 d-inline-block">
+		<div class="d-inline-block">
 			<i id="copy-id" title="Share user id" class="fa-regular fa-copy pointer"></i>
 			<span id="copy-message" class="d-none fs-small text-muted">Copied</span>
 		</div>
+		<span id="view-name" class="editable d-none d-sm-inline-block" title="@Model!.UserId">@Model.UserName</span>
+		<a id="view-name-narrow" class="link-secondary d-sm-none" title="@Model!.UserId" data-bs-toggle="modal" data-bs-target="#user-name-modal">@Model.UserName</a>
 	</div>
 	<form id="edit-name" method="post" asp-page="Partials" asp-page-handler="UpdateName" class="d-none">
 		<div class="input-group">
-			<input asp-for="UserName" class="form-control" title="Edit user name" tabindex="0" />
+			<input type="text" asp-for="UserName" id="edit-user-name" class="form-control" title="Edit user name" tabindex="0" />
 			<a id="undo-edit-name" class="input-group-text btn btn-outline-dark" title="Undo" tabindex="1">
 				<i class="fa-solid fa-rotate-left"></i>
 			</a>
 		</div>
-		<input type="hidden" asp-for="UserId" />
+		<input type="hidden" asp-for="UserId" id="user-id" />
+		@* Prevents form submission upon enter being pressed *@
+		<button type="submit" class="d-none" disabled="disabled" aria-hidden="true"></button>
 	</form>
+</div>
+
+<div id="user-name-modal" class="modal fade" tabindex="-1">
+	<div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Edit user name</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<form id="edit-name-modal" method="post" asp-page="Partials" asp-page-handler="UpdateName">
+					<input type="text" asp-for="UserName" id="edit-user-name-modal" class="form-control" title="Edit user name" tabindex="0" />
+					<input type="hidden" asp-for="UserId"/>
+					@* Prevents form submission upon enter being pressed *@
+					<button type="submit" class="d-none" disabled="disabled" aria-hidden="true"></button>
+
+				</form>
+				<span asp-validation-for="UserName" id="update-name-error-modal" class="text-danger"></span>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+				<button id="save-user-name" type="button" class="btn btn-primary">Save</button>
+			</div>
+		</div>
+	</div>
 </div>

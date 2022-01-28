@@ -3,31 +3,35 @@
 	const getViewElement = () => document.getElementById('view-name');
 	const getCopyElement = () => document.getElementById('copy-id');
 	const getCopyMessageElement = () => document.getElementById('copy-message');
-	const getUserId = () => document.getElementById('UserId').value;
+	const getUserId = () => document.getElementById('user-id').value;
 	const getForm = () => document.getElementById('edit-name');
-	const getInput = () => document.getElementById('UserName');
+	const getInput = () => document.getElementById('edit-user-name');
 	const getUndo = () => document.getElementById('undo-edit-name');
 	const getErrorElement = () => document.getElementById('update-name-error');
+	const getModal = () => document.getElementById('user-name-modal');
+	const getModalInput = () => document.getElementById('edit-user-name-modal');
+	const getModalSaveElement = () => document.getElementById('save-user-name');
+	const getModalForm = () => document.getElementById('edit-name-modal');
+	const getModalErrorElement = () => document.getElementById('update-name-error-modal');
 
 	const copyMessageTimerSeconds = 3;
+	const saveErrorText = 'Error saving user name';
 
 	const hide = (elem) => elem.classList.add('d-none');
 	const show = (elem) => elem.classList.remove('d-none');
 
 	let savedName;
 
-	const save = async () => {
-		const shouldSave = (form) => {
-			const nameHasChanged = getInput().value !== savedName;
-			isValid = $(form).validate();
+	const save = async (form) => {
+		const shouldSave = () => {
+			const newName = form.querySelector('[name="UserName"]').value;
+			const nameHasChanged = newName !== savedName;
 
-			return nameHasChanged && isValid;
+			return nameHasChanged;
 		};
 
-		const form = getForm();
-
 		if (!shouldSave(form)) {
-			return Promise.resolve(false);
+			return Promise.reject();
 		}
 
 		const options = {
@@ -40,13 +44,10 @@
 				if (response.ok) {
 					return response.text();
 				}
-				return Promise.reject(response);
+				return Promise.reject(saveErrorText);
 			}).then(html => {
 				getContainer().innerHTML = html.trim();
 				handleLoad();
-			}).catch(response => {
-				response.text().then(msg => getErrorElement().innerText = msg);
-				getInput().value = savedName;
 			});
 	};
 
@@ -63,9 +64,17 @@
 	};
 
 	const hideEdit = async () => {
-		await save();
-		hide(getForm());
-		show(getViewElement().parentElement);
+		try {
+			await save(getForm());
+		} catch (err) {
+			//getErrorElement().innerText = saveErrorText;
+			getInput().value = savedName;
+			if (err) {
+				getErrorElement().innerText = err;
+			}
+			hide(getForm());
+			show(getViewElement().parentElement);
+		}
 	};
 
 	const addCancelEditListener = () => {
@@ -105,11 +114,40 @@
 		});
 	};
 
+	const initializeModal = () => {
+		const modal = getModal();
+		const input = getModalInput();
+		const errorElement = getModalErrorElement();
+
+		modal.addEventListener('show.bs.modal', () => {
+			input.value = savedName;
+			errorElement.innerText = '';
+		});
+
+		modal.addEventListener('shown.bs.modal', () => {
+			input.select();
+			input.focus();
+		});
+
+		getModalSaveElement().addEventListener('click', async () => {
+			try {
+				await save(getModalForm());
+				bootstrap.Modal.getInstance(modal).hide();
+			} catch (err) {
+				if (err) {
+					errorElement.innerText = err;
+				}
+			}
+		});
+	};
+
 	const handleLoad = () => {
 		addBeginEditListener();
 		addCancelEditListener();
 		addUndoEventListener();
 		addCopyIdListener();
+
+		initializeModal();
 
 		savedName = getInput().value;
 	};
