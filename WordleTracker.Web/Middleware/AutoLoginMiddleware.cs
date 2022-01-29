@@ -78,7 +78,7 @@ public class AutoLoginMiddleware
 
 	private string CreateUserId()
 	{
-		var random = new Random();
+		var random = Random.Shared;
 		var adjective = _names.Adjectives[random.Next(_adjectivesCount)];
 		var noun = _names.Nouns[random.Next(_nounsCount)];
 		var suffix = random.Next(s_maxRandomDigit).ToString(s_suffixFormat);
