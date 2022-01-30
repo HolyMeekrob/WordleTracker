@@ -1,0 +1,11593 @@
+{
+	"Days": {
+		"Words": [
+			{
+				"Id": 0,
+				"Date": "Jun 19 2021",
+				"Word": "CIGAR"
+			},
+			{
+				"Id": 1,
+				"Date": "Jun 20 2021",
+				"Word": "REBUT"
+			},
+			{
+				"Id": 2,
+				"Date": "Jun 21 2021",
+				"Word": "SISSY"
+			},
+			{
+				"Id": 3,
+				"Date": "Jun 22 2021",
+				"Word": "HUMPH"
+			},
+			{
+				"Id": 4,
+				"Date": "Jun 23 2021",
+				"Word": "AWAKE"
+			},
+			{
+				"Id": 5,
+				"Date": "Jun 24 2021",
+				"Word": "BLUSH"
+			},
+			{
+				"Id": 6,
+				"Date": "Jun 25 2021",
+				"Word": "FOCAL"
+			},
+			{
+				"Id": 7,
+				"Date": "Jun 26 2021",
+				"Word": "EVADE"
+			},
+			{
+				"Id": 8,
+				"Date": "Jun 27 2021",
+				"Word": "NAVAL"
+			},
+			{
+				"Id": 9,
+				"Date": "Jun 28 2021",
+				"Word": "SERVE"
+			},
+			{
+				"Id": 10,
+				"Date": "Jun 29 2021",
+				"Word": "HEATH"
+			},
+			{
+				"Id": 11,
+				"Date": "Jun 30 2021",
+				"Word": "DWARF"
+			},
+			{
+				"Id": 12,
+				"Date": "Jul 01 2021",
+				"Word": "MODEL"
+			},
+			{
+				"Id": 13,
+				"Date": "Jul 02 2021",
+				"Word": "KARMA"
+			},
+			{
+				"Id": 14,
+				"Date": "Jul 03 2021",
+				"Word": "STINK"
+			},
+			{
+				"Id": 15,
+				"Date": "Jul 04 2021",
+				"Word": "GRADE"
+			},
+			{
+				"Id": 16,
+				"Date": "Jul 05 2021",
+				"Word": "QUIET"
+			},
+			{
+				"Id": 17,
+				"Date": "Jul 06 2021",
+				"Word": "BENCH"
+			},
+			{
+				"Id": 18,
+				"Date": "Jul 07 2021",
+				"Word": "ABATE"
+			},
+			{
+				"Id": 19,
+				"Date": "Jul 08 2021",
+				"Word": "FEIGN"
+			},
+			{
+				"Id": 20,
+				"Date": "Jul 09 2021",
+				"Word": "MAJOR"
+			},
+			{
+				"Id": 21,
+				"Date": "Jul 10 2021",
+				"Word": "DEATH"
+			},
+			{
+				"Id": 22,
+				"Date": "Jul 11 2021",
+				"Word": "FRESH"
+			},
+			{
+				"Id": 23,
+				"Date": "Jul 12 2021",
+				"Word": "CRUST"
+			},
+			{
+				"Id": 24,
+				"Date": "Jul 13 2021",
+				"Word": "STOOL"
+			},
+			{
+				"Id": 25,
+				"Date": "Jul 14 2021",
+				"Word": "COLON"
+			},
+			{
+				"Id": 26,
+				"Date": "Jul 15 2021",
+				"Word": "ABASE"
+			},
+			{
+				"Id": 27,
+				"Date": "Jul 16 2021",
+				"Word": "MARRY"
+			},
+			{
+				"Id": 28,
+				"Date": "Jul 17 2021",
+				"Word": "REACT"
+			},
+			{
+				"Id": 29,
+				"Date": "Jul 18 2021",
+				"Word": "BATTY"
+			},
+			{
+				"Id": 30,
+				"Date": "Jul 19 2021",
+				"Word": "PRIDE"
+			},
+			{
+				"Id": 31,
+				"Date": "Jul 20 2021",
+				"Word": "FLOSS"
+			},
+			{
+				"Id": 32,
+				"Date": "Jul 21 2021",
+				"Word": "HELIX"
+			},
+			{
+				"Id": 33,
+				"Date": "Jul 22 2021",
+				"Word": "CROAK"
+			},
+			{
+				"Id": 34,
+				"Date": "Jul 23 2021",
+				"Word": "STAFF"
+			},
+			{
+				"Id": 35,
+				"Date": "Jul 24 2021",
+				"Word": "PAPER"
+			},
+			{
+				"Id": 36,
+				"Date": "Jul 25 2021",
+				"Word": "UNFED"
+			},
+			{
+				"Id": 37,
+				"Date": "Jul 26 2021",
+				"Word": "WHELP"
+			},
+			{
+				"Id": 38,
+				"Date": "Jul 27 2021",
+				"Word": "TRAWL"
+			},
+			{
+				"Id": 39,
+				"Date": "Jul 28 2021",
+				"Word": "OUTDO"
+			},
+			{
+				"Id": 40,
+				"Date": "Jul 29 2021",
+				"Word": "ADOBE"
+			},
+			{
+				"Id": 41,
+				"Date": "Jul 30 2021",
+				"Word": "CRAZY"
+			},
+			{
+				"Id": 42,
+				"Date": "Jul 31 2021",
+				"Word": "SOWER"
+			},
+			{
+				"Id": 43,
+				"Date": "Aug 01 2021",
+				"Word": "REPAY"
+			},
+			{
+				"Id": 44,
+				"Date": "Aug 02 2021",
+				"Word": "DIGIT"
+			},
+			{
+				"Id": 45,
+				"Date": "Aug 03 2021",
+				"Word": "CRATE"
+			},
+			{
+				"Id": 46,
+				"Date": "Aug 04 2021",
+				"Word": "CLUCK"
+			},
+			{
+				"Id": 47,
+				"Date": "Aug 05 2021",
+				"Word": "SPIKE"
+			},
+			{
+				"Id": 48,
+				"Date": "Aug 06 2021",
+				"Word": "MIMIC"
+			},
+			{
+				"Id": 49,
+				"Date": "Aug 07 2021",
+				"Word": "POUND"
+			},
+			{
+				"Id": 50,
+				"Date": "Aug 08 2021",
+				"Word": "MAXIM"
+			},
+			{
+				"Id": 51,
+				"Date": "Aug 09 2021",
+				"Word": "LINEN"
+			},
+			{
+				"Id": 52,
+				"Date": "Aug 10 2021",
+				"Word": "UNMET"
+			},
+			{
+				"Id": 53,
+				"Date": "Aug 11 2021",
+				"Word": "FLESH"
+			},
+			{
+				"Id": 54,
+				"Date": "Aug 12 2021",
+				"Word": "BOOBY"
+			},
+			{
+				"Id": 55,
+				"Date": "Aug 13 2021",
+				"Word": "FORTH"
+			},
+			{
+				"Id": 56,
+				"Date": "Aug 14 2021",
+				"Word": "FIRST"
+			},
+			{
+				"Id": 57,
+				"Date": "Aug 15 2021",
+				"Word": "STAND"
+			},
+			{
+				"Id": 58,
+				"Date": "Aug 16 2021",
+				"Word": "BELLY"
+			},
+			{
+				"Id": 59,
+				"Date": "Aug 17 2021",
+				"Word": "IVORY"
+			},
+			{
+				"Id": 60,
+				"Date": "Aug 18 2021",
+				"Word": "SEEDY"
+			},
+			{
+				"Id": 61,
+				"Date": "Aug 19 2021",
+				"Word": "PRINT"
+			},
+			{
+				"Id": 62,
+				"Date": "Aug 20 2021",
+				"Word": "YEARN"
+			},
+			{
+				"Id": 63,
+				"Date": "Aug 21 2021",
+				"Word": "DRAIN"
+			},
+			{
+				"Id": 64,
+				"Date": "Aug 22 2021",
+				"Word": "BRIBE"
+			},
+			{
+				"Id": 65,
+				"Date": "Aug 23 2021",
+				"Word": "STOUT"
+			},
+			{
+				"Id": 66,
+				"Date": "Aug 24 2021",
+				"Word": "PANEL"
+			},
+			{
+				"Id": 67,
+				"Date": "Aug 25 2021",
+				"Word": "CRASS"
+			},
+			{
+				"Id": 68,
+				"Date": "Aug 26 2021",
+				"Word": "FLUME"
+			},
+			{
+				"Id": 69,
+				"Date": "Aug 27 2021",
+				"Word": "OFFAL"
+			},
+			{
+				"Id": 70,
+				"Date": "Aug 28 2021",
+				"Word": "AGREE"
+			},
+			{
+				"Id": 71,
+				"Date": "Aug 29 2021",
+				"Word": "ERROR"
+			},
+			{
+				"Id": 72,
+				"Date": "Aug 30 2021",
+				"Word": "SWIRL"
+			},
+			{
+				"Id": 73,
+				"Date": "Aug 31 2021",
+				"Word": "ARGUE"
+			},
+			{
+				"Id": 74,
+				"Date": "Sep 01 2021",
+				"Word": "BLEED"
+			},
+			{
+				"Id": 75,
+				"Date": "Sep 02 2021",
+				"Word": "DELTA"
+			},
+			{
+				"Id": 76,
+				"Date": "Sep 03 2021",
+				"Word": "FLICK"
+			},
+			{
+				"Id": 77,
+				"Date": "Sep 04 2021",
+				"Word": "TOTEM"
+			},
+			{
+				"Id": 78,
+				"Date": "Sep 05 2021",
+				"Word": "WOOER"
+			},
+			{
+				"Id": 79,
+				"Date": "Sep 06 2021",
+				"Word": "FRONT"
+			},
+			{
+				"Id": 80,
+				"Date": "Sep 07 2021",
+				"Word": "SHRUB"
+			},
+			{
+				"Id": 81,
+				"Date": "Sep 08 2021",
+				"Word": "PARRY"
+			},
+			{
+				"Id": 82,
+				"Date": "Sep 09 2021",
+				"Word": "BIOME"
+			},
+			{
+				"Id": 83,
+				"Date": "Sep 10 2021",
+				"Word": "LAPEL"
+			},
+			{
+				"Id": 84,
+				"Date": "Sep 11 2021",
+				"Word": "START"
+			},
+			{
+				"Id": 85,
+				"Date": "Sep 12 2021",
+				"Word": "GREET"
+			},
+			{
+				"Id": 86,
+				"Date": "Sep 13 2021",
+				"Word": "GONER"
+			},
+			{
+				"Id": 87,
+				"Date": "Sep 14 2021",
+				"Word": "GOLEM"
+			},
+			{
+				"Id": 88,
+				"Date": "Sep 15 2021",
+				"Word": "LUSTY"
+			},
+			{
+				"Id": 89,
+				"Date": "Sep 16 2021",
+				"Word": "LOOPY"
+			},
+			{
+				"Id": 90,
+				"Date": "Sep 17 2021",
+				"Word": "ROUND"
+			},
+			{
+				"Id": 91,
+				"Date": "Sep 18 2021",
+				"Word": "AUDIT"
+			},
+			{
+				"Id": 92,
+				"Date": "Sep 19 2021",
+				"Word": "LYING"
+			},
+			{
+				"Id": 93,
+				"Date": "Sep 20 2021",
+				"Word": "GAMMA"
+			},
+			{
+				"Id": 94,
+				"Date": "Sep 21 2021",
+				"Word": "LABOR"
+			},
+			{
+				"Id": 95,
+				"Date": "Sep 22 2021",
+				"Word": "ISLET"
+			},
+			{
+				"Id": 96,
+				"Date": "Sep 23 2021",
+				"Word": "CIVIC"
+			},
+			{
+				"Id": 97,
+				"Date": "Sep 24 2021",
+				"Word": "FORGE"
+			},
+			{
+				"Id": 98,
+				"Date": "Sep 25 2021",
+				"Word": "CORNY"
+			},
+			{
+				"Id": 99,
+				"Date": "Sep 26 2021",
+				"Word": "MOULT"
+			},
+			{
+				"Id": 100,
+				"Date": "Sep 27 2021",
+				"Word": "BASIC"
+			},
+			{
+				"Id": 101,
+				"Date": "Sep 28 2021",
+				"Word": "SALAD"
+			},
+			{
+				"Id": 102,
+				"Date": "Sep 29 2021",
+				"Word": "AGATE"
+			},
+			{
+				"Id": 103,
+				"Date": "Sep 30 2021",
+				"Word": "SPICY"
+			},
+			{
+				"Id": 104,
+				"Date": "Oct 01 2021",
+				"Word": "SPRAY"
+			},
+			{
+				"Id": 105,
+				"Date": "Oct 02 2021",
+				"Word": "ESSAY"
+			},
+			{
+				"Id": 106,
+				"Date": "Oct 03 2021",
+				"Word": "FJORD"
+			},
+			{
+				"Id": 107,
+				"Date": "Oct 04 2021",
+				"Word": "SPEND"
+			},
+			{
+				"Id": 108,
+				"Date": "Oct 05 2021",
+				"Word": "KEBAB"
+			},
+			{
+				"Id": 109,
+				"Date": "Oct 06 2021",
+				"Word": "GUILD"
+			},
+			{
+				"Id": 110,
+				"Date": "Oct 07 2021",
+				"Word": "ABACK"
+			},
+			{
+				"Id": 111,
+				"Date": "Oct 08 2021",
+				"Word": "MOTOR"
+			},
+			{
+				"Id": 112,
+				"Date": "Oct 09 2021",
+				"Word": "ALONE"
+			},
+			{
+				"Id": 113,
+				"Date": "Oct 10 2021",
+				"Word": "HATCH"
+			},
+			{
+				"Id": 114,
+				"Date": "Oct 11 2021",
+				"Word": "HYPER"
+			},
+			{
+				"Id": 115,
+				"Date": "Oct 12 2021",
+				"Word": "THUMB"
+			},
+			{
+				"Id": 116,
+				"Date": "Oct 13 2021",
+				"Word": "DOWRY"
+			},
+			{
+				"Id": 117,
+				"Date": "Oct 14 2021",
+				"Word": "OUGHT"
+			},
+			{
+				"Id": 118,
+				"Date": "Oct 15 2021",
+				"Word": "BELCH"
+			},
+			{
+				"Id": 119,
+				"Date": "Oct 16 2021",
+				"Word": "DUTCH"
+			},
+			{
+				"Id": 120,
+				"Date": "Oct 17 2021",
+				"Word": "PILOT"
+			},
+			{
+				"Id": 121,
+				"Date": "Oct 18 2021",
+				"Word": "TWEED"
+			},
+			{
+				"Id": 122,
+				"Date": "Oct 19 2021",
+				"Word": "COMET"
+			},
+			{
+				"Id": 123,
+				"Date": "Oct 20 2021",
+				"Word": "JAUNT"
+			},
+			{
+				"Id": 124,
+				"Date": "Oct 21 2021",
+				"Word": "ENEMA"
+			},
+			{
+				"Id": 125,
+				"Date": "Oct 22 2021",
+				"Word": "STEED"
+			},
+			{
+				"Id": 126,
+				"Date": "Oct 23 2021",
+				"Word": "ABYSS"
+			},
+			{
+				"Id": 127,
+				"Date": "Oct 24 2021",
+				"Word": "GROWL"
+			},
+			{
+				"Id": 128,
+				"Date": "Oct 25 2021",
+				"Word": "FLING"
+			},
+			{
+				"Id": 129,
+				"Date": "Oct 26 2021",
+				"Word": "DOZEN"
+			},
+			{
+				"Id": 130,
+				"Date": "Oct 27 2021",
+				"Word": "BOOZY"
+			},
+			{
+				"Id": 131,
+				"Date": "Oct 28 2021",
+				"Word": "ERODE"
+			},
+			{
+				"Id": 132,
+				"Date": "Oct 29 2021",
+				"Word": "WORLD"
+			},
+			{
+				"Id": 133,
+				"Date": "Oct 30 2021",
+				"Word": "GOUGE"
+			},
+			{
+				"Id": 134,
+				"Date": "Oct 31 2021",
+				"Word": "CLICK"
+			},
+			{
+				"Id": 135,
+				"Date": "Nov 01 2021",
+				"Word": "BRIAR"
+			},
+			{
+				"Id": 136,
+				"Date": "Nov 02 2021",
+				"Word": "GREAT"
+			},
+			{
+				"Id": 137,
+				"Date": "Nov 03 2021",
+				"Word": "ALTAR"
+			},
+			{
+				"Id": 138,
+				"Date": "Nov 04 2021",
+				"Word": "PULPY"
+			},
+			{
+				"Id": 139,
+				"Date": "Nov 05 2021",
+				"Word": "BLURT"
+			},
+			{
+				"Id": 140,
+				"Date": "Nov 06 2021",
+				"Word": "COAST"
+			},
+			{
+				"Id": 141,
+				"Date": "Nov 07 2021",
+				"Word": "DUCHY"
+			},
+			{
+				"Id": 142,
+				"Date": "Nov 08 2021",
+				"Word": "GROIN"
+			},
+			{
+				"Id": 143,
+				"Date": "Nov 09 2021",
+				"Word": "FIXER"
+			},
+			{
+				"Id": 144,
+				"Date": "Nov 10 2021",
+				"Word": "GROUP"
+			},
+			{
+				"Id": 145,
+				"Date": "Nov 11 2021",
+				"Word": "ROGUE"
+			},
+			{
+				"Id": 146,
+				"Date": "Nov 12 2021",
+				"Word": "BADLY"
+			},
+			{
+				"Id": 147,
+				"Date": "Nov 13 2021",
+				"Word": "SMART"
+			},
+			{
+				"Id": 148,
+				"Date": "Nov 14 2021",
+				"Word": "PITHY"
+			},
+			{
+				"Id": 149,
+				"Date": "Nov 15 2021",
+				"Word": "GAUDY"
+			},
+			{
+				"Id": 150,
+				"Date": "Nov 16 2021",
+				"Word": "CHILL"
+			},
+			{
+				"Id": 151,
+				"Date": "Nov 17 2021",
+				"Word": "HERON"
+			},
+			{
+				"Id": 152,
+				"Date": "Nov 18 2021",
+				"Word": "VODKA"
+			},
+			{
+				"Id": 153,
+				"Date": "Nov 19 2021",
+				"Word": "FINER"
+			},
+			{
+				"Id": 154,
+				"Date": "Nov 20 2021",
+				"Word": "SURER"
+			},
+			{
+				"Id": 155,
+				"Date": "Nov 21 2021",
+				"Word": "RADIO"
+			},
+			{
+				"Id": 156,
+				"Date": "Nov 22 2021",
+				"Word": "ROUGE"
+			},
+			{
+				"Id": 157,
+				"Date": "Nov 23 2021",
+				"Word": "PERCH"
+			},
+			{
+				"Id": 158,
+				"Date": "Nov 24 2021",
+				"Word": "RETCH"
+			},
+			{
+				"Id": 159,
+				"Date": "Nov 25 2021",
+				"Word": "WROTE"
+			},
+			{
+				"Id": 160,
+				"Date": "Nov 26 2021",
+				"Word": "CLOCK"
+			},
+			{
+				"Id": 161,
+				"Date": "Nov 27 2021",
+				"Word": "TILDE"
+			},
+			{
+				"Id": 162,
+				"Date": "Nov 28 2021",
+				"Word": "STORE"
+			},
+			{
+				"Id": 163,
+				"Date": "Nov 29 2021",
+				"Word": "PROVE"
+			},
+			{
+				"Id": 164,
+				"Date": "Nov 30 2021",
+				"Word": "BRING"
+			},
+			{
+				"Id": 165,
+				"Date": "Dec 01 2021",
+				"Word": "SOLVE"
+			},
+			{
+				"Id": 166,
+				"Date": "Dec 02 2021",
+				"Word": "CHEAT"
+			},
+			{
+				"Id": 167,
+				"Date": "Dec 03 2021",
+				"Word": "GRIME"
+			},
+			{
+				"Id": 168,
+				"Date": "Dec 04 2021",
+				"Word": "EXULT"
+			},
+			{
+				"Id": 169,
+				"Date": "Dec 05 2021",
+				"Word": "USHER"
+			},
+			{
+				"Id": 170,
+				"Date": "Dec 06 2021",
+				"Word": "EPOCH"
+			},
+			{
+				"Id": 171,
+				"Date": "Dec 07 2021",
+				"Word": "TRIAD"
+			},
+			{
+				"Id": 172,
+				"Date": "Dec 08 2021",
+				"Word": "BREAK"
+			},
+			{
+				"Id": 173,
+				"Date": "Dec 09 2021",
+				"Word": "RHINO"
+			},
+			{
+				"Id": 174,
+				"Date": "Dec 10 2021",
+				"Word": "VIRAL"
+			},
+			{
+				"Id": 175,
+				"Date": "Dec 11 2021",
+				"Word": "CONIC"
+			},
+			{
+				"Id": 176,
+				"Date": "Dec 12 2021",
+				"Word": "MASSE"
+			},
+			{
+				"Id": 177,
+				"Date": "Dec 13 2021",
+				"Word": "SONIC"
+			},
+			{
+				"Id": 178,
+				"Date": "Dec 14 2021",
+				"Word": "VITAL"
+			},
+			{
+				"Id": 179,
+				"Date": "Dec 15 2021",
+				"Word": "TRACE"
+			},
+			{
+				"Id": 180,
+				"Date": "Dec 16 2021",
+				"Word": "USING"
+			},
+			{
+				"Id": 181,
+				"Date": "Dec 17 2021",
+				"Word": "PEACH"
+			},
+			{
+				"Id": 182,
+				"Date": "Dec 18 2021",
+				"Word": "CHAMP"
+			},
+			{
+				"Id": 183,
+				"Date": "Dec 19 2021",
+				"Word": "BATON"
+			},
+			{
+				"Id": 184,
+				"Date": "Dec 20 2021",
+				"Word": "BRAKE"
+			},
+			{
+				"Id": 185,
+				"Date": "Dec 21 2021",
+				"Word": "PLUCK"
+			},
+			{
+				"Id": 186,
+				"Date": "Dec 22 2021",
+				"Word": "CRAZE"
+			},
+			{
+				"Id": 187,
+				"Date": "Dec 23 2021",
+				"Word": "GRIPE"
+			},
+			{
+				"Id": 188,
+				"Date": "Dec 24 2021",
+				"Word": "WEARY"
+			},
+			{
+				"Id": 189,
+				"Date": "Dec 25 2021",
+				"Word": "PICKY"
+			},
+			{
+				"Id": 190,
+				"Date": "Dec 26 2021",
+				"Word": "ACUTE"
+			},
+			{
+				"Id": 191,
+				"Date": "Dec 27 2021",
+				"Word": "FERRY"
+			},
+			{
+				"Id": 192,
+				"Date": "Dec 28 2021",
+				"Word": "ASIDE"
+			},
+			{
+				"Id": 193,
+				"Date": "Dec 29 2021",
+				"Word": "TAPIR"
+			},
+			{
+				"Id": 194,
+				"Date": "Dec 30 2021",
+				"Word": "TROLL"
+			},
+			{
+				"Id": 195,
+				"Date": "Dec 31 2021",
+				"Word": "UNIFY"
+			},
+			{
+				"Id": 196,
+				"Date": "Jan 01 2022",
+				"Word": "REBUS"
+			},
+			{
+				"Id": 197,
+				"Date": "Jan 02 2022",
+				"Word": "BOOST"
+			},
+			{
+				"Id": 198,
+				"Date": "Jan 03 2022",
+				"Word": "TRUSS"
+			},
+			{
+				"Id": 199,
+				"Date": "Jan 04 2022",
+				"Word": "SIEGE"
+			},
+			{
+				"Id": 200,
+				"Date": "Jan 05 2022",
+				"Word": "TIGER"
+			},
+			{
+				"Id": 201,
+				"Date": "Jan 06 2022",
+				"Word": "BANAL"
+			},
+			{
+				"Id": 202,
+				"Date": "Jan 07 2022",
+				"Word": "SLUMP"
+			},
+			{
+				"Id": 203,
+				"Date": "Jan 08 2022",
+				"Word": "CRANK"
+			},
+			{
+				"Id": 204,
+				"Date": "Jan 09 2022",
+				"Word": "GORGE"
+			},
+			{
+				"Id": 205,
+				"Date": "Jan 10 2022",
+				"Word": "QUERY"
+			},
+			{
+				"Id": 206,
+				"Date": "Jan 11 2022",
+				"Word": "DRINK"
+			},
+			{
+				"Id": 207,
+				"Date": "Jan 12 2022",
+				"Word": "FAVOR"
+			},
+			{
+				"Id": 208,
+				"Date": "Jan 13 2022",
+				"Word": "ABBEY"
+			},
+			{
+				"Id": 209,
+				"Date": "Jan 14 2022",
+				"Word": "TANGY"
+			},
+			{
+				"Id": 210,
+				"Date": "Jan 15 2022",
+				"Word": "PANIC"
+			},
+			{
+				"Id": 211,
+				"Date": "Jan 16 2022",
+				"Word": "SOLAR"
+			},
+			{
+				"Id": 212,
+				"Date": "Jan 17 2022",
+				"Word": "SHIRE"
+			},
+			{
+				"Id": 213,
+				"Date": "Jan 18 2022",
+				"Word": "PROXY"
+			},
+			{
+				"Id": 214,
+				"Date": "Jan 19 2022",
+				"Word": "POINT"
+			},
+			{
+				"Id": 215,
+				"Date": "Jan 20 2022",
+				"Word": "ROBOT"
+			},
+			{
+				"Id": 216,
+				"Date": "Jan 21 2022",
+				"Word": "PRICK"
+			},
+			{
+				"Id": 217,
+				"Date": "Jan 22 2022",
+				"Word": "WINCE"
+			},
+			{
+				"Id": 218,
+				"Date": "Jan 23 2022",
+				"Word": "CRIMP"
+			},
+			{
+				"Id": 219,
+				"Date": "Jan 24 2022",
+				"Word": "KNOLL"
+			},
+			{
+				"Id": 220,
+				"Date": "Jan 25 2022",
+				"Word": "SUGAR"
+			},
+			{
+				"Id": 221,
+				"Date": "Jan 26 2022",
+				"Word": "WHACK"
+			},
+			{
+				"Id": 222,
+				"Date": "Jan 27 2022",
+				"Word": "MOUNT"
+			},
+			{
+				"Id": 223,
+				"Date": "Jan 28 2022",
+				"Word": "PERKY"
+			},
+			{
+				"Id": 224,
+				"Date": "Jan 29 2022",
+				"Word": "COULD"
+			},
+			{
+				"Id": 225,
+				"Date": "Jan 30 2022",
+				"Word": "WRUNG"
+			},
+			{
+				"Id": 226,
+				"Date": "Jan 31 2022",
+				"Word": "LIGHT"
+			},
+			{
+				"Id": 227,
+				"Date": "Feb 01 2022",
+				"Word": "THOSE"
+			},
+			{
+				"Id": 228,
+				"Date": "Feb 02 2022",
+				"Word": "MOIST"
+			},
+			{
+				"Id": 229,
+				"Date": "Feb 03 2022",
+				"Word": "SHARD"
+			},
+			{
+				"Id": 230,
+				"Date": "Feb 04 2022",
+				"Word": "PLEAT"
+			},
+			{
+				"Id": 231,
+				"Date": "Feb 05 2022",
+				"Word": "ALOFT"
+			},
+			{
+				"Id": 232,
+				"Date": "Feb 06 2022",
+				"Word": "SKILL"
+			},
+			{
+				"Id": 233,
+				"Date": "Feb 07 2022",
+				"Word": "ELDER"
+			},
+			{
+				"Id": 234,
+				"Date": "Feb 08 2022",
+				"Word": "FRAME"
+			},
+			{
+				"Id": 235,
+				"Date": "Feb 09 2022",
+				"Word": "HUMOR"
+			},
+			{
+				"Id": 236,
+				"Date": "Feb 10 2022",
+				"Word": "PAUSE"
+			},
+			{
+				"Id": 237,
+				"Date": "Feb 11 2022",
+				"Word": "ULCER"
+			},
+			{
+				"Id": 238,
+				"Date": "Feb 12 2022",
+				"Word": "ULTRA"
+			},
+			{
+				"Id": 239,
+				"Date": "Feb 13 2022",
+				"Word": "ROBIN"
+			},
+			{
+				"Id": 240,
+				"Date": "Feb 14 2022",
+				"Word": "CYNIC"
+			},
+			{
+				"Id": 241,
+				"Date": "Feb 15 2022",
+				"Word": "AGORA"
+			},
+			{
+				"Id": 242,
+				"Date": "Feb 16 2022",
+				"Word": "AROMA"
+			},
+			{
+				"Id": 243,
+				"Date": "Feb 17 2022",
+				"Word": "CAULK"
+			},
+			{
+				"Id": 244,
+				"Date": "Feb 18 2022",
+				"Word": "SHAKE"
+			},
+			{
+				"Id": 245,
+				"Date": "Feb 19 2022",
+				"Word": "PUPAL"
+			},
+			{
+				"Id": 246,
+				"Date": "Feb 20 2022",
+				"Word": "DODGE"
+			},
+			{
+				"Id": 247,
+				"Date": "Feb 21 2022",
+				"Word": "SWILL"
+			},
+			{
+				"Id": 248,
+				"Date": "Feb 22 2022",
+				"Word": "TACIT"
+			},
+			{
+				"Id": 249,
+				"Date": "Feb 23 2022",
+				"Word": "OTHER"
+			},
+			{
+				"Id": 250,
+				"Date": "Feb 24 2022",
+				"Word": "THORN"
+			},
+			{
+				"Id": 251,
+				"Date": "Feb 25 2022",
+				"Word": "TROVE"
+			},
+			{
+				"Id": 252,
+				"Date": "Feb 26 2022",
+				"Word": "BLOKE"
+			},
+			{
+				"Id": 253,
+				"Date": "Feb 27 2022",
+				"Word": "VIVID"
+			},
+			{
+				"Id": 254,
+				"Date": "Feb 28 2022",
+				"Word": "SPILL"
+			},
+			{
+				"Id": 255,
+				"Date": "Mar 01 2022",
+				"Word": "CHANT"
+			},
+			{
+				"Id": 256,
+				"Date": "Mar 02 2022",
+				"Word": "CHOKE"
+			},
+			{
+				"Id": 257,
+				"Date": "Mar 03 2022",
+				"Word": "RUPEE"
+			},
+			{
+				"Id": 258,
+				"Date": "Mar 04 2022",
+				"Word": "NASTY"
+			},
+			{
+				"Id": 259,
+				"Date": "Mar 05 2022",
+				"Word": "MOURN"
+			},
+			{
+				"Id": 260,
+				"Date": "Mar 06 2022",
+				"Word": "AHEAD"
+			},
+			{
+				"Id": 261,
+				"Date": "Mar 07 2022",
+				"Word": "BRINE"
+			},
+			{
+				"Id": 262,
+				"Date": "Mar 08 2022",
+				"Word": "CLOTH"
+			},
+			{
+				"Id": 263,
+				"Date": "Mar 09 2022",
+				"Word": "HOARD"
+			},
+			{
+				"Id": 264,
+				"Date": "Mar 10 2022",
+				"Word": "SWEET"
+			},
+			{
+				"Id": 265,
+				"Date": "Mar 11 2022",
+				"Word": "MONTH"
+			},
+			{
+				"Id": 266,
+				"Date": "Mar 12 2022",
+				"Word": "LAPSE"
+			},
+			{
+				"Id": 267,
+				"Date": "Mar 13 2022",
+				"Word": "WATCH"
+			},
+			{
+				"Id": 268,
+				"Date": "Mar 14 2022",
+				"Word": "TODAY"
+			},
+			{
+				"Id": 269,
+				"Date": "Mar 15 2022",
+				"Word": "FOCUS"
+			},
+			{
+				"Id": 270,
+				"Date": "Mar 16 2022",
+				"Word": "SMELT"
+			},
+			{
+				"Id": 271,
+				"Date": "Mar 17 2022",
+				"Word": "TEASE"
+			},
+			{
+				"Id": 272,
+				"Date": "Mar 18 2022",
+				"Word": "CATER"
+			},
+			{
+				"Id": 273,
+				"Date": "Mar 19 2022",
+				"Word": "MOVIE"
+			},
+			{
+				"Id": 274,
+				"Date": "Mar 20 2022",
+				"Word": "LYNCH"
+			},
+			{
+				"Id": 275,
+				"Date": "Mar 21 2022",
+				"Word": "SAUTE"
+			},
+			{
+				"Id": 276,
+				"Date": "Mar 22 2022",
+				"Word": "ALLOW"
+			},
+			{
+				"Id": 277,
+				"Date": "Mar 23 2022",
+				"Word": "RENEW"
+			},
+			{
+				"Id": 278,
+				"Date": "Mar 24 2022",
+				"Word": "THEIR"
+			},
+			{
+				"Id": 279,
+				"Date": "Mar 25 2022",
+				"Word": "SLOSH"
+			},
+			{
+				"Id": 280,
+				"Date": "Mar 26 2022",
+				"Word": "PURGE"
+			},
+			{
+				"Id": 281,
+				"Date": "Mar 27 2022",
+				"Word": "CHEST"
+			},
+			{
+				"Id": 282,
+				"Date": "Mar 28 2022",
+				"Word": "DEPOT"
+			},
+			{
+				"Id": 283,
+				"Date": "Mar 29 2022",
+				"Word": "EPOXY"
+			},
+			{
+				"Id": 284,
+				"Date": "Mar 30 2022",
+				"Word": "NYMPH"
+			},
+			{
+				"Id": 285,
+				"Date": "Mar 31 2022",
+				"Word": "FOUND"
+			},
+			{
+				"Id": 286,
+				"Date": "Apr 01 2022",
+				"Word": "SHALL"
+			},
+			{
+				"Id": 287,
+				"Date": "Apr 02 2022",
+				"Word": "HARRY"
+			},
+			{
+				"Id": 288,
+				"Date": "Apr 03 2022",
+				"Word": "STOVE"
+			},
+			{
+				"Id": 289,
+				"Date": "Apr 04 2022",
+				"Word": "LOWLY"
+			},
+			{
+				"Id": 290,
+				"Date": "Apr 05 2022",
+				"Word": "SNOUT"
+			},
+			{
+				"Id": 291,
+				"Date": "Apr 06 2022",
+				"Word": "TROPE"
+			},
+			{
+				"Id": 292,
+				"Date": "Apr 07 2022",
+				"Word": "FEWER"
+			},
+			{
+				"Id": 293,
+				"Date": "Apr 08 2022",
+				"Word": "SHAWL"
+			},
+			{
+				"Id": 294,
+				"Date": "Apr 09 2022",
+				"Word": "NATAL"
+			},
+			{
+				"Id": 295,
+				"Date": "Apr 10 2022",
+				"Word": "FIBRE"
+			},
+			{
+				"Id": 296,
+				"Date": "Apr 11 2022",
+				"Word": "COMMA"
+			},
+			{
+				"Id": 297,
+				"Date": "Apr 12 2022",
+				"Word": "FORAY"
+			},
+			{
+				"Id": 298,
+				"Date": "Apr 13 2022",
+				"Word": "SCARE"
+			},
+			{
+				"Id": 299,
+				"Date": "Apr 14 2022",
+				"Word": "STAIR"
+			},
+			{
+				"Id": 300,
+				"Date": "Apr 15 2022",
+				"Word": "BLACK"
+			},
+			{
+				"Id": 301,
+				"Date": "Apr 16 2022",
+				"Word": "SQUAD"
+			},
+			{
+				"Id": 302,
+				"Date": "Apr 17 2022",
+				"Word": "ROYAL"
+			},
+			{
+				"Id": 303,
+				"Date": "Apr 18 2022",
+				"Word": "CHUNK"
+			},
+			{
+				"Id": 304,
+				"Date": "Apr 19 2022",
+				"Word": "MINCE"
+			},
+			{
+				"Id": 305,
+				"Date": "Apr 20 2022",
+				"Word": "SLAVE"
+			},
+			{
+				"Id": 306,
+				"Date": "Apr 21 2022",
+				"Word": "SHAME"
+			},
+			{
+				"Id": 307,
+				"Date": "Apr 22 2022",
+				"Word": "CHEEK"
+			},
+			{
+				"Id": 308,
+				"Date": "Apr 23 2022",
+				"Word": "AMPLE"
+			},
+			{
+				"Id": 309,
+				"Date": "Apr 24 2022",
+				"Word": "FLAIR"
+			},
+			{
+				"Id": 310,
+				"Date": "Apr 25 2022",
+				"Word": "FOYER"
+			},
+			{
+				"Id": 311,
+				"Date": "Apr 26 2022",
+				"Word": "CARGO"
+			},
+			{
+				"Id": 312,
+				"Date": "Apr 27 2022",
+				"Word": "OXIDE"
+			},
+			{
+				"Id": 313,
+				"Date": "Apr 28 2022",
+				"Word": "PLANT"
+			},
+			{
+				"Id": 314,
+				"Date": "Apr 29 2022",
+				"Word": "OLIVE"
+			},
+			{
+				"Id": 315,
+				"Date": "Apr 30 2022",
+				"Word": "INERT"
+			},
+			{
+				"Id": 316,
+				"Date": "May 01 2022",
+				"Word": "ASKEW"
+			},
+			{
+				"Id": 317,
+				"Date": "May 02 2022",
+				"Word": "HEIST"
+			},
+			{
+				"Id": 318,
+				"Date": "May 03 2022",
+				"Word": "SHOWN"
+			},
+			{
+				"Id": 319,
+				"Date": "May 04 2022",
+				"Word": "ZESTY"
+			},
+			{
+				"Id": 320,
+				"Date": "May 05 2022",
+				"Word": "HASTY"
+			},
+			{
+				"Id": 321,
+				"Date": "May 06 2022",
+				"Word": "TRASH"
+			},
+			{
+				"Id": 322,
+				"Date": "May 07 2022",
+				"Word": "FELLA"
+			},
+			{
+				"Id": 323,
+				"Date": "May 08 2022",
+				"Word": "LARVA"
+			},
+			{
+				"Id": 324,
+				"Date": "May 09 2022",
+				"Word": "FORGO"
+			},
+			{
+				"Id": 325,
+				"Date": "May 10 2022",
+				"Word": "STORY"
+			},
+			{
+				"Id": 326,
+				"Date": "May 11 2022",
+				"Word": "HAIRY"
+			},
+			{
+				"Id": 327,
+				"Date": "May 12 2022",
+				"Word": "TRAIN"
+			},
+			{
+				"Id": 328,
+				"Date": "May 13 2022",
+				"Word": "HOMER"
+			},
+			{
+				"Id": 329,
+				"Date": "May 14 2022",
+				"Word": "BADGE"
+			},
+			{
+				"Id": 330,
+				"Date": "May 15 2022",
+				"Word": "MIDST"
+			},
+			{
+				"Id": 331,
+				"Date": "May 16 2022",
+				"Word": "CANNY"
+			},
+			{
+				"Id": 332,
+				"Date": "May 17 2022",
+				"Word": "FETUS"
+			},
+			{
+				"Id": 333,
+				"Date": "May 18 2022",
+				"Word": "BUTCH"
+			},
+			{
+				"Id": 334,
+				"Date": "May 19 2022",
+				"Word": "FARCE"
+			},
+			{
+				"Id": 335,
+				"Date": "May 20 2022",
+				"Word": "SLUNG"
+			},
+			{
+				"Id": 336,
+				"Date": "May 21 2022",
+				"Word": "TIPSY"
+			},
+			{
+				"Id": 337,
+				"Date": "May 22 2022",
+				"Word": "METAL"
+			},
+			{
+				"Id": 338,
+				"Date": "May 23 2022",
+				"Word": "YIELD"
+			},
+			{
+				"Id": 339,
+				"Date": "May 24 2022",
+				"Word": "DELVE"
+			},
+			{
+				"Id": 340,
+				"Date": "May 25 2022",
+				"Word": "BEING"
+			},
+			{
+				"Id": 341,
+				"Date": "May 26 2022",
+				"Word": "SCOUR"
+			},
+			{
+				"Id": 342,
+				"Date": "May 27 2022",
+				"Word": "GLASS"
+			},
+			{
+				"Id": 343,
+				"Date": "May 28 2022",
+				"Word": "GAMER"
+			},
+			{
+				"Id": 344,
+				"Date": "May 29 2022",
+				"Word": "SCRAP"
+			},
+			{
+				"Id": 345,
+				"Date": "May 30 2022",
+				"Word": "MONEY"
+			},
+			{
+				"Id": 346,
+				"Date": "May 31 2022",
+				"Word": "HINGE"
+			},
+			{
+				"Id": 347,
+				"Date": "Jun 01 2022",
+				"Word": "ALBUM"
+			},
+			{
+				"Id": 348,
+				"Date": "Jun 02 2022",
+				"Word": "VOUCH"
+			},
+			{
+				"Id": 349,
+				"Date": "Jun 03 2022",
+				"Word": "ASSET"
+			},
+			{
+				"Id": 350,
+				"Date": "Jun 04 2022",
+				"Word": "TIARA"
+			},
+			{
+				"Id": 351,
+				"Date": "Jun 05 2022",
+				"Word": "CREPT"
+			},
+			{
+				"Id": 352,
+				"Date": "Jun 06 2022",
+				"Word": "BAYOU"
+			},
+			{
+				"Id": 353,
+				"Date": "Jun 07 2022",
+				"Word": "ATOLL"
+			},
+			{
+				"Id": 354,
+				"Date": "Jun 08 2022",
+				"Word": "MANOR"
+			},
+			{
+				"Id": 355,
+				"Date": "Jun 09 2022",
+				"Word": "CREAK"
+			},
+			{
+				"Id": 356,
+				"Date": "Jun 10 2022",
+				"Word": "SHOWY"
+			},
+			{
+				"Id": 357,
+				"Date": "Jun 11 2022",
+				"Word": "PHASE"
+			},
+			{
+				"Id": 358,
+				"Date": "Jun 12 2022",
+				"Word": "FROTH"
+			},
+			{
+				"Id": 359,
+				"Date": "Jun 13 2022",
+				"Word": "DEPTH"
+			},
+			{
+				"Id": 360,
+				"Date": "Jun 14 2022",
+				"Word": "GLOOM"
+			},
+			{
+				"Id": 361,
+				"Date": "Jun 15 2022",
+				"Word": "FLOOD"
+			},
+			{
+				"Id": 362,
+				"Date": "Jun 16 2022",
+				"Word": "TRAIT"
+			},
+			{
+				"Id": 363,
+				"Date": "Jun 17 2022",
+				"Word": "GIRTH"
+			},
+			{
+				"Id": 364,
+				"Date": "Jun 18 2022",
+				"Word": "PIETY"
+			},
+			{
+				"Id": 365,
+				"Date": "Jun 19 2022",
+				"Word": "PAYER"
+			},
+			{
+				"Id": 366,
+				"Date": "Jun 20 2022",
+				"Word": "GOOSE"
+			},
+			{
+				"Id": 367,
+				"Date": "Jun 21 2022",
+				"Word": "FLOAT"
+			},
+			{
+				"Id": 368,
+				"Date": "Jun 22 2022",
+				"Word": "DONOR"
+			},
+			{
+				"Id": 369,
+				"Date": "Jun 23 2022",
+				"Word": "ATONE"
+			},
+			{
+				"Id": 370,
+				"Date": "Jun 24 2022",
+				"Word": "PRIMO"
+			},
+			{
+				"Id": 371,
+				"Date": "Jun 25 2022",
+				"Word": "APRON"
+			},
+			{
+				"Id": 372,
+				"Date": "Jun 26 2022",
+				"Word": "BLOWN"
+			},
+			{
+				"Id": 373,
+				"Date": "Jun 27 2022",
+				"Word": "CACAO"
+			},
+			{
+				"Id": 374,
+				"Date": "Jun 28 2022",
+				"Word": "LOSER"
+			},
+			{
+				"Id": 375,
+				"Date": "Jun 29 2022",
+				"Word": "INPUT"
+			},
+			{
+				"Id": 376,
+				"Date": "Jun 30 2022",
+				"Word": "GLOAT"
+			},
+			{
+				"Id": 377,
+				"Date": "Jul 01 2022",
+				"Word": "AWFUL"
+			},
+			{
+				"Id": 378,
+				"Date": "Jul 02 2022",
+				"Word": "BRINK"
+			},
+			{
+				"Id": 379,
+				"Date": "Jul 03 2022",
+				"Word": "SMITE"
+			},
+			{
+				"Id": 380,
+				"Date": "Jul 04 2022",
+				"Word": "BEADY"
+			},
+			{
+				"Id": 381,
+				"Date": "Jul 05 2022",
+				"Word": "RUSTY"
+			},
+			{
+				"Id": 382,
+				"Date": "Jul 06 2022",
+				"Word": "RETRO"
+			},
+			{
+				"Id": 383,
+				"Date": "Jul 07 2022",
+				"Word": "DROLL"
+			},
+			{
+				"Id": 384,
+				"Date": "Jul 08 2022",
+				"Word": "GAWKY"
+			},
+			{
+				"Id": 385,
+				"Date": "Jul 09 2022",
+				"Word": "HUTCH"
+			},
+			{
+				"Id": 386,
+				"Date": "Jul 10 2022",
+				"Word": "PINTO"
+			},
+			{
+				"Id": 387,
+				"Date": "Jul 11 2022",
+				"Word": "GAILY"
+			},
+			{
+				"Id": 388,
+				"Date": "Jul 12 2022",
+				"Word": "EGRET"
+			},
+			{
+				"Id": 389,
+				"Date": "Jul 13 2022",
+				"Word": "LILAC"
+			},
+			{
+				"Id": 390,
+				"Date": "Jul 14 2022",
+				"Word": "SEVER"
+			},
+			{
+				"Id": 391,
+				"Date": "Jul 15 2022",
+				"Word": "FIELD"
+			},
+			{
+				"Id": 392,
+				"Date": "Jul 16 2022",
+				"Word": "FLUFF"
+			},
+			{
+				"Id": 393,
+				"Date": "Jul 17 2022",
+				"Word": "HYDRO"
+			},
+			{
+				"Id": 394,
+				"Date": "Jul 18 2022",
+				"Word": "FLACK"
+			},
+			{
+				"Id": 395,
+				"Date": "Jul 19 2022",
+				"Word": "AGAPE"
+			},
+			{
+				"Id": 396,
+				"Date": "Jul 20 2022",
+				"Word": "WENCH"
+			},
+			{
+				"Id": 397,
+				"Date": "Jul 21 2022",
+				"Word": "VOICE"
+			},
+			{
+				"Id": 398,
+				"Date": "Jul 22 2022",
+				"Word": "STEAD"
+			},
+			{
+				"Id": 399,
+				"Date": "Jul 23 2022",
+				"Word": "STALK"
+			},
+			{
+				"Id": 400,
+				"Date": "Jul 24 2022",
+				"Word": "BERTH"
+			},
+			{
+				"Id": 401,
+				"Date": "Jul 25 2022",
+				"Word": "MADAM"
+			},
+			{
+				"Id": 402,
+				"Date": "Jul 26 2022",
+				"Word": "NIGHT"
+			},
+			{
+				"Id": 403,
+				"Date": "Jul 27 2022",
+				"Word": "BLAND"
+			},
+			{
+				"Id": 404,
+				"Date": "Jul 28 2022",
+				"Word": "LIVER"
+			},
+			{
+				"Id": 405,
+				"Date": "Jul 29 2022",
+				"Word": "WEDGE"
+			},
+			{
+				"Id": 406,
+				"Date": "Jul 30 2022",
+				"Word": "AUGUR"
+			},
+			{
+				"Id": 407,
+				"Date": "Jul 31 2022",
+				"Word": "ROOMY"
+			},
+			{
+				"Id": 408,
+				"Date": "Aug 01 2022",
+				"Word": "WACKY"
+			},
+			{
+				"Id": 409,
+				"Date": "Aug 02 2022",
+				"Word": "FLOCK"
+			},
+			{
+				"Id": 410,
+				"Date": "Aug 03 2022",
+				"Word": "ANGRY"
+			},
+			{
+				"Id": 411,
+				"Date": "Aug 04 2022",
+				"Word": "BOBBY"
+			},
+			{
+				"Id": 412,
+				"Date": "Aug 05 2022",
+				"Word": "TRITE"
+			},
+			{
+				"Id": 413,
+				"Date": "Aug 06 2022",
+				"Word": "APHID"
+			},
+			{
+				"Id": 414,
+				"Date": "Aug 07 2022",
+				"Word": "TRYST"
+			},
+			{
+				"Id": 415,
+				"Date": "Aug 08 2022",
+				"Word": "MIDGE"
+			},
+			{
+				"Id": 416,
+				"Date": "Aug 09 2022",
+				"Word": "POWER"
+			},
+			{
+				"Id": 417,
+				"Date": "Aug 10 2022",
+				"Word": "ELOPE"
+			},
+			{
+				"Id": 418,
+				"Date": "Aug 11 2022",
+				"Word": "CINCH"
+			},
+			{
+				"Id": 419,
+				"Date": "Aug 12 2022",
+				"Word": "MOTTO"
+			},
+			{
+				"Id": 420,
+				"Date": "Aug 13 2022",
+				"Word": "STOMP"
+			},
+			{
+				"Id": 421,
+				"Date": "Aug 14 2022",
+				"Word": "UPSET"
+			},
+			{
+				"Id": 422,
+				"Date": "Aug 15 2022",
+				"Word": "BLUFF"
+			},
+			{
+				"Id": 423,
+				"Date": "Aug 16 2022",
+				"Word": "CRAMP"
+			},
+			{
+				"Id": 424,
+				"Date": "Aug 17 2022",
+				"Word": "QUART"
+			},
+			{
+				"Id": 425,
+				"Date": "Aug 18 2022",
+				"Word": "COYLY"
+			},
+			{
+				"Id": 426,
+				"Date": "Aug 19 2022",
+				"Word": "YOUTH"
+			},
+			{
+				"Id": 427,
+				"Date": "Aug 20 2022",
+				"Word": "RHYME"
+			},
+			{
+				"Id": 428,
+				"Date": "Aug 21 2022",
+				"Word": "BUGGY"
+			},
+			{
+				"Id": 429,
+				"Date": "Aug 22 2022",
+				"Word": "ALIEN"
+			},
+			{
+				"Id": 430,
+				"Date": "Aug 23 2022",
+				"Word": "SMEAR"
+			},
+			{
+				"Id": 431,
+				"Date": "Aug 24 2022",
+				"Word": "UNFIT"
+			},
+			{
+				"Id": 432,
+				"Date": "Aug 25 2022",
+				"Word": "PATTY"
+			},
+			{
+				"Id": 433,
+				"Date": "Aug 26 2022",
+				"Word": "CLING"
+			},
+			{
+				"Id": 434,
+				"Date": "Aug 27 2022",
+				"Word": "GLEAN"
+			},
+			{
+				"Id": 435,
+				"Date": "Aug 28 2022",
+				"Word": "LABEL"
+			},
+			{
+				"Id": 436,
+				"Date": "Aug 29 2022",
+				"Word": "HUNKY"
+			},
+			{
+				"Id": 437,
+				"Date": "Aug 30 2022",
+				"Word": "KHAKI"
+			},
+			{
+				"Id": 438,
+				"Date": "Aug 31 2022",
+				"Word": "POKER"
+			},
+			{
+				"Id": 439,
+				"Date": "Sep 01 2022",
+				"Word": "GRUEL"
+			},
+			{
+				"Id": 440,
+				"Date": "Sep 02 2022",
+				"Word": "TWICE"
+			},
+			{
+				"Id": 441,
+				"Date": "Sep 03 2022",
+				"Word": "TWANG"
+			},
+			{
+				"Id": 442,
+				"Date": "Sep 04 2022",
+				"Word": "SHRUG"
+			},
+			{
+				"Id": 443,
+				"Date": "Sep 05 2022",
+				"Word": "TREAT"
+			},
+			{
+				"Id": 444,
+				"Date": "Sep 06 2022",
+				"Word": "UNLIT"
+			},
+			{
+				"Id": 445,
+				"Date": "Sep 07 2022",
+				"Word": "WASTE"
+			},
+			{
+				"Id": 446,
+				"Date": "Sep 08 2022",
+				"Word": "MERIT"
+			},
+			{
+				"Id": 447,
+				"Date": "Sep 09 2022",
+				"Word": "WOVEN"
+			},
+			{
+				"Id": 448,
+				"Date": "Sep 10 2022",
+				"Word": "OCTAL"
+			},
+			{
+				"Id": 449,
+				"Date": "Sep 11 2022",
+				"Word": "NEEDY"
+			},
+			{
+				"Id": 450,
+				"Date": "Sep 12 2022",
+				"Word": "CLOWN"
+			},
+			{
+				"Id": 451,
+				"Date": "Sep 13 2022",
+				"Word": "WIDOW"
+			},
+			{
+				"Id": 452,
+				"Date": "Sep 14 2022",
+				"Word": "IRONY"
+			},
+			{
+				"Id": 453,
+				"Date": "Sep 15 2022",
+				"Word": "RUDER"
+			},
+			{
+				"Id": 454,
+				"Date": "Sep 16 2022",
+				"Word": "GAUZE"
+			},
+			{
+				"Id": 455,
+				"Date": "Sep 17 2022",
+				"Word": "CHIEF"
+			},
+			{
+				"Id": 456,
+				"Date": "Sep 18 2022",
+				"Word": "ONSET"
+			},
+			{
+				"Id": 457,
+				"Date": "Sep 19 2022",
+				"Word": "PRIZE"
+			},
+			{
+				"Id": 458,
+				"Date": "Sep 20 2022",
+				"Word": "FUNGI"
+			},
+			{
+				"Id": 459,
+				"Date": "Sep 21 2022",
+				"Word": "CHARM"
+			},
+			{
+				"Id": 460,
+				"Date": "Sep 22 2022",
+				"Word": "GULLY"
+			},
+			{
+				"Id": 461,
+				"Date": "Sep 23 2022",
+				"Word": "INTER"
+			},
+			{
+				"Id": 462,
+				"Date": "Sep 24 2022",
+				"Word": "WHOOP"
+			},
+			{
+				"Id": 463,
+				"Date": "Sep 25 2022",
+				"Word": "TAUNT"
+			},
+			{
+				"Id": 464,
+				"Date": "Sep 26 2022",
+				"Word": "LEERY"
+			},
+			{
+				"Id": 465,
+				"Date": "Sep 27 2022",
+				"Word": "CLASS"
+			},
+			{
+				"Id": 466,
+				"Date": "Sep 28 2022",
+				"Word": "THEME"
+			},
+			{
+				"Id": 467,
+				"Date": "Sep 29 2022",
+				"Word": "LOFTY"
+			},
+			{
+				"Id": 468,
+				"Date": "Sep 30 2022",
+				"Word": "TIBIA"
+			},
+			{
+				"Id": 469,
+				"Date": "Oct 01 2022",
+				"Word": "BOOZE"
+			},
+			{
+				"Id": 470,
+				"Date": "Oct 02 2022",
+				"Word": "ALPHA"
+			},
+			{
+				"Id": 471,
+				"Date": "Oct 03 2022",
+				"Word": "THYME"
+			},
+			{
+				"Id": 472,
+				"Date": "Oct 04 2022",
+				"Word": "ECLAT"
+			},
+			{
+				"Id": 473,
+				"Date": "Oct 05 2022",
+				"Word": "DOUBT"
+			},
+			{
+				"Id": 474,
+				"Date": "Oct 06 2022",
+				"Word": "PARER"
+			},
+			{
+				"Id": 475,
+				"Date": "Oct 07 2022",
+				"Word": "CHUTE"
+			},
+			{
+				"Id": 476,
+				"Date": "Oct 08 2022",
+				"Word": "STICK"
+			},
+			{
+				"Id": 477,
+				"Date": "Oct 09 2022",
+				"Word": "TRICE"
+			},
+			{
+				"Id": 478,
+				"Date": "Oct 10 2022",
+				"Word": "ALIKE"
+			},
+			{
+				"Id": 479,
+				"Date": "Oct 11 2022",
+				"Word": "SOOTH"
+			},
+			{
+				"Id": 480,
+				"Date": "Oct 12 2022",
+				"Word": "RECAP"
+			},
+			{
+				"Id": 481,
+				"Date": "Oct 13 2022",
+				"Word": "SAINT"
+			},
+			{
+				"Id": 482,
+				"Date": "Oct 14 2022",
+				"Word": "LIEGE"
+			},
+			{
+				"Id": 483,
+				"Date": "Oct 15 2022",
+				"Word": "GLORY"
+			},
+			{
+				"Id": 484,
+				"Date": "Oct 16 2022",
+				"Word": "GRATE"
+			},
+			{
+				"Id": 485,
+				"Date": "Oct 17 2022",
+				"Word": "ADMIT"
+			},
+			{
+				"Id": 486,
+				"Date": "Oct 18 2022",
+				"Word": "BRISK"
+			},
+			{
+				"Id": 487,
+				"Date": "Oct 19 2022",
+				"Word": "SOGGY"
+			},
+			{
+				"Id": 488,
+				"Date": "Oct 20 2022",
+				"Word": "USURP"
+			},
+			{
+				"Id": 489,
+				"Date": "Oct 21 2022",
+				"Word": "SCALD"
+			},
+			{
+				"Id": 490,
+				"Date": "Oct 22 2022",
+				"Word": "SCORN"
+			},
+			{
+				"Id": 491,
+				"Date": "Oct 23 2022",
+				"Word": "LEAVE"
+			},
+			{
+				"Id": 492,
+				"Date": "Oct 24 2022",
+				"Word": "TWINE"
+			},
+			{
+				"Id": 493,
+				"Date": "Oct 25 2022",
+				"Word": "STING"
+			},
+			{
+				"Id": 494,
+				"Date": "Oct 26 2022",
+				"Word": "BOUGH"
+			},
+			{
+				"Id": 495,
+				"Date": "Oct 27 2022",
+				"Word": "MARSH"
+			},
+			{
+				"Id": 496,
+				"Date": "Oct 28 2022",
+				"Word": "SLOTH"
+			},
+			{
+				"Id": 497,
+				"Date": "Oct 29 2022",
+				"Word": "DANDY"
+			},
+			{
+				"Id": 498,
+				"Date": "Oct 30 2022",
+				"Word": "VIGOR"
+			},
+			{
+				"Id": 499,
+				"Date": "Oct 31 2022",
+				"Word": "HOWDY"
+			},
+			{
+				"Id": 500,
+				"Date": "Nov 01 2022",
+				"Word": "ENJOY"
+			},
+			{
+				"Id": 501,
+				"Date": "Nov 02 2022",
+				"Word": "VALID"
+			},
+			{
+				"Id": 502,
+				"Date": "Nov 03 2022",
+				"Word": "IONIC"
+			},
+			{
+				"Id": 503,
+				"Date": "Nov 04 2022",
+				"Word": "EQUAL"
+			},
+			{
+				"Id": 504,
+				"Date": "Nov 05 2022",
+				"Word": "UNSET"
+			},
+			{
+				"Id": 505,
+				"Date": "Nov 06 2022",
+				"Word": "FLOOR"
+			},
+			{
+				"Id": 506,
+				"Date": "Nov 07 2022",
+				"Word": "CATCH"
+			},
+			{
+				"Id": 507,
+				"Date": "Nov 08 2022",
+				"Word": "SPADE"
+			},
+			{
+				"Id": 508,
+				"Date": "Nov 09 2022",
+				"Word": "STEIN"
+			},
+			{
+				"Id": 509,
+				"Date": "Nov 10 2022",
+				"Word": "EXIST"
+			},
+			{
+				"Id": 510,
+				"Date": "Nov 11 2022",
+				"Word": "QUIRK"
+			},
+			{
+				"Id": 511,
+				"Date": "Nov 12 2022",
+				"Word": "DENIM"
+			},
+			{
+				"Id": 512,
+				"Date": "Nov 13 2022",
+				"Word": "GROVE"
+			},
+			{
+				"Id": 513,
+				"Date": "Nov 14 2022",
+				"Word": "SPIEL"
+			},
+			{
+				"Id": 514,
+				"Date": "Nov 15 2022",
+				"Word": "MUMMY"
+			},
+			{
+				"Id": 515,
+				"Date": "Nov 16 2022",
+				"Word": "FAULT"
+			},
+			{
+				"Id": 516,
+				"Date": "Nov 17 2022",
+				"Word": "FOGGY"
+			},
+			{
+				"Id": 517,
+				"Date": "Nov 18 2022",
+				"Word": "FLOUT"
+			},
+			{
+				"Id": 518,
+				"Date": "Nov 19 2022",
+				"Word": "CARRY"
+			},
+			{
+				"Id": 519,
+				"Date": "Nov 20 2022",
+				"Word": "SNEAK"
+			},
+			{
+				"Id": 520,
+				"Date": "Nov 21 2022",
+				"Word": "LIBEL"
+			},
+			{
+				"Id": 521,
+				"Date": "Nov 22 2022",
+				"Word": "WALTZ"
+			},
+			{
+				"Id": 522,
+				"Date": "Nov 23 2022",
+				"Word": "APTLY"
+			},
+			{
+				"Id": 523,
+				"Date": "Nov 24 2022",
+				"Word": "PINEY"
+			},
+			{
+				"Id": 524,
+				"Date": "Nov 25 2022",
+				"Word": "INEPT"
+			},
+			{
+				"Id": 525,
+				"Date": "Nov 26 2022",
+				"Word": "ALOUD"
+			},
+			{
+				"Id": 526,
+				"Date": "Nov 27 2022",
+				"Word": "PHOTO"
+			},
+			{
+				"Id": 527,
+				"Date": "Nov 28 2022",
+				"Word": "DREAM"
+			},
+			{
+				"Id": 528,
+				"Date": "Nov 29 2022",
+				"Word": "STALE"
+			},
+			{
+				"Id": 529,
+				"Date": "Nov 30 2022",
+				"Word": "VOMIT"
+			},
+			{
+				"Id": 530,
+				"Date": "Dec 01 2022",
+				"Word": "OMBRE"
+			},
+			{
+				"Id": 531,
+				"Date": "Dec 02 2022",
+				"Word": "FANNY"
+			},
+			{
+				"Id": 532,
+				"Date": "Dec 03 2022",
+				"Word": "UNITE"
+			},
+			{
+				"Id": 533,
+				"Date": "Dec 04 2022",
+				"Word": "SNARL"
+			},
+			{
+				"Id": 534,
+				"Date": "Dec 05 2022",
+				"Word": "BAKER"
+			},
+			{
+				"Id": 535,
+				"Date": "Dec 06 2022",
+				"Word": "THERE"
+			},
+			{
+				"Id": 536,
+				"Date": "Dec 07 2022",
+				"Word": "GLYPH"
+			},
+			{
+				"Id": 537,
+				"Date": "Dec 08 2022",
+				"Word": "POOCH"
+			},
+			{
+				"Id": 538,
+				"Date": "Dec 09 2022",
+				"Word": "HIPPY"
+			},
+			{
+				"Id": 539,
+				"Date": "Dec 10 2022",
+				"Word": "SPELL"
+			},
+			{
+				"Id": 540,
+				"Date": "Dec 11 2022",
+				"Word": "FOLLY"
+			},
+			{
+				"Id": 541,
+				"Date": "Dec 12 2022",
+				"Word": "LOUSE"
+			},
+			{
+				"Id": 542,
+				"Date": "Dec 13 2022",
+				"Word": "GULCH"
+			},
+			{
+				"Id": 543,
+				"Date": "Dec 14 2022",
+				"Word": "VAULT"
+			},
+			{
+				"Id": 544,
+				"Date": "Dec 15 2022",
+				"Word": "GODLY"
+			},
+			{
+				"Id": 545,
+				"Date": "Dec 16 2022",
+				"Word": "THREW"
+			},
+			{
+				"Id": 546,
+				"Date": "Dec 17 2022",
+				"Word": "FLEET"
+			},
+			{
+				"Id": 547,
+				"Date": "Dec 18 2022",
+				"Word": "GRAVE"
+			},
+			{
+				"Id": 548,
+				"Date": "Dec 19 2022",
+				"Word": "INANE"
+			},
+			{
+				"Id": 549,
+				"Date": "Dec 20 2022",
+				"Word": "SHOCK"
+			},
+			{
+				"Id": 550,
+				"Date": "Dec 21 2022",
+				"Word": "CRAVE"
+			},
+			{
+				"Id": 551,
+				"Date": "Dec 22 2022",
+				"Word": "SPITE"
+			},
+			{
+				"Id": 552,
+				"Date": "Dec 23 2022",
+				"Word": "VALVE"
+			},
+			{
+				"Id": 553,
+				"Date": "Dec 24 2022",
+				"Word": "SKIMP"
+			},
+			{
+				"Id": 554,
+				"Date": "Dec 25 2022",
+				"Word": "CLAIM"
+			},
+			{
+				"Id": 555,
+				"Date": "Dec 26 2022",
+				"Word": "RAINY"
+			},
+			{
+				"Id": 556,
+				"Date": "Dec 27 2022",
+				"Word": "MUSTY"
+			},
+			{
+				"Id": 557,
+				"Date": "Dec 28 2022",
+				"Word": "PIQUE"
+			},
+			{
+				"Id": 558,
+				"Date": "Dec 29 2022",
+				"Word": "DADDY"
+			},
+			{
+				"Id": 559,
+				"Date": "Dec 30 2022",
+				"Word": "QUASI"
+			},
+			{
+				"Id": 560,
+				"Date": "Dec 31 2022",
+				"Word": "ARISE"
+			},
+			"Dec",
+			32,
+			2022,
+			"Day",
+			560,
+			"DONT",
+			"Dec",
+			33,
+			2022,
+			"Day",
+			560,
+			"REPOST",
+			{
+				"Id": 561,
+				"Date": "Jan 01 2023",
+				"Word": "AGING"
+			},
+			{
+				"Id": 562,
+				"Date": "Jan 02 2023",
+				"Word": "VALET"
+			},
+			{
+				"Id": 563,
+				"Date": "Jan 03 2023",
+				"Word": "OPIUM"
+			},
+			{
+				"Id": 564,
+				"Date": "Jan 04 2023",
+				"Word": "AVERT"
+			},
+			{
+				"Id": 565,
+				"Date": "Jan 05 2023",
+				"Word": "STUCK"
+			},
+			{
+				"Id": 566,
+				"Date": "Jan 06 2023",
+				"Word": "RECUT"
+			},
+			{
+				"Id": 567,
+				"Date": "Jan 07 2023",
+				"Word": "MULCH"
+			},
+			{
+				"Id": 568,
+				"Date": "Jan 08 2023",
+				"Word": "GENRE"
+			},
+			{
+				"Id": 569,
+				"Date": "Jan 09 2023",
+				"Word": "PLUME"
+			},
+			{
+				"Id": 570,
+				"Date": "Jan 10 2023",
+				"Word": "RIFLE"
+			},
+			{
+				"Id": 571,
+				"Date": "Jan 11 2023",
+				"Word": "COUNT"
+			},
+			{
+				"Id": 572,
+				"Date": "Jan 12 2023",
+				"Word": "INCUR"
+			},
+			{
+				"Id": 573,
+				"Date": "Jan 13 2023",
+				"Word": "TOTAL"
+			},
+			{
+				"Id": 574,
+				"Date": "Jan 14 2023",
+				"Word": "WREST"
+			},
+			{
+				"Id": 575,
+				"Date": "Jan 15 2023",
+				"Word": "MOCHA"
+			},
+			{
+				"Id": 576,
+				"Date": "Jan 16 2023",
+				"Word": "DETER"
+			},
+			{
+				"Id": 577,
+				"Date": "Jan 17 2023",
+				"Word": "STUDY"
+			},
+			{
+				"Id": 578,
+				"Date": "Jan 18 2023",
+				"Word": "LOVER"
+			},
+			{
+				"Id": 579,
+				"Date": "Jan 19 2023",
+				"Word": "SAFER"
+			},
+			{
+				"Id": 580,
+				"Date": "Jan 20 2023",
+				"Word": "RIVET"
+			},
+			{
+				"Id": 581,
+				"Date": "Jan 21 2023",
+				"Word": "FUNNY"
+			},
+			{
+				"Id": 582,
+				"Date": "Jan 22 2023",
+				"Word": "SMOKE"
+			},
+			{
+				"Id": 583,
+				"Date": "Jan 23 2023",
+				"Word": "MOUND"
+			},
+			{
+				"Id": 584,
+				"Date": "Jan 24 2023",
+				"Word": "UNDUE"
+			},
+			{
+				"Id": 585,
+				"Date": "Jan 25 2023",
+				"Word": "SEDAN"
+			},
+			{
+				"Id": 586,
+				"Date": "Jan 26 2023",
+				"Word": "PAGAN"
+			},
+			{
+				"Id": 587,
+				"Date": "Jan 27 2023",
+				"Word": "SWINE"
+			},
+			{
+				"Id": 588,
+				"Date": "Jan 28 2023",
+				"Word": "GUILE"
+			},
+			{
+				"Id": 589,
+				"Date": "Jan 29 2023",
+				"Word": "GUSTY"
+			},
+			{
+				"Id": 590,
+				"Date": "Jan 30 2023",
+				"Word": "EQUIP"
+			},
+			{
+				"Id": 591,
+				"Date": "Jan 31 2023",
+				"Word": "TOUGH"
+			},
+			{
+				"Id": 592,
+				"Date": "Feb 01 2023",
+				"Word": "CANOE"
+			},
+			{
+				"Id": 593,
+				"Date": "Feb 02 2023",
+				"Word": "CHAOS"
+			},
+			{
+				"Id": 594,
+				"Date": "Feb 03 2023",
+				"Word": "COVET"
+			},
+			{
+				"Id": 595,
+				"Date": "Feb 04 2023",
+				"Word": "HUMAN"
+			},
+			{
+				"Id": 596,
+				"Date": "Feb 05 2023",
+				"Word": "UDDER"
+			},
+			{
+				"Id": 597,
+				"Date": "Feb 06 2023",
+				"Word": "LUNCH"
+			},
+			{
+				"Id": 598,
+				"Date": "Feb 07 2023",
+				"Word": "BLAST"
+			},
+			{
+				"Id": 599,
+				"Date": "Feb 08 2023",
+				"Word": "STRAY"
+			},
+			{
+				"Id": 600,
+				"Date": "Feb 09 2023",
+				"Word": "MANGA"
+			},
+			{
+				"Id": 601,
+				"Date": "Feb 10 2023",
+				"Word": "MELEE"
+			},
+			{
+				"Id": 602,
+				"Date": "Feb 11 2023",
+				"Word": "LEFTY"
+			},
+			{
+				"Id": 603,
+				"Date": "Feb 12 2023",
+				"Word": "QUICK"
+			},
+			{
+				"Id": 604,
+				"Date": "Feb 13 2023",
+				"Word": "PASTE"
+			},
+			{
+				"Id": 605,
+				"Date": "Feb 14 2023",
+				"Word": "GIVEN"
+			},
+			{
+				"Id": 606,
+				"Date": "Feb 15 2023",
+				"Word": "OCTET"
+			},
+			{
+				"Id": 607,
+				"Date": "Feb 16 2023",
+				"Word": "RISEN"
+			},
+			{
+				"Id": 608,
+				"Date": "Feb 17 2023",
+				"Word": "GROAN"
+			},
+			{
+				"Id": 609,
+				"Date": "Feb 18 2023",
+				"Word": "LEAKY"
+			},
+			{
+				"Id": 610,
+				"Date": "Feb 19 2023",
+				"Word": "GRIND"
+			},
+			{
+				"Id": 611,
+				"Date": "Feb 20 2023",
+				"Word": "CARVE"
+			},
+			{
+				"Id": 612,
+				"Date": "Feb 21 2023",
+				"Word": "LOOSE"
+			},
+			{
+				"Id": 613,
+				"Date": "Feb 22 2023",
+				"Word": "SADLY"
+			},
+			{
+				"Id": 614,
+				"Date": "Feb 23 2023",
+				"Word": "SPILT"
+			},
+			{
+				"Id": 615,
+				"Date": "Feb 24 2023",
+				"Word": "APPLE"
+			},
+			{
+				"Id": 616,
+				"Date": "Feb 25 2023",
+				"Word": "SLACK"
+			},
+			{
+				"Id": 617,
+				"Date": "Feb 26 2023",
+				"Word": "HONEY"
+			},
+			{
+				"Id": 618,
+				"Date": "Feb 27 2023",
+				"Word": "FINAL"
+			},
+			{
+				"Id": 619,
+				"Date": "Feb 28 2023",
+				"Word": "SHEEN"
+			},
+			{
+				"Id": 620,
+				"Date": "Mar 01 2023",
+				"Word": "EERIE"
+			},
+			{
+				"Id": 621,
+				"Date": "Mar 02 2023",
+				"Word": "MINTY"
+			},
+			{
+				"Id": 622,
+				"Date": "Mar 03 2023",
+				"Word": "SLICK"
+			},
+			{
+				"Id": 623,
+				"Date": "Mar 04 2023",
+				"Word": "DERBY"
+			},
+			{
+				"Id": 624,
+				"Date": "Mar 05 2023",
+				"Word": "WHARF"
+			},
+			{
+				"Id": 625,
+				"Date": "Mar 06 2023",
+				"Word": "SPELT"
+			},
+			{
+				"Id": 626,
+				"Date": "Mar 07 2023",
+				"Word": "COACH"
+			},
+			{
+				"Id": 627,
+				"Date": "Mar 08 2023",
+				"Word": "ERUPT"
+			},
+			{
+				"Id": 628,
+				"Date": "Mar 09 2023",
+				"Word": "SINGE"
+			},
+			{
+				"Id": 629,
+				"Date": "Mar 10 2023",
+				"Word": "PRICE"
+			},
+			{
+				"Id": 630,
+				"Date": "Mar 11 2023",
+				"Word": "SPAWN"
+			},
+			{
+				"Id": 631,
+				"Date": "Mar 12 2023",
+				"Word": "FAIRY"
+			},
+			{
+				"Id": 632,
+				"Date": "Mar 13 2023",
+				"Word": "JIFFY"
+			},
+			{
+				"Id": 633,
+				"Date": "Mar 14 2023",
+				"Word": "FILMY"
+			},
+			{
+				"Id": 634,
+				"Date": "Mar 15 2023",
+				"Word": "STACK"
+			},
+			{
+				"Id": 635,
+				"Date": "Mar 16 2023",
+				"Word": "CHOSE"
+			},
+			{
+				"Id": 636,
+				"Date": "Mar 17 2023",
+				"Word": "SLEEP"
+			},
+			{
+				"Id": 637,
+				"Date": "Mar 18 2023",
+				"Word": "ARDOR"
+			},
+			{
+				"Id": 638,
+				"Date": "Mar 19 2023",
+				"Word": "NANNY"
+			},
+			{
+				"Id": 639,
+				"Date": "Mar 20 2023",
+				"Word": "NIECE"
+			},
+			{
+				"Id": 640,
+				"Date": "Mar 21 2023",
+				"Word": "WOOZY"
+			},
+			{
+				"Id": 641,
+				"Date": "Mar 22 2023",
+				"Word": "HANDY"
+			},
+			{
+				"Id": 642,
+				"Date": "Mar 23 2023",
+				"Word": "GRACE"
+			},
+			{
+				"Id": 643,
+				"Date": "Mar 24 2023",
+				"Word": "DITTO"
+			},
+			{
+				"Id": 644,
+				"Date": "Mar 25 2023",
+				"Word": "STANK"
+			},
+			{
+				"Id": 645,
+				"Date": "Mar 26 2023",
+				"Word": "CREAM"
+			},
+			{
+				"Id": 646,
+				"Date": "Mar 27 2023",
+				"Word": "USUAL"
+			},
+			{
+				"Id": 647,
+				"Date": "Mar 28 2023",
+				"Word": "DIODE"
+			},
+			{
+				"Id": 648,
+				"Date": "Mar 29 2023",
+				"Word": "VALOR"
+			},
+			{
+				"Id": 649,
+				"Date": "Mar 30 2023",
+				"Word": "ANGLE"
+			},
+			{
+				"Id": 650,
+				"Date": "Mar 31 2023",
+				"Word": "NINJA"
+			},
+			{
+				"Id": 651,
+				"Date": "Apr 01 2023",
+				"Word": "MUDDY"
+			},
+			{
+				"Id": 652,
+				"Date": "Apr 02 2023",
+				"Word": "CHASE"
+			},
+			{
+				"Id": 653,
+				"Date": "Apr 03 2023",
+				"Word": "REPLY"
+			},
+			{
+				"Id": 654,
+				"Date": "Apr 04 2023",
+				"Word": "PRONE"
+			},
+			{
+				"Id": 655,
+				"Date": "Apr 05 2023",
+				"Word": "SPOIL"
+			},
+			{
+				"Id": 656,
+				"Date": "Apr 06 2023",
+				"Word": "HEART"
+			},
+			{
+				"Id": 657,
+				"Date": "Apr 07 2023",
+				"Word": "SHADE"
+			},
+			{
+				"Id": 658,
+				"Date": "Apr 08 2023",
+				"Word": "DINER"
+			},
+			{
+				"Id": 659,
+				"Date": "Apr 09 2023",
+				"Word": "ARSON"
+			},
+			{
+				"Id": 660,
+				"Date": "Apr 10 2023",
+				"Word": "ONION"
+			},
+			{
+				"Id": 661,
+				"Date": "Apr 11 2023",
+				"Word": "SLEET"
+			},
+			{
+				"Id": 662,
+				"Date": "Apr 12 2023",
+				"Word": "DOWEL"
+			},
+			{
+				"Id": 663,
+				"Date": "Apr 13 2023",
+				"Word": "COUCH"
+			},
+			{
+				"Id": 664,
+				"Date": "Apr 14 2023",
+				"Word": "PALSY"
+			},
+			{
+				"Id": 665,
+				"Date": "Apr 15 2023",
+				"Word": "BOWEL"
+			},
+			{
+				"Id": 666,
+				"Date": "Apr 16 2023",
+				"Word": "SMILE"
+			},
+			{
+				"Id": 667,
+				"Date": "Apr 17 2023",
+				"Word": "EVOKE"
+			},
+			{
+				"Id": 668,
+				"Date": "Apr 18 2023",
+				"Word": "CREEK"
+			},
+			{
+				"Id": 669,
+				"Date": "Apr 19 2023",
+				"Word": "LANCE"
+			},
+			{
+				"Id": 670,
+				"Date": "Apr 20 2023",
+				"Word": "EAGLE"
+			},
+			{
+				"Id": 671,
+				"Date": "Apr 21 2023",
+				"Word": "IDIOT"
+			},
+			{
+				"Id": 672,
+				"Date": "Apr 22 2023",
+				"Word": "SIREN"
+			},
+			{
+				"Id": 673,
+				"Date": "Apr 23 2023",
+				"Word": "BUILT"
+			},
+			{
+				"Id": 674,
+				"Date": "Apr 24 2023",
+				"Word": "EMBED"
+			},
+			{
+				"Id": 675,
+				"Date": "Apr 25 2023",
+				"Word": "AWARD"
+			},
+			{
+				"Id": 676,
+				"Date": "Apr 26 2023",
+				"Word": "DROSS"
+			},
+			{
+				"Id": 677,
+				"Date": "Apr 27 2023",
+				"Word": "ANNUL"
+			},
+			{
+				"Id": 678,
+				"Date": "Apr 28 2023",
+				"Word": "GOODY"
+			},
+			{
+				"Id": 679,
+				"Date": "Apr 29 2023",
+				"Word": "FROWN"
+			},
+			{
+				"Id": 680,
+				"Date": "Apr 30 2023",
+				"Word": "PATIO"
+			},
+			{
+				"Id": 681,
+				"Date": "May 01 2023",
+				"Word": "LADEN"
+			},
+			{
+				"Id": 682,
+				"Date": "May 02 2023",
+				"Word": "HUMID"
+			},
+			{
+				"Id": 683,
+				"Date": "May 03 2023",
+				"Word": "ELITE"
+			},
+			{
+				"Id": 684,
+				"Date": "May 04 2023",
+				"Word": "LYMPH"
+			},
+			{
+				"Id": 685,
+				"Date": "May 05 2023",
+				"Word": "EDIFY"
+			},
+			{
+				"Id": 686,
+				"Date": "May 06 2023",
+				"Word": "MIGHT"
+			},
+			{
+				"Id": 687,
+				"Date": "May 07 2023",
+				"Word": "RESET"
+			},
+			{
+				"Id": 688,
+				"Date": "May 08 2023",
+				"Word": "VISIT"
+			},
+			{
+				"Id": 689,
+				"Date": "May 09 2023",
+				"Word": "GUSTO"
+			},
+			{
+				"Id": 690,
+				"Date": "May 10 2023",
+				"Word": "PURSE"
+			},
+			{
+				"Id": 691,
+				"Date": "May 11 2023",
+				"Word": "VAPOR"
+			},
+			{
+				"Id": 692,
+				"Date": "May 12 2023",
+				"Word": "CROCK"
+			},
+			{
+				"Id": 693,
+				"Date": "May 13 2023",
+				"Word": "WRITE"
+			},
+			{
+				"Id": 694,
+				"Date": "May 14 2023",
+				"Word": "SUNNY"
+			},
+			{
+				"Id": 695,
+				"Date": "May 15 2023",
+				"Word": "LOATH"
+			},
+			{
+				"Id": 696,
+				"Date": "May 16 2023",
+				"Word": "CHAFF"
+			},
+			{
+				"Id": 697,
+				"Date": "May 17 2023",
+				"Word": "SLIDE"
+			},
+			{
+				"Id": 698,
+				"Date": "May 18 2023",
+				"Word": "QUEER"
+			},
+			{
+				"Id": 699,
+				"Date": "May 19 2023",
+				"Word": "VENOM"
+			},
+			{
+				"Id": 700,
+				"Date": "May 20 2023",
+				"Word": "STAMP"
+			},
+			{
+				"Id": 701,
+				"Date": "May 21 2023",
+				"Word": "SORRY"
+			},
+			{
+				"Id": 702,
+				"Date": "May 22 2023",
+				"Word": "STILL"
+			},
+			{
+				"Id": 703,
+				"Date": "May 23 2023",
+				"Word": "ACORN"
+			},
+			{
+				"Id": 704,
+				"Date": "May 24 2023",
+				"Word": "APING"
+			},
+			{
+				"Id": 705,
+				"Date": "May 25 2023",
+				"Word": "PUSHY"
+			},
+			{
+				"Id": 706,
+				"Date": "May 26 2023",
+				"Word": "TAMER"
+			},
+			{
+				"Id": 707,
+				"Date": "May 27 2023",
+				"Word": "HATER"
+			},
+			{
+				"Id": 708,
+				"Date": "May 28 2023",
+				"Word": "MANIA"
+			},
+			{
+				"Id": 709,
+				"Date": "May 29 2023",
+				"Word": "AWOKE"
+			},
+			{
+				"Id": 710,
+				"Date": "May 30 2023",
+				"Word": "BRAWN"
+			},
+			{
+				"Id": 711,
+				"Date": "May 31 2023",
+				"Word": "SWIFT"
+			},
+			{
+				"Id": 712,
+				"Date": "Jun 01 2023",
+				"Word": "EXILE"
+			},
+			{
+				"Id": 713,
+				"Date": "Jun 02 2023",
+				"Word": "BIRCH"
+			},
+			{
+				"Id": 714,
+				"Date": "Jun 03 2023",
+				"Word": "LUCKY"
+			},
+			{
+				"Id": 715,
+				"Date": "Jun 04 2023",
+				"Word": "FREER"
+			},
+			{
+				"Id": 716,
+				"Date": "Jun 05 2023",
+				"Word": "RISKY"
+			},
+			{
+				"Id": 717,
+				"Date": "Jun 06 2023",
+				"Word": "GHOST"
+			},
+			{
+				"Id": 718,
+				"Date": "Jun 07 2023",
+				"Word": "PLIER"
+			},
+			{
+				"Id": 719,
+				"Date": "Jun 08 2023",
+				"Word": "LUNAR"
+			},
+			{
+				"Id": 720,
+				"Date": "Jun 09 2023",
+				"Word": "WINCH"
+			},
+			{
+				"Id": 721,
+				"Date": "Jun 10 2023",
+				"Word": "SNARE"
+			},
+			{
+				"Id": 722,
+				"Date": "Jun 11 2023",
+				"Word": "NURSE"
+			},
+			{
+				"Id": 723,
+				"Date": "Jun 12 2023",
+				"Word": "HOUSE"
+			},
+			{
+				"Id": 724,
+				"Date": "Jun 13 2023",
+				"Word": "BORAX"
+			},
+			{
+				"Id": 725,
+				"Date": "Jun 14 2023",
+				"Word": "NICER"
+			},
+			{
+				"Id": 726,
+				"Date": "Jun 15 2023",
+				"Word": "LURCH"
+			},
+			{
+				"Id": 727,
+				"Date": "Jun 16 2023",
+				"Word": "EXALT"
+			},
+			{
+				"Id": 728,
+				"Date": "Jun 17 2023",
+				"Word": "ABOUT"
+			},
+			{
+				"Id": 729,
+				"Date": "Jun 18 2023",
+				"Word": "SAVVY"
+			},
+			{
+				"Id": 730,
+				"Date": "Jun 19 2023",
+				"Word": "TOXIN"
+			},
+			{
+				"Id": 731,
+				"Date": "Jun 20 2023",
+				"Word": "TUNIC"
+			},
+			{
+				"Id": 732,
+				"Date": "Jun 21 2023",
+				"Word": "PRIED"
+			},
+			{
+				"Id": 733,
+				"Date": "Jun 22 2023",
+				"Word": "INLAY"
+			},
+			{
+				"Id": 734,
+				"Date": "Jun 23 2023",
+				"Word": "CHUMP"
+			},
+			{
+				"Id": 735,
+				"Date": "Jun 24 2023",
+				"Word": "LANKY"
+			},
+			{
+				"Id": 736,
+				"Date": "Jun 25 2023",
+				"Word": "CRESS"
+			},
+			{
+				"Id": 737,
+				"Date": "Jun 26 2023",
+				"Word": "EATER"
+			},
+			{
+				"Id": 738,
+				"Date": "Jun 27 2023",
+				"Word": "ELUDE"
+			},
+			{
+				"Id": 739,
+				"Date": "Jun 28 2023",
+				"Word": "CYCLE"
+			},
+			{
+				"Id": 740,
+				"Date": "Jun 29 2023",
+				"Word": "KITTY"
+			},
+			{
+				"Id": 741,
+				"Date": "Jun 30 2023",
+				"Word": "BOULE"
+			},
+			{
+				"Id": 742,
+				"Date": "Jul 01 2023",
+				"Word": "MORON"
+			},
+			{
+				"Id": 743,
+				"Date": "Jul 02 2023",
+				"Word": "TENET"
+			},
+			{
+				"Id": 744,
+				"Date": "Jul 03 2023",
+				"Word": "PLACE"
+			},
+			{
+				"Id": 745,
+				"Date": "Jul 04 2023",
+				"Word": "LOBBY"
+			},
+			{
+				"Id": 746,
+				"Date": "Jul 05 2023",
+				"Word": "PLUSH"
+			},
+			{
+				"Id": 747,
+				"Date": "Jul 06 2023",
+				"Word": "VIGIL"
+			},
+			{
+				"Id": 748,
+				"Date": "Jul 07 2023",
+				"Word": "INDEX"
+			},
+			{
+				"Id": 749,
+				"Date": "Jul 08 2023",
+				"Word": "BLINK"
+			},
+			{
+				"Id": 750,
+				"Date": "Jul 09 2023",
+				"Word": "CLUNG"
+			},
+			{
+				"Id": 751,
+				"Date": "Jul 10 2023",
+				"Word": "QUALM"
+			},
+			{
+				"Id": 752,
+				"Date": "Jul 11 2023",
+				"Word": "CROUP"
+			},
+			{
+				"Id": 753,
+				"Date": "Jul 12 2023",
+				"Word": "CLINK"
+			},
+			{
+				"Id": 754,
+				"Date": "Jul 13 2023",
+				"Word": "JUICY"
+			},
+			{
+				"Id": 755,
+				"Date": "Jul 14 2023",
+				"Word": "STAGE"
+			},
+			{
+				"Id": 756,
+				"Date": "Jul 15 2023",
+				"Word": "DECAY"
+			},
+			{
+				"Id": 757,
+				"Date": "Jul 16 2023",
+				"Word": "NERVE"
+			},
+			{
+				"Id": 758,
+				"Date": "Jul 17 2023",
+				"Word": "FLIER"
+			},
+			{
+				"Id": 759,
+				"Date": "Jul 18 2023",
+				"Word": "SHAFT"
+			},
+			{
+				"Id": 760,
+				"Date": "Jul 19 2023",
+				"Word": "CROOK"
+			},
+			{
+				"Id": 761,
+				"Date": "Jul 20 2023",
+				"Word": "CLEAN"
+			},
+			{
+				"Id": 762,
+				"Date": "Jul 21 2023",
+				"Word": "CHINA"
+			},
+			{
+				"Id": 763,
+				"Date": "Jul 22 2023",
+				"Word": "RIDGE"
+			},
+			{
+				"Id": 764,
+				"Date": "Jul 23 2023",
+				"Word": "VOWEL"
+			},
+			{
+				"Id": 765,
+				"Date": "Jul 24 2023",
+				"Word": "GNOME"
+			},
+			{
+				"Id": 766,
+				"Date": "Jul 25 2023",
+				"Word": "SNUCK"
+			},
+			{
+				"Id": 767,
+				"Date": "Jul 26 2023",
+				"Word": "ICING"
+			},
+			{
+				"Id": 768,
+				"Date": "Jul 27 2023",
+				"Word": "SPINY"
+			},
+			{
+				"Id": 769,
+				"Date": "Jul 28 2023",
+				"Word": "RIGOR"
+			},
+			{
+				"Id": 770,
+				"Date": "Jul 29 2023",
+				"Word": "SNAIL"
+			},
+			{
+				"Id": 771,
+				"Date": "Jul 30 2023",
+				"Word": "FLOWN"
+			},
+			{
+				"Id": 772,
+				"Date": "Jul 31 2023",
+				"Word": "RABID"
+			},
+			{
+				"Id": 773,
+				"Date": "Aug 01 2023",
+				"Word": "PROSE"
+			},
+			{
+				"Id": 774,
+				"Date": "Aug 02 2023",
+				"Word": "THANK"
+			},
+			{
+				"Id": 775,
+				"Date": "Aug 03 2023",
+				"Word": "POPPY"
+			},
+			{
+				"Id": 776,
+				"Date": "Aug 04 2023",
+				"Word": "BUDGE"
+			},
+			{
+				"Id": 777,
+				"Date": "Aug 05 2023",
+				"Word": "FIBER"
+			},
+			{
+				"Id": 778,
+				"Date": "Aug 06 2023",
+				"Word": "MOLDY"
+			},
+			{
+				"Id": 779,
+				"Date": "Aug 07 2023",
+				"Word": "DOWDY"
+			},
+			{
+				"Id": 780,
+				"Date": "Aug 08 2023",
+				"Word": "KNEEL"
+			},
+			{
+				"Id": 781,
+				"Date": "Aug 09 2023",
+				"Word": "TRACK"
+			},
+			{
+				"Id": 782,
+				"Date": "Aug 10 2023",
+				"Word": "CADDY"
+			},
+			{
+				"Id": 783,
+				"Date": "Aug 11 2023",
+				"Word": "QUELL"
+			},
+			{
+				"Id": 784,
+				"Date": "Aug 12 2023",
+				"Word": "DUMPY"
+			},
+			{
+				"Id": 785,
+				"Date": "Aug 13 2023",
+				"Word": "PALER"
+			},
+			{
+				"Id": 786,
+				"Date": "Aug 14 2023",
+				"Word": "SWORE"
+			},
+			{
+				"Id": 787,
+				"Date": "Aug 15 2023",
+				"Word": "REBAR"
+			},
+			{
+				"Id": 788,
+				"Date": "Aug 16 2023",
+				"Word": "SCUBA"
+			},
+			{
+				"Id": 789,
+				"Date": "Aug 17 2023",
+				"Word": "SPLAT"
+			},
+			{
+				"Id": 790,
+				"Date": "Aug 18 2023",
+				"Word": "FLYER"
+			},
+			{
+				"Id": 791,
+				"Date": "Aug 19 2023",
+				"Word": "HORNY"
+			},
+			{
+				"Id": 792,
+				"Date": "Aug 20 2023",
+				"Word": "MASON"
+			},
+			{
+				"Id": 793,
+				"Date": "Aug 21 2023",
+				"Word": "DOING"
+			},
+			{
+				"Id": 794,
+				"Date": "Aug 22 2023",
+				"Word": "OZONE"
+			},
+			{
+				"Id": 795,
+				"Date": "Aug 23 2023",
+				"Word": "AMPLY"
+			},
+			{
+				"Id": 796,
+				"Date": "Aug 24 2023",
+				"Word": "MOLAR"
+			},
+			{
+				"Id": 797,
+				"Date": "Aug 25 2023",
+				"Word": "OVARY"
+			},
+			{
+				"Id": 798,
+				"Date": "Aug 26 2023",
+				"Word": "BESET"
+			},
+			{
+				"Id": 799,
+				"Date": "Aug 27 2023",
+				"Word": "QUEUE"
+			},
+			{
+				"Id": 800,
+				"Date": "Aug 28 2023",
+				"Word": "CLIFF"
+			},
+			{
+				"Id": 801,
+				"Date": "Aug 29 2023",
+				"Word": "MAGIC"
+			},
+			{
+				"Id": 802,
+				"Date": "Aug 30 2023",
+				"Word": "TRUCE"
+			},
+			{
+				"Id": 803,
+				"Date": "Aug 31 2023",
+				"Word": "SPORT"
+			},
+			{
+				"Id": 804,
+				"Date": "Sep 01 2023",
+				"Word": "FRITZ"
+			},
+			{
+				"Id": 805,
+				"Date": "Sep 02 2023",
+				"Word": "EDICT"
+			},
+			{
+				"Id": 806,
+				"Date": "Sep 03 2023",
+				"Word": "TWIRL"
+			},
+			{
+				"Id": 807,
+				"Date": "Sep 04 2023",
+				"Word": "VERSE"
+			},
+			{
+				"Id": 808,
+				"Date": "Sep 05 2023",
+				"Word": "LLAMA"
+			},
+			{
+				"Id": 809,
+				"Date": "Sep 06 2023",
+				"Word": "EATEN"
+			},
+			{
+				"Id": 810,
+				"Date": "Sep 07 2023",
+				"Word": "RANGE"
+			},
+			{
+				"Id": 811,
+				"Date": "Sep 08 2023",
+				"Word": "WHISK"
+			},
+			{
+				"Id": 812,
+				"Date": "Sep 09 2023",
+				"Word": "HOVEL"
+			},
+			{
+				"Id": 813,
+				"Date": "Sep 10 2023",
+				"Word": "REHAB"
+			},
+			{
+				"Id": 814,
+				"Date": "Sep 11 2023",
+				"Word": "MACAW"
+			},
+			{
+				"Id": 815,
+				"Date": "Sep 12 2023",
+				"Word": "SIGMA"
+			},
+			{
+				"Id": 816,
+				"Date": "Sep 13 2023",
+				"Word": "SPOUT"
+			},
+			{
+				"Id": 817,
+				"Date": "Sep 14 2023",
+				"Word": "VERVE"
+			},
+			{
+				"Id": 818,
+				"Date": "Sep 15 2023",
+				"Word": "SUSHI"
+			},
+			{
+				"Id": 819,
+				"Date": "Sep 16 2023",
+				"Word": "DYING"
+			},
+			{
+				"Id": 820,
+				"Date": "Sep 17 2023",
+				"Word": "FETID"
+			},
+			{
+				"Id": 821,
+				"Date": "Sep 18 2023",
+				"Word": "BRAIN"
+			},
+			{
+				"Id": 822,
+				"Date": "Sep 19 2023",
+				"Word": "BUDDY"
+			},
+			{
+				"Id": 823,
+				"Date": "Sep 20 2023",
+				"Word": "THUMP"
+			},
+			{
+				"Id": 824,
+				"Date": "Sep 21 2023",
+				"Word": "SCION"
+			},
+			{
+				"Id": 825,
+				"Date": "Sep 22 2023",
+				"Word": "CANDY"
+			},
+			{
+				"Id": 826,
+				"Date": "Sep 23 2023",
+				"Word": "CHORD"
+			},
+			{
+				"Id": 827,
+				"Date": "Sep 24 2023",
+				"Word": "BASIN"
+			},
+			{
+				"Id": 828,
+				"Date": "Sep 25 2023",
+				"Word": "MARCH"
+			},
+			{
+				"Id": 829,
+				"Date": "Sep 26 2023",
+				"Word": "CROWD"
+			},
+			{
+				"Id": 830,
+				"Date": "Sep 27 2023",
+				"Word": "ARBOR"
+			},
+			{
+				"Id": 831,
+				"Date": "Sep 28 2023",
+				"Word": "GAYLY"
+			},
+			{
+				"Id": 832,
+				"Date": "Sep 29 2023",
+				"Word": "MUSKY"
+			},
+			{
+				"Id": 833,
+				"Date": "Sep 30 2023",
+				"Word": "STAIN"
+			},
+			{
+				"Id": 834,
+				"Date": "Oct 01 2023",
+				"Word": "DALLY"
+			},
+			{
+				"Id": 835,
+				"Date": "Oct 02 2023",
+				"Word": "BLESS"
+			},
+			{
+				"Id": 836,
+				"Date": "Oct 03 2023",
+				"Word": "BRAVO"
+			},
+			{
+				"Id": 837,
+				"Date": "Oct 04 2023",
+				"Word": "STUNG"
+			},
+			{
+				"Id": 838,
+				"Date": "Oct 05 2023",
+				"Word": "TITLE"
+			},
+			{
+				"Id": 839,
+				"Date": "Oct 06 2023",
+				"Word": "RULER"
+			},
+			{
+				"Id": 840,
+				"Date": "Oct 07 2023",
+				"Word": "KIOSK"
+			},
+			{
+				"Id": 841,
+				"Date": "Oct 08 2023",
+				"Word": "BLOND"
+			},
+			{
+				"Id": 842,
+				"Date": "Oct 09 2023",
+				"Word": "ENNUI"
+			},
+			{
+				"Id": 843,
+				"Date": "Oct 10 2023",
+				"Word": "LAYER"
+			},
+			{
+				"Id": 844,
+				"Date": "Oct 11 2023",
+				"Word": "FLUID"
+			},
+			{
+				"Id": 845,
+				"Date": "Oct 12 2023",
+				"Word": "TATTY"
+			},
+			{
+				"Id": 846,
+				"Date": "Oct 13 2023",
+				"Word": "SCORE"
+			},
+			{
+				"Id": 847,
+				"Date": "Oct 14 2023",
+				"Word": "CUTIE"
+			},
+			{
+				"Id": 848,
+				"Date": "Oct 15 2023",
+				"Word": "ZEBRA"
+			},
+			{
+				"Id": 849,
+				"Date": "Oct 16 2023",
+				"Word": "BARGE"
+			},
+			{
+				"Id": 850,
+				"Date": "Oct 17 2023",
+				"Word": "MATEY"
+			},
+			{
+				"Id": 851,
+				"Date": "Oct 18 2023",
+				"Word": "BLUER"
+			},
+			{
+				"Id": 852,
+				"Date": "Oct 19 2023",
+				"Word": "AIDER"
+			},
+			{
+				"Id": 853,
+				"Date": "Oct 20 2023",
+				"Word": "SHOOK"
+			},
+			{
+				"Id": 854,
+				"Date": "Oct 21 2023",
+				"Word": "RIVER"
+			},
+			{
+				"Id": 855,
+				"Date": "Oct 22 2023",
+				"Word": "PRIVY"
+			},
+			{
+				"Id": 856,
+				"Date": "Oct 23 2023",
+				"Word": "BETEL"
+			},
+			{
+				"Id": 857,
+				"Date": "Oct 24 2023",
+				"Word": "FRISK"
+			},
+			{
+				"Id": 858,
+				"Date": "Oct 25 2023",
+				"Word": "BONGO"
+			},
+			{
+				"Id": 859,
+				"Date": "Oct 26 2023",
+				"Word": "BEGUN"
+			},
+			{
+				"Id": 860,
+				"Date": "Oct 27 2023",
+				"Word": "AZURE"
+			},
+			{
+				"Id": 861,
+				"Date": "Oct 28 2023",
+				"Word": "WEAVE"
+			},
+			{
+				"Id": 862,
+				"Date": "Oct 29 2023",
+				"Word": "GENIE"
+			},
+			{
+				"Id": 863,
+				"Date": "Oct 30 2023",
+				"Word": "SOUND"
+			},
+			{
+				"Id": 864,
+				"Date": "Oct 31 2023",
+				"Word": "GLOVE"
+			},
+			{
+				"Id": 865,
+				"Date": "Nov 01 2023",
+				"Word": "BRAID"
+			},
+			{
+				"Id": 866,
+				"Date": "Nov 02 2023",
+				"Word": "SCOPE"
+			},
+			{
+				"Id": 867,
+				"Date": "Nov 03 2023",
+				"Word": "WRYLY"
+			},
+			{
+				"Id": 868,
+				"Date": "Nov 04 2023",
+				"Word": "ROVER"
+			},
+			{
+				"Id": 869,
+				"Date": "Nov 05 2023",
+				"Word": "ASSAY"
+			},
+			{
+				"Id": 870,
+				"Date": "Nov 06 2023",
+				"Word": "OCEAN"
+			},
+			{
+				"Id": 871,
+				"Date": "Nov 07 2023",
+				"Word": "BLOOM"
+			},
+			{
+				"Id": 872,
+				"Date": "Nov 08 2023",
+				"Word": "IRATE"
+			},
+			{
+				"Id": 873,
+				"Date": "Nov 09 2023",
+				"Word": "LATER"
+			},
+			{
+				"Id": 874,
+				"Date": "Nov 10 2023",
+				"Word": "WOKEN"
+			},
+			{
+				"Id": 875,
+				"Date": "Nov 11 2023",
+				"Word": "SILKY"
+			},
+			{
+				"Id": 876,
+				"Date": "Nov 12 2023",
+				"Word": "WRECK"
+			},
+			{
+				"Id": 877,
+				"Date": "Nov 13 2023",
+				"Word": "DWELT"
+			},
+			{
+				"Id": 878,
+				"Date": "Nov 14 2023",
+				"Word": "SLATE"
+			},
+			{
+				"Id": 879,
+				"Date": "Nov 15 2023",
+				"Word": "SMACK"
+			},
+			{
+				"Id": 880,
+				"Date": "Nov 16 2023",
+				"Word": "SOLID"
+			},
+			{
+				"Id": 881,
+				"Date": "Nov 17 2023",
+				"Word": "AMAZE"
+			},
+			{
+				"Id": 882,
+				"Date": "Nov 18 2023",
+				"Word": "HAZEL"
+			},
+			{
+				"Id": 883,
+				"Date": "Nov 19 2023",
+				"Word": "WRIST"
+			},
+			{
+				"Id": 884,
+				"Date": "Nov 20 2023",
+				"Word": "JOLLY"
+			},
+			{
+				"Id": 885,
+				"Date": "Nov 21 2023",
+				"Word": "GLOBE"
+			},
+			{
+				"Id": 886,
+				"Date": "Nov 22 2023",
+				"Word": "FLINT"
+			},
+			{
+				"Id": 887,
+				"Date": "Nov 23 2023",
+				"Word": "ROUSE"
+			},
+			{
+				"Id": 888,
+				"Date": "Nov 24 2023",
+				"Word": "CIVIL"
+			},
+			{
+				"Id": 889,
+				"Date": "Nov 25 2023",
+				"Word": "VISTA"
+			},
+			{
+				"Id": 890,
+				"Date": "Nov 26 2023",
+				"Word": "RELAX"
+			},
+			{
+				"Id": 891,
+				"Date": "Nov 27 2023",
+				"Word": "COVER"
+			},
+			{
+				"Id": 892,
+				"Date": "Nov 28 2023",
+				"Word": "ALIVE"
+			},
+			{
+				"Id": 893,
+				"Date": "Nov 29 2023",
+				"Word": "BEECH"
+			},
+			{
+				"Id": 894,
+				"Date": "Nov 30 2023",
+				"Word": "JETTY"
+			},
+			{
+				"Id": 895,
+				"Date": "Dec 01 2023",
+				"Word": "BLISS"
+			},
+			{
+				"Id": 896,
+				"Date": "Dec 02 2023",
+				"Word": "VOCAL"
+			},
+			{
+				"Id": 897,
+				"Date": "Dec 03 2023",
+				"Word": "OFTEN"
+			},
+			{
+				"Id": 898,
+				"Date": "Dec 04 2023",
+				"Word": "DOLLY"
+			},
+			{
+				"Id": 899,
+				"Date": "Dec 05 2023",
+				"Word": "EIGHT"
+			},
+			{
+				"Id": 900,
+				"Date": "Dec 06 2023",
+				"Word": "JOKER"
+			},
+			{
+				"Id": 901,
+				"Date": "Dec 07 2023",
+				"Word": "SINCE"
+			},
+			{
+				"Id": 902,
+				"Date": "Dec 08 2023",
+				"Word": "EVENT"
+			},
+			{
+				"Id": 903,
+				"Date": "Dec 09 2023",
+				"Word": "ENSUE"
+			},
+			{
+				"Id": 904,
+				"Date": "Dec 10 2023",
+				"Word": "SHUNT"
+			},
+			{
+				"Id": 905,
+				"Date": "Dec 11 2023",
+				"Word": "DIVER"
+			},
+			{
+				"Id": 906,
+				"Date": "Dec 12 2023",
+				"Word": "POSER"
+			},
+			{
+				"Id": 907,
+				"Date": "Dec 13 2023",
+				"Word": "WORST"
+			},
+			{
+				"Id": 908,
+				"Date": "Dec 14 2023",
+				"Word": "SWEEP"
+			},
+			{
+				"Id": 909,
+				"Date": "Dec 15 2023",
+				"Word": "ALLEY"
+			},
+			{
+				"Id": 910,
+				"Date": "Dec 16 2023",
+				"Word": "CREED"
+			},
+			{
+				"Id": 911,
+				"Date": "Dec 17 2023",
+				"Word": "ANIME"
+			},
+			{
+				"Id": 912,
+				"Date": "Dec 18 2023",
+				"Word": "LEAFY"
+			},
+			{
+				"Id": 913,
+				"Date": "Dec 19 2023",
+				"Word": "BOSOM"
+			},
+			{
+				"Id": 914,
+				"Date": "Dec 20 2023",
+				"Word": "DUNCE"
+			},
+			{
+				"Id": 915,
+				"Date": "Dec 21 2023",
+				"Word": "STARE"
+			},
+			{
+				"Id": 916,
+				"Date": "Dec 22 2023",
+				"Word": "PUDGY"
+			},
+			{
+				"Id": 917,
+				"Date": "Dec 23 2023",
+				"Word": "WAIVE"
+			},
+			{
+				"Id": 918,
+				"Date": "Dec 24 2023",
+				"Word": "CHOIR"
+			},
+			{
+				"Id": 919,
+				"Date": "Dec 25 2023",
+				"Word": "STOOD"
+			},
+			{
+				"Id": 920,
+				"Date": "Dec 26 2023",
+				"Word": "SPOKE"
+			},
+			{
+				"Id": 921,
+				"Date": "Dec 27 2023",
+				"Word": "OUTGO"
+			},
+			{
+				"Id": 922,
+				"Date": "Dec 28 2023",
+				"Word": "DELAY"
+			},
+			{
+				"Id": 923,
+				"Date": "Dec 29 2023",
+				"Word": "BILGE"
+			},
+			{
+				"Id": 924,
+				"Date": "Dec 30 2023",
+				"Word": "IDEAL"
+			},
+			{
+				"Id": 925,
+				"Date": "Dec 31 2023",
+				"Word": "CLASP"
+			},
+			{
+				"Id": 926,
+				"Date": "Jan 01 2024",
+				"Word": "SEIZE"
+			},
+			{
+				"Id": 927,
+				"Date": "Jan 02 2024",
+				"Word": "HOTLY"
+			},
+			{
+				"Id": 928,
+				"Date": "Jan 03 2024",
+				"Word": "LAUGH"
+			},
+			{
+				"Id": 929,
+				"Date": "Jan 04 2024",
+				"Word": "SIEVE"
+			},
+			{
+				"Id": 930,
+				"Date": "Jan 05 2024",
+				"Word": "BLOCK"
+			},
+			{
+				"Id": 931,
+				"Date": "Jan 06 2024",
+				"Word": "MEANT"
+			},
+			{
+				"Id": 932,
+				"Date": "Jan 07 2024",
+				"Word": "GRAPE"
+			},
+			{
+				"Id": 933,
+				"Date": "Jan 08 2024",
+				"Word": "NOOSE"
+			},
+			{
+				"Id": 934,
+				"Date": "Jan 09 2024",
+				"Word": "HARDY"
+			},
+			{
+				"Id": 935,
+				"Date": "Jan 10 2024",
+				"Word": "SHIED"
+			},
+			{
+				"Id": 936,
+				"Date": "Jan 11 2024",
+				"Word": "DRAWL"
+			},
+			{
+				"Id": 937,
+				"Date": "Jan 12 2024",
+				"Word": "DAISY"
+			},
+			{
+				"Id": 938,
+				"Date": "Jan 13 2024",
+				"Word": "PUTTY"
+			},
+			{
+				"Id": 939,
+				"Date": "Jan 14 2024",
+				"Word": "STRUT"
+			},
+			{
+				"Id": 940,
+				"Date": "Jan 15 2024",
+				"Word": "BURNT"
+			},
+			{
+				"Id": 941,
+				"Date": "Jan 16 2024",
+				"Word": "TULIP"
+			},
+			{
+				"Id": 942,
+				"Date": "Jan 17 2024",
+				"Word": "CRICK"
+			},
+			{
+				"Id": 943,
+				"Date": "Jan 18 2024",
+				"Word": "IDYLL"
+			},
+			{
+				"Id": 944,
+				"Date": "Jan 19 2024",
+				"Word": "VIXEN"
+			},
+			{
+				"Id": 945,
+				"Date": "Jan 20 2024",
+				"Word": "FUROR"
+			},
+			{
+				"Id": 946,
+				"Date": "Jan 21 2024",
+				"Word": "GEEKY"
+			},
+			{
+				"Id": 947,
+				"Date": "Jan 22 2024",
+				"Word": "COUGH"
+			},
+			{
+				"Id": 948,
+				"Date": "Jan 23 2024",
+				"Word": "NAIVE"
+			},
+			{
+				"Id": 949,
+				"Date": "Jan 24 2024",
+				"Word": "SHOAL"
+			},
+			{
+				"Id": 950,
+				"Date": "Jan 25 2024",
+				"Word": "STORK"
+			},
+			{
+				"Id": 951,
+				"Date": "Jan 26 2024",
+				"Word": "BATHE"
+			},
+			{
+				"Id": 952,
+				"Date": "Jan 27 2024",
+				"Word": "AUNTY"
+			},
+			{
+				"Id": 953,
+				"Date": "Jan 28 2024",
+				"Word": "CHECK"
+			},
+			{
+				"Id": 954,
+				"Date": "Jan 29 2024",
+				"Word": "PRIME"
+			},
+			{
+				"Id": 955,
+				"Date": "Jan 30 2024",
+				"Word": "BRASS"
+			},
+			{
+				"Id": 956,
+				"Date": "Jan 31 2024",
+				"Word": "OUTER"
+			},
+			{
+				"Id": 957,
+				"Date": "Feb 01 2024",
+				"Word": "FURRY"
+			},
+			{
+				"Id": 958,
+				"Date": "Feb 02 2024",
+				"Word": "RAZOR"
+			},
+			{
+				"Id": 959,
+				"Date": "Feb 03 2024",
+				"Word": "ELECT"
+			},
+			{
+				"Id": 960,
+				"Date": "Feb 04 2024",
+				"Word": "EVICT"
+			},
+			{
+				"Id": 961,
+				"Date": "Feb 05 2024",
+				"Word": "IMPLY"
+			},
+			{
+				"Id": 962,
+				"Date": "Feb 06 2024",
+				"Word": "DEMUR"
+			},
+			{
+				"Id": 963,
+				"Date": "Feb 07 2024",
+				"Word": "QUOTA"
+			},
+			{
+				"Id": 964,
+				"Date": "Feb 08 2024",
+				"Word": "HAVEN"
+			},
+			{
+				"Id": 965,
+				"Date": "Feb 09 2024",
+				"Word": "CAVIL"
+			},
+			{
+				"Id": 966,
+				"Date": "Feb 10 2024",
+				"Word": "SWEAR"
+			},
+			{
+				"Id": 967,
+				"Date": "Feb 11 2024",
+				"Word": "CRUMP"
+			},
+			{
+				"Id": 968,
+				"Date": "Feb 12 2024",
+				"Word": "DOUGH"
+			},
+			{
+				"Id": 969,
+				"Date": "Feb 13 2024",
+				"Word": "GAVEL"
+			},
+			{
+				"Id": 970,
+				"Date": "Feb 14 2024",
+				"Word": "WAGON"
+			},
+			{
+				"Id": 971,
+				"Date": "Feb 15 2024",
+				"Word": "SALON"
+			},
+			{
+				"Id": 972,
+				"Date": "Feb 16 2024",
+				"Word": "NUDGE"
+			},
+			{
+				"Id": 973,
+				"Date": "Feb 17 2024",
+				"Word": "HAREM"
+			},
+			{
+				"Id": 974,
+				"Date": "Feb 18 2024",
+				"Word": "PITCH"
+			},
+			{
+				"Id": 975,
+				"Date": "Feb 19 2024",
+				"Word": "SWORN"
+			},
+			{
+				"Id": 976,
+				"Date": "Feb 20 2024",
+				"Word": "PUPIL"
+			},
+			{
+				"Id": 977,
+				"Date": "Feb 21 2024",
+				"Word": "EXCEL"
+			},
+			{
+				"Id": 978,
+				"Date": "Feb 22 2024",
+				"Word": "STONY"
+			},
+			{
+				"Id": 979,
+				"Date": "Feb 23 2024",
+				"Word": "CABIN"
+			},
+			{
+				"Id": 980,
+				"Date": "Feb 24 2024",
+				"Word": "UNZIP"
+			},
+			{
+				"Id": 981,
+				"Date": "Feb 25 2024",
+				"Word": "QUEEN"
+			},
+			{
+				"Id": 982,
+				"Date": "Feb 26 2024",
+				"Word": "TROUT"
+			},
+			{
+				"Id": 983,
+				"Date": "Feb 27 2024",
+				"Word": "POLYP"
+			},
+			{
+				"Id": 984,
+				"Date": "Feb 28 2024",
+				"Word": "EARTH"
+			},
+			{
+				"Id": 985,
+				"Date": "Feb 29 2024",
+				"Word": "STORM"
+			},
+			{
+				"Id": 986,
+				"Date": "Mar 01 2024",
+				"Word": "UNTIL"
+			},
+			{
+				"Id": 987,
+				"Date": "Mar 02 2024",
+				"Word": "TAPER"
+			},
+			{
+				"Id": 988,
+				"Date": "Mar 03 2024",
+				"Word": "ENTER"
+			},
+			{
+				"Id": 989,
+				"Date": "Mar 04 2024",
+				"Word": "CHILD"
+			},
+			{
+				"Id": 990,
+				"Date": "Mar 05 2024",
+				"Word": "ADOPT"
+			},
+			{
+				"Id": 991,
+				"Date": "Mar 06 2024",
+				"Word": "MINOR"
+			},
+			{
+				"Id": 992,
+				"Date": "Mar 07 2024",
+				"Word": "FATTY"
+			},
+			{
+				"Id": 993,
+				"Date": "Mar 08 2024",
+				"Word": "HUSKY"
+			},
+			{
+				"Id": 994,
+				"Date": "Mar 09 2024",
+				"Word": "BRAVE"
+			},
+			{
+				"Id": 995,
+				"Date": "Mar 10 2024",
+				"Word": "FILET"
+			},
+			{
+				"Id": 996,
+				"Date": "Mar 11 2024",
+				"Word": "SLIME"
+			},
+			{
+				"Id": 997,
+				"Date": "Mar 12 2024",
+				"Word": "GLINT"
+			},
+			{
+				"Id": 998,
+				"Date": "Mar 13 2024",
+				"Word": "TREAD"
+			},
+			{
+				"Id": 999,
+				"Date": "Mar 14 2024",
+				"Word": "STEAL"
+			},
+			{
+				"Id": 1000,
+				"Date": "Mar 15 2024",
+				"Word": "REGAL"
+			},
+			{
+				"Id": 1001,
+				"Date": "Mar 16 2024",
+				"Word": "GUEST"
+			},
+			{
+				"Id": 1002,
+				"Date": "Mar 17 2024",
+				"Word": "EVERY"
+			},
+			{
+				"Id": 1003,
+				"Date": "Mar 18 2024",
+				"Word": "MURKY"
+			},
+			{
+				"Id": 1004,
+				"Date": "Mar 19 2024",
+				"Word": "SHARE"
+			},
+			{
+				"Id": 1005,
+				"Date": "Mar 20 2024",
+				"Word": "SPORE"
+			},
+			{
+				"Id": 1006,
+				"Date": "Mar 21 2024",
+				"Word": "HOIST"
+			},
+			{
+				"Id": 1007,
+				"Date": "Mar 22 2024",
+				"Word": "BUXOM"
+			},
+			{
+				"Id": 1008,
+				"Date": "Mar 23 2024",
+				"Word": "INNER"
+			},
+			{
+				"Id": 1009,
+				"Date": "Mar 24 2024",
+				"Word": "OTTER"
+			},
+			{
+				"Id": 1010,
+				"Date": "Mar 25 2024",
+				"Word": "DIMLY"
+			},
+			{
+				"Id": 1011,
+				"Date": "Mar 26 2024",
+				"Word": "LEVEL"
+			},
+			{
+				"Id": 1012,
+				"Date": "Mar 27 2024",
+				"Word": "SUMAC"
+			},
+			{
+				"Id": 1013,
+				"Date": "Mar 28 2024",
+				"Word": "DONUT"
+			},
+			{
+				"Id": 1014,
+				"Date": "Mar 29 2024",
+				"Word": "STILT"
+			},
+			{
+				"Id": 1015,
+				"Date": "Mar 30 2024",
+				"Word": "ARENA"
+			},
+			{
+				"Id": 1016,
+				"Date": "Mar 31 2024",
+				"Word": "SHEET"
+			},
+			{
+				"Id": 1017,
+				"Date": "Apr 01 2024",
+				"Word": "SCRUB"
+			},
+			{
+				"Id": 1018,
+				"Date": "Apr 02 2024",
+				"Word": "FANCY"
+			},
+			{
+				"Id": 1019,
+				"Date": "Apr 03 2024",
+				"Word": "SLIMY"
+			},
+			{
+				"Id": 1020,
+				"Date": "Apr 04 2024",
+				"Word": "PEARL"
+			},
+			{
+				"Id": 1021,
+				"Date": "Apr 05 2024",
+				"Word": "SILLY"
+			},
+			{
+				"Id": 1022,
+				"Date": "Apr 06 2024",
+				"Word": "PORCH"
+			},
+			{
+				"Id": 1023,
+				"Date": "Apr 07 2024",
+				"Word": "DINGO"
+			},
+			{
+				"Id": 1024,
+				"Date": "Apr 08 2024",
+				"Word": "SEPIA"
+			},
+			{
+				"Id": 1025,
+				"Date": "Apr 09 2024",
+				"Word": "AMBLE"
+			},
+			{
+				"Id": 1026,
+				"Date": "Apr 10 2024",
+				"Word": "SHADY"
+			},
+			{
+				"Id": 1027,
+				"Date": "Apr 11 2024",
+				"Word": "BREAD"
+			},
+			{
+				"Id": 1028,
+				"Date": "Apr 12 2024",
+				"Word": "FRIAR"
+			},
+			{
+				"Id": 1029,
+				"Date": "Apr 13 2024",
+				"Word": "REIGN"
+			},
+			{
+				"Id": 1030,
+				"Date": "Apr 14 2024",
+				"Word": "DAIRY"
+			},
+			{
+				"Id": 1031,
+				"Date": "Apr 15 2024",
+				"Word": "QUILL"
+			},
+			{
+				"Id": 1032,
+				"Date": "Apr 16 2024",
+				"Word": "CROSS"
+			},
+			{
+				"Id": 1033,
+				"Date": "Apr 17 2024",
+				"Word": "BROOD"
+			},
+			{
+				"Id": 1034,
+				"Date": "Apr 18 2024",
+				"Word": "TUBER"
+			},
+			{
+				"Id": 1035,
+				"Date": "Apr 19 2024",
+				"Word": "SHEAR"
+			},
+			{
+				"Id": 1036,
+				"Date": "Apr 20 2024",
+				"Word": "POSIT"
+			},
+			{
+				"Id": 1037,
+				"Date": "Apr 21 2024",
+				"Word": "BLANK"
+			},
+			{
+				"Id": 1038,
+				"Date": "Apr 22 2024",
+				"Word": "VILLA"
+			},
+			{
+				"Id": 1039,
+				"Date": "Apr 23 2024",
+				"Word": "SHANK"
+			},
+			{
+				"Id": 1040,
+				"Date": "Apr 24 2024",
+				"Word": "PIGGY"
+			},
+			{
+				"Id": 1041,
+				"Date": "Apr 25 2024",
+				"Word": "FREAK"
+			},
+			{
+				"Id": 1042,
+				"Date": "Apr 26 2024",
+				"Word": "WHICH"
+			},
+			{
+				"Id": 1043,
+				"Date": "Apr 27 2024",
+				"Word": "AMONG"
+			},
+			{
+				"Id": 1044,
+				"Date": "Apr 28 2024",
+				"Word": "FECAL"
+			},
+			{
+				"Id": 1045,
+				"Date": "Apr 29 2024",
+				"Word": "SHELL"
+			},
+			{
+				"Id": 1046,
+				"Date": "Apr 30 2024",
+				"Word": "WOULD"
+			},
+			{
+				"Id": 1047,
+				"Date": "May 01 2024",
+				"Word": "ALGAE"
+			},
+			{
+				"Id": 1048,
+				"Date": "May 02 2024",
+				"Word": "LARGE"
+			},
+			{
+				"Id": 1049,
+				"Date": "May 03 2024",
+				"Word": "RABBI"
+			},
+			{
+				"Id": 1050,
+				"Date": "May 04 2024",
+				"Word": "AGONY"
+			},
+			{
+				"Id": 1051,
+				"Date": "May 05 2024",
+				"Word": "AMUSE"
+			},
+			{
+				"Id": 1052,
+				"Date": "May 06 2024",
+				"Word": "BUSHY"
+			},
+			{
+				"Id": 1053,
+				"Date": "May 07 2024",
+				"Word": "COPSE"
+			},
+			{
+				"Id": 1054,
+				"Date": "May 08 2024",
+				"Word": "SWOON"
+			},
+			{
+				"Id": 1055,
+				"Date": "May 09 2024",
+				"Word": "KNIFE"
+			},
+			{
+				"Id": 1056,
+				"Date": "May 10 2024",
+				"Word": "POUCH"
+			},
+			{
+				"Id": 1057,
+				"Date": "May 11 2024",
+				"Word": "ASCOT"
+			},
+			{
+				"Id": 1058,
+				"Date": "May 12 2024",
+				"Word": "PLANE"
+			},
+			{
+				"Id": 1059,
+				"Date": "May 13 2024",
+				"Word": "CROWN"
+			},
+			{
+				"Id": 1060,
+				"Date": "May 14 2024",
+				"Word": "URBAN"
+			},
+			{
+				"Id": 1061,
+				"Date": "May 15 2024",
+				"Word": "SNIDE"
+			},
+			{
+				"Id": 1062,
+				"Date": "May 16 2024",
+				"Word": "RELAY"
+			},
+			{
+				"Id": 1063,
+				"Date": "May 17 2024",
+				"Word": "ABIDE"
+			},
+			{
+				"Id": 1064,
+				"Date": "May 18 2024",
+				"Word": "VIOLA"
+			},
+			{
+				"Id": 1065,
+				"Date": "May 19 2024",
+				"Word": "RAJAH"
+			},
+			{
+				"Id": 1066,
+				"Date": "May 20 2024",
+				"Word": "STRAW"
+			},
+			{
+				"Id": 1067,
+				"Date": "May 21 2024",
+				"Word": "DILLY"
+			},
+			{
+				"Id": 1068,
+				"Date": "May 22 2024",
+				"Word": "CRASH"
+			},
+			{
+				"Id": 1069,
+				"Date": "May 23 2024",
+				"Word": "AMASS"
+			},
+			{
+				"Id": 1070,
+				"Date": "May 24 2024",
+				"Word": "THIRD"
+			},
+			{
+				"Id": 1071,
+				"Date": "May 25 2024",
+				"Word": "TRICK"
+			},
+			{
+				"Id": 1072,
+				"Date": "May 26 2024",
+				"Word": "TUTOR"
+			},
+			{
+				"Id": 1073,
+				"Date": "May 27 2024",
+				"Word": "WOODY"
+			},
+			{
+				"Id": 1074,
+				"Date": "May 28 2024",
+				"Word": "BLURB"
+			},
+			{
+				"Id": 1075,
+				"Date": "May 29 2024",
+				"Word": "GRIEF"
+			},
+			{
+				"Id": 1076,
+				"Date": "May 30 2024",
+				"Word": "DISCO"
+			},
+			{
+				"Id": 1077,
+				"Date": "May 31 2024",
+				"Word": "WHERE"
+			},
+			{
+				"Id": 1078,
+				"Date": "Jun 01 2024",
+				"Word": "SASSY"
+			},
+			{
+				"Id": 1079,
+				"Date": "Jun 02 2024",
+				"Word": "BEACH"
+			},
+			{
+				"Id": 1080,
+				"Date": "Jun 03 2024",
+				"Word": "SAUNA"
+			},
+			{
+				"Id": 1081,
+				"Date": "Jun 04 2024",
+				"Word": "COMIC"
+			},
+			{
+				"Id": 1082,
+				"Date": "Jun 05 2024",
+				"Word": "CLUED"
+			},
+			{
+				"Id": 1083,
+				"Date": "Jun 06 2024",
+				"Word": "CREEP"
+			},
+			{
+				"Id": 1084,
+				"Date": "Jun 07 2024",
+				"Word": "CASTE"
+			},
+			{
+				"Id": 1085,
+				"Date": "Jun 08 2024",
+				"Word": "GRAZE"
+			},
+			{
+				"Id": 1086,
+				"Date": "Jun 09 2024",
+				"Word": "SNUFF"
+			},
+			{
+				"Id": 1087,
+				"Date": "Jun 10 2024",
+				"Word": "FROCK"
+			},
+			{
+				"Id": 1088,
+				"Date": "Jun 11 2024",
+				"Word": "GONAD"
+			},
+			{
+				"Id": 1089,
+				"Date": "Jun 12 2024",
+				"Word": "DRUNK"
+			},
+			{
+				"Id": 1090,
+				"Date": "Jun 13 2024",
+				"Word": "PRONG"
+			},
+			{
+				"Id": 1091,
+				"Date": "Jun 14 2024",
+				"Word": "LURID"
+			},
+			{
+				"Id": 1092,
+				"Date": "Jun 15 2024",
+				"Word": "STEEL"
+			},
+			{
+				"Id": 1093,
+				"Date": "Jun 16 2024",
+				"Word": "HALVE"
+			},
+			{
+				"Id": 1094,
+				"Date": "Jun 17 2024",
+				"Word": "BUYER"
+			},
+			{
+				"Id": 1095,
+				"Date": "Jun 18 2024",
+				"Word": "VINYL"
+			},
+			{
+				"Id": 1096,
+				"Date": "Jun 19 2024",
+				"Word": "UTILE"
+			},
+			{
+				"Id": 1097,
+				"Date": "Jun 20 2024",
+				"Word": "SMELL"
+			},
+			{
+				"Id": 1098,
+				"Date": "Jun 21 2024",
+				"Word": "ADAGE"
+			},
+			{
+				"Id": 1099,
+				"Date": "Jun 22 2024",
+				"Word": "WORRY"
+			},
+			{
+				"Id": 1100,
+				"Date": "Jun 23 2024",
+				"Word": "TASTY"
+			},
+			{
+				"Id": 1101,
+				"Date": "Jun 24 2024",
+				"Word": "LOCAL"
+			},
+			{
+				"Id": 1102,
+				"Date": "Jun 25 2024",
+				"Word": "TRADE"
+			},
+			{
+				"Id": 1103,
+				"Date": "Jun 26 2024",
+				"Word": "FINCH"
+			},
+			{
+				"Id": 1104,
+				"Date": "Jun 27 2024",
+				"Word": "ASHEN"
+			},
+			{
+				"Id": 1105,
+				"Date": "Jun 28 2024",
+				"Word": "MODAL"
+			},
+			{
+				"Id": 1106,
+				"Date": "Jun 29 2024",
+				"Word": "GAUNT"
+			},
+			{
+				"Id": 1107,
+				"Date": "Jun 30 2024",
+				"Word": "CLOVE"
+			},
+			{
+				"Id": 1108,
+				"Date": "Jul 01 2024",
+				"Word": "ENACT"
+			},
+			{
+				"Id": 1109,
+				"Date": "Jul 02 2024",
+				"Word": "ADORN"
+			},
+			{
+				"Id": 1110,
+				"Date": "Jul 03 2024",
+				"Word": "ROAST"
+			},
+			{
+				"Id": 1111,
+				"Date": "Jul 04 2024",
+				"Word": "SPECK"
+			},
+			{
+				"Id": 1112,
+				"Date": "Jul 05 2024",
+				"Word": "SHEIK"
+			},
+			{
+				"Id": 1113,
+				"Date": "Jul 06 2024",
+				"Word": "MISSY"
+			},
+			{
+				"Id": 1114,
+				"Date": "Jul 07 2024",
+				"Word": "GRUNT"
+			},
+			{
+				"Id": 1115,
+				"Date": "Jul 08 2024",
+				"Word": "SNOOP"
+			},
+			{
+				"Id": 1116,
+				"Date": "Jul 09 2024",
+				"Word": "PARTY"
+			},
+			{
+				"Id": 1117,
+				"Date": "Jul 10 2024",
+				"Word": "TOUCH"
+			},
+			{
+				"Id": 1118,
+				"Date": "Jul 11 2024",
+				"Word": "MAFIA"
+			},
+			{
+				"Id": 1119,
+				"Date": "Jul 12 2024",
+				"Word": "EMCEE"
+			},
+			{
+				"Id": 1120,
+				"Date": "Jul 13 2024",
+				"Word": "ARRAY"
+			},
+			{
+				"Id": 1121,
+				"Date": "Jul 14 2024",
+				"Word": "SOUTH"
+			},
+			{
+				"Id": 1122,
+				"Date": "Jul 15 2024",
+				"Word": "VAPID"
+			},
+			{
+				"Id": 1123,
+				"Date": "Jul 16 2024",
+				"Word": "JELLY"
+			},
+			{
+				"Id": 1124,
+				"Date": "Jul 17 2024",
+				"Word": "SKULK"
+			},
+			{
+				"Id": 1125,
+				"Date": "Jul 18 2024",
+				"Word": "ANGST"
+			},
+			{
+				"Id": 1126,
+				"Date": "Jul 19 2024",
+				"Word": "TUBAL"
+			},
+			{
+				"Id": 1127,
+				"Date": "Jul 20 2024",
+				"Word": "LOWER"
+			},
+			{
+				"Id": 1128,
+				"Date": "Jul 21 2024",
+				"Word": "CREST"
+			},
+			{
+				"Id": 1129,
+				"Date": "Jul 22 2024",
+				"Word": "SWEAT"
+			},
+			{
+				"Id": 1130,
+				"Date": "Jul 23 2024",
+				"Word": "CYBER"
+			},
+			{
+				"Id": 1131,
+				"Date": "Jul 24 2024",
+				"Word": "ADORE"
+			},
+			{
+				"Id": 1132,
+				"Date": "Jul 25 2024",
+				"Word": "TARDY"
+			},
+			{
+				"Id": 1133,
+				"Date": "Jul 26 2024",
+				"Word": "SWAMI"
+			},
+			{
+				"Id": 1134,
+				"Date": "Jul 27 2024",
+				"Word": "NOTCH"
+			},
+			{
+				"Id": 1135,
+				"Date": "Jul 28 2024",
+				"Word": "GROOM"
+			},
+			{
+				"Id": 1136,
+				"Date": "Jul 29 2024",
+				"Word": "ROACH"
+			},
+			{
+				"Id": 1137,
+				"Date": "Jul 30 2024",
+				"Word": "HITCH"
+			},
+			{
+				"Id": 1138,
+				"Date": "Jul 31 2024",
+				"Word": "YOUNG"
+			},
+			{
+				"Id": 1139,
+				"Date": "Aug 01 2024",
+				"Word": "ALIGN"
+			},
+			{
+				"Id": 1140,
+				"Date": "Aug 02 2024",
+				"Word": "READY"
+			},
+			{
+				"Id": 1141,
+				"Date": "Aug 03 2024",
+				"Word": "FROND"
+			},
+			{
+				"Id": 1142,
+				"Date": "Aug 04 2024",
+				"Word": "STRAP"
+			},
+			{
+				"Id": 1143,
+				"Date": "Aug 05 2024",
+				"Word": "PUREE"
+			},
+			{
+				"Id": 1144,
+				"Date": "Aug 06 2024",
+				"Word": "REALM"
+			},
+			{
+				"Id": 1145,
+				"Date": "Aug 07 2024",
+				"Word": "VENUE"
+			},
+			{
+				"Id": 1146,
+				"Date": "Aug 08 2024",
+				"Word": "SWARM"
+			},
+			{
+				"Id": 1147,
+				"Date": "Aug 09 2024",
+				"Word": "OFFER"
+			},
+			{
+				"Id": 1148,
+				"Date": "Aug 10 2024",
+				"Word": "SEVEN"
+			},
+			{
+				"Id": 1149,
+				"Date": "Aug 11 2024",
+				"Word": "DRYER"
+			},
+			{
+				"Id": 1150,
+				"Date": "Aug 12 2024",
+				"Word": "DIARY"
+			},
+			{
+				"Id": 1151,
+				"Date": "Aug 13 2024",
+				"Word": "DRYLY"
+			},
+			{
+				"Id": 1152,
+				"Date": "Aug 14 2024",
+				"Word": "DRANK"
+			},
+			{
+				"Id": 1153,
+				"Date": "Aug 15 2024",
+				"Word": "ACRID"
+			},
+			{
+				"Id": 1154,
+				"Date": "Aug 16 2024",
+				"Word": "HEADY"
+			},
+			{
+				"Id": 1155,
+				"Date": "Aug 17 2024",
+				"Word": "THETA"
+			},
+			{
+				"Id": 1156,
+				"Date": "Aug 18 2024",
+				"Word": "JUNTO"
+			},
+			{
+				"Id": 1157,
+				"Date": "Aug 19 2024",
+				"Word": "PIXIE"
+			},
+			{
+				"Id": 1158,
+				"Date": "Aug 20 2024",
+				"Word": "QUOTH"
+			},
+			{
+				"Id": 1159,
+				"Date": "Aug 21 2024",
+				"Word": "BONUS"
+			},
+			{
+				"Id": 1160,
+				"Date": "Aug 22 2024",
+				"Word": "SHALT"
+			},
+			{
+				"Id": 1161,
+				"Date": "Aug 23 2024",
+				"Word": "PENNE"
+			},
+			{
+				"Id": 1162,
+				"Date": "Aug 24 2024",
+				"Word": "AMEND"
+			},
+			{
+				"Id": 1163,
+				"Date": "Aug 25 2024",
+				"Word": "DATUM"
+			},
+			{
+				"Id": 1164,
+				"Date": "Aug 26 2024",
+				"Word": "BUILD"
+			},
+			{
+				"Id": 1165,
+				"Date": "Aug 27 2024",
+				"Word": "PIANO"
+			},
+			{
+				"Id": 1166,
+				"Date": "Aug 28 2024",
+				"Word": "SHELF"
+			},
+			{
+				"Id": 1167,
+				"Date": "Aug 29 2024",
+				"Word": "LODGE"
+			},
+			{
+				"Id": 1168,
+				"Date": "Aug 30 2024",
+				"Word": "SUING"
+			},
+			{
+				"Id": 1169,
+				"Date": "Aug 31 2024",
+				"Word": "REARM"
+			},
+			{
+				"Id": 1170,
+				"Date": "Sep 01 2024",
+				"Word": "CORAL"
+			},
+			{
+				"Id": 1171,
+				"Date": "Sep 02 2024",
+				"Word": "RAMEN"
+			},
+			{
+				"Id": 1172,
+				"Date": "Sep 03 2024",
+				"Word": "WORTH"
+			},
+			{
+				"Id": 1173,
+				"Date": "Sep 04 2024",
+				"Word": "PSALM"
+			},
+			{
+				"Id": 1174,
+				"Date": "Sep 05 2024",
+				"Word": "INFER"
+			},
+			{
+				"Id": 1175,
+				"Date": "Sep 06 2024",
+				"Word": "OVERT"
+			},
+			{
+				"Id": 1176,
+				"Date": "Sep 07 2024",
+				"Word": "MAYOR"
+			},
+			{
+				"Id": 1177,
+				"Date": "Sep 08 2024",
+				"Word": "OVOID"
+			},
+			{
+				"Id": 1178,
+				"Date": "Sep 09 2024",
+				"Word": "GLIDE"
+			},
+			{
+				"Id": 1179,
+				"Date": "Sep 10 2024",
+				"Word": "USAGE"
+			},
+			{
+				"Id": 1180,
+				"Date": "Sep 11 2024",
+				"Word": "POISE"
+			},
+			{
+				"Id": 1181,
+				"Date": "Sep 12 2024",
+				"Word": "RANDY"
+			},
+			{
+				"Id": 1182,
+				"Date": "Sep 13 2024",
+				"Word": "CHUCK"
+			},
+			{
+				"Id": 1183,
+				"Date": "Sep 14 2024",
+				"Word": "PRANK"
+			},
+			{
+				"Id": 1184,
+				"Date": "Sep 15 2024",
+				"Word": "FISHY"
+			},
+			{
+				"Id": 1185,
+				"Date": "Sep 16 2024",
+				"Word": "TOOTH"
+			},
+			{
+				"Id": 1186,
+				"Date": "Sep 17 2024",
+				"Word": "ETHER"
+			},
+			{
+				"Id": 1187,
+				"Date": "Sep 18 2024",
+				"Word": "DROVE"
+			},
+			{
+				"Id": 1188,
+				"Date": "Sep 19 2024",
+				"Word": "IDLER"
+			},
+			{
+				"Id": 1189,
+				"Date": "Sep 20 2024",
+				"Word": "SWATH"
+			},
+			{
+				"Id": 1190,
+				"Date": "Sep 21 2024",
+				"Word": "STINT"
+			},
+			{
+				"Id": 1191,
+				"Date": "Sep 22 2024",
+				"Word": "WHILE"
+			},
+			{
+				"Id": 1192,
+				"Date": "Sep 23 2024",
+				"Word": "BEGAT"
+			},
+			{
+				"Id": 1193,
+				"Date": "Sep 24 2024",
+				"Word": "APPLY"
+			},
+			{
+				"Id": 1194,
+				"Date": "Sep 25 2024",
+				"Word": "SLANG"
+			},
+			{
+				"Id": 1195,
+				"Date": "Sep 26 2024",
+				"Word": "TAROT"
+			},
+			{
+				"Id": 1196,
+				"Date": "Sep 27 2024",
+				"Word": "RADAR"
+			},
+			{
+				"Id": 1197,
+				"Date": "Sep 28 2024",
+				"Word": "CREDO"
+			},
+			{
+				"Id": 1198,
+				"Date": "Sep 29 2024",
+				"Word": "AWARE"
+			},
+			{
+				"Id": 1199,
+				"Date": "Sep 30 2024",
+				"Word": "CANON"
+			},
+			{
+				"Id": 1200,
+				"Date": "Oct 01 2024",
+				"Word": "SHIFT"
+			},
+			{
+				"Id": 1201,
+				"Date": "Oct 02 2024",
+				"Word": "TIMER"
+			},
+			{
+				"Id": 1202,
+				"Date": "Oct 03 2024",
+				"Word": "BYLAW"
+			},
+			{
+				"Id": 1203,
+				"Date": "Oct 04 2024",
+				"Word": "SERUM"
+			},
+			{
+				"Id": 1204,
+				"Date": "Oct 05 2024",
+				"Word": "THREE"
+			},
+			{
+				"Id": 1205,
+				"Date": "Oct 06 2024",
+				"Word": "STEAK"
+			},
+			{
+				"Id": 1206,
+				"Date": "Oct 07 2024",
+				"Word": "ILIAC"
+			},
+			{
+				"Id": 1207,
+				"Date": "Oct 08 2024",
+				"Word": "SHIRK"
+			},
+			{
+				"Id": 1208,
+				"Date": "Oct 09 2024",
+				"Word": "BLUNT"
+			},
+			{
+				"Id": 1209,
+				"Date": "Oct 10 2024",
+				"Word": "PUPPY"
+			},
+			{
+				"Id": 1210,
+				"Date": "Oct 11 2024",
+				"Word": "PENAL"
+			},
+			{
+				"Id": 1211,
+				"Date": "Oct 12 2024",
+				"Word": "JOIST"
+			},
+			{
+				"Id": 1212,
+				"Date": "Oct 13 2024",
+				"Word": "BUNNY"
+			},
+			{
+				"Id": 1213,
+				"Date": "Oct 14 2024",
+				"Word": "SHAPE"
+			},
+			{
+				"Id": 1214,
+				"Date": "Oct 15 2024",
+				"Word": "BEGET"
+			},
+			{
+				"Id": 1215,
+				"Date": "Oct 16 2024",
+				"Word": "WHEEL"
+			},
+			{
+				"Id": 1216,
+				"Date": "Oct 17 2024",
+				"Word": "ADEPT"
+			},
+			{
+				"Id": 1217,
+				"Date": "Oct 18 2024",
+				"Word": "STUNT"
+			},
+			{
+				"Id": 1218,
+				"Date": "Oct 19 2024",
+				"Word": "STOLE"
+			},
+			{
+				"Id": 1219,
+				"Date": "Oct 20 2024",
+				"Word": "TOPAZ"
+			},
+			{
+				"Id": 1220,
+				"Date": "Oct 21 2024",
+				"Word": "CHORE"
+			},
+			{
+				"Id": 1221,
+				"Date": "Oct 22 2024",
+				"Word": "FLUKE"
+			},
+			{
+				"Id": 1222,
+				"Date": "Oct 23 2024",
+				"Word": "AFOOT"
+			},
+			{
+				"Id": 1223,
+				"Date": "Oct 24 2024",
+				"Word": "BLOAT"
+			},
+			{
+				"Id": 1224,
+				"Date": "Oct 25 2024",
+				"Word": "BULLY"
+			},
+			{
+				"Id": 1225,
+				"Date": "Oct 26 2024",
+				"Word": "DENSE"
+			},
+			{
+				"Id": 1226,
+				"Date": "Oct 27 2024",
+				"Word": "CAPER"
+			},
+			{
+				"Id": 1227,
+				"Date": "Oct 28 2024",
+				"Word": "SNEER"
+			},
+			{
+				"Id": 1228,
+				"Date": "Oct 29 2024",
+				"Word": "BOXER"
+			},
+			{
+				"Id": 1229,
+				"Date": "Oct 30 2024",
+				"Word": "JUMBO"
+			},
+			{
+				"Id": 1230,
+				"Date": "Oct 31 2024",
+				"Word": "LUNGE"
+			},
+			{
+				"Id": 1231,
+				"Date": "Nov 01 2024",
+				"Word": "SPACE"
+			},
+			{
+				"Id": 1232,
+				"Date": "Nov 02 2024",
+				"Word": "AVAIL"
+			},
+			{
+				"Id": 1233,
+				"Date": "Nov 03 2024",
+				"Word": "SHORT"
+			},
+			{
+				"Id": 1234,
+				"Date": "Nov 04 2024",
+				"Word": "SLURP"
+			},
+			{
+				"Id": 1235,
+				"Date": "Nov 05 2024",
+				"Word": "LOYAL"
+			},
+			{
+				"Id": 1236,
+				"Date": "Nov 06 2024",
+				"Word": "FLIRT"
+			},
+			{
+				"Id": 1237,
+				"Date": "Nov 07 2024",
+				"Word": "PIZZA"
+			},
+			{
+				"Id": 1238,
+				"Date": "Nov 08 2024",
+				"Word": "CONCH"
+			},
+			{
+				"Id": 1239,
+				"Date": "Nov 09 2024",
+				"Word": "TEMPO"
+			},
+			{
+				"Id": 1240,
+				"Date": "Nov 10 2024",
+				"Word": "DROOP"
+			},
+			{
+				"Id": 1241,
+				"Date": "Nov 11 2024",
+				"Word": "PLATE"
+			},
+			{
+				"Id": 1242,
+				"Date": "Nov 12 2024",
+				"Word": "BIBLE"
+			},
+			{
+				"Id": 1243,
+				"Date": "Nov 13 2024",
+				"Word": "PLUNK"
+			},
+			{
+				"Id": 1244,
+				"Date": "Nov 14 2024",
+				"Word": "AFOUL"
+			},
+			{
+				"Id": 1245,
+				"Date": "Nov 15 2024",
+				"Word": "SAVOY"
+			},
+			{
+				"Id": 1246,
+				"Date": "Nov 16 2024",
+				"Word": "STEEP"
+			},
+			{
+				"Id": 1247,
+				"Date": "Nov 17 2024",
+				"Word": "AGILE"
+			},
+			{
+				"Id": 1248,
+				"Date": "Nov 18 2024",
+				"Word": "STAKE"
+			},
+			{
+				"Id": 1249,
+				"Date": "Nov 19 2024",
+				"Word": "DWELL"
+			},
+			{
+				"Id": 1250,
+				"Date": "Nov 20 2024",
+				"Word": "KNAVE"
+			},
+			{
+				"Id": 1251,
+				"Date": "Nov 21 2024",
+				"Word": "BEARD"
+			},
+			{
+				"Id": 1252,
+				"Date": "Nov 22 2024",
+				"Word": "AROSE"
+			},
+			{
+				"Id": 1253,
+				"Date": "Nov 23 2024",
+				"Word": "MOTIF"
+			},
+			{
+				"Id": 1254,
+				"Date": "Nov 24 2024",
+				"Word": "SMASH"
+			},
+			{
+				"Id": 1255,
+				"Date": "Nov 25 2024",
+				"Word": "BROIL"
+			},
+			{
+				"Id": 1256,
+				"Date": "Nov 26 2024",
+				"Word": "GLARE"
+			},
+			{
+				"Id": 1257,
+				"Date": "Nov 27 2024",
+				"Word": "SHOVE"
+			},
+			{
+				"Id": 1258,
+				"Date": "Nov 28 2024",
+				"Word": "BAGGY"
+			},
+			{
+				"Id": 1259,
+				"Date": "Nov 29 2024",
+				"Word": "MAMMY"
+			},
+			{
+				"Id": 1260,
+				"Date": "Nov 30 2024",
+				"Word": "SWAMP"
+			},
+			{
+				"Id": 1261,
+				"Date": "Dec 01 2024",
+				"Word": "ALONG"
+			},
+			{
+				"Id": 1262,
+				"Date": "Dec 02 2024",
+				"Word": "RUGBY"
+			},
+			{
+				"Id": 1263,
+				"Date": "Dec 03 2024",
+				"Word": "WAGER"
+			},
+			{
+				"Id": 1264,
+				"Date": "Dec 04 2024",
+				"Word": "QUACK"
+			},
+			{
+				"Id": 1265,
+				"Date": "Dec 05 2024",
+				"Word": "SQUAT"
+			},
+			{
+				"Id": 1266,
+				"Date": "Dec 06 2024",
+				"Word": "SNAKY"
+			},
+			{
+				"Id": 1267,
+				"Date": "Dec 07 2024",
+				"Word": "DEBIT"
+			},
+			{
+				"Id": 1268,
+				"Date": "Dec 08 2024",
+				"Word": "MANGE"
+			},
+			{
+				"Id": 1269,
+				"Date": "Dec 09 2024",
+				"Word": "SKATE"
+			},
+			{
+				"Id": 1270,
+				"Date": "Dec 10 2024",
+				"Word": "NINTH"
+			},
+			{
+				"Id": 1271,
+				"Date": "Dec 11 2024",
+				"Word": "JOUST"
+			},
+			{
+				"Id": 1272,
+				"Date": "Dec 12 2024",
+				"Word": "TRAMP"
+			},
+			{
+				"Id": 1273,
+				"Date": "Dec 13 2024",
+				"Word": "SPURN"
+			},
+			{
+				"Id": 1274,
+				"Date": "Dec 14 2024",
+				"Word": "MEDAL"
+			},
+			{
+				"Id": 1275,
+				"Date": "Dec 15 2024",
+				"Word": "MICRO"
+			},
+			{
+				"Id": 1276,
+				"Date": "Dec 16 2024",
+				"Word": "REBEL"
+			},
+			{
+				"Id": 1277,
+				"Date": "Dec 17 2024",
+				"Word": "FLANK"
+			},
+			{
+				"Id": 1278,
+				"Date": "Dec 18 2024",
+				"Word": "LEARN"
+			},
+			{
+				"Id": 1279,
+				"Date": "Dec 19 2024",
+				"Word": "NADIR"
+			},
+			{
+				"Id": 1280,
+				"Date": "Dec 20 2024",
+				"Word": "MAPLE"
+			},
+			{
+				"Id": 1281,
+				"Date": "Dec 21 2024",
+				"Word": "COMFY"
+			},
+			{
+				"Id": 1282,
+				"Date": "Dec 22 2024",
+				"Word": "REMIT"
+			},
+			{
+				"Id": 1283,
+				"Date": "Dec 23 2024",
+				"Word": "GRUFF"
+			},
+			{
+				"Id": 1284,
+				"Date": "Dec 24 2024",
+				"Word": "ESTER"
+			},
+			{
+				"Id": 1285,
+				"Date": "Dec 25 2024",
+				"Word": "LEAST"
+			},
+			{
+				"Id": 1286,
+				"Date": "Dec 26 2024",
+				"Word": "MOGUL"
+			},
+			{
+				"Id": 1287,
+				"Date": "Dec 27 2024",
+				"Word": "FETCH"
+			},
+			{
+				"Id": 1288,
+				"Date": "Dec 28 2024",
+				"Word": "CAUSE"
+			},
+			{
+				"Id": 1289,
+				"Date": "Dec 29 2024",
+				"Word": "OAKEN"
+			},
+			{
+				"Id": 1290,
+				"Date": "Dec 30 2024",
+				"Word": "AGLOW"
+			},
+			{
+				"Id": 1291,
+				"Date": "Dec 31 2024",
+				"Word": "MEATY"
+			},
+			{
+				"Id": 1292,
+				"Date": "Jan 01 2025",
+				"Word": "GAFFE"
+			},
+			{
+				"Id": 1293,
+				"Date": "Jan 02 2025",
+				"Word": "SHYLY"
+			},
+			{
+				"Id": 1294,
+				"Date": "Jan 03 2025",
+				"Word": "RACER"
+			},
+			{
+				"Id": 1295,
+				"Date": "Jan 04 2025",
+				"Word": "PROWL"
+			},
+			{
+				"Id": 1296,
+				"Date": "Jan 05 2025",
+				"Word": "THIEF"
+			},
+			{
+				"Id": 1297,
+				"Date": "Jan 06 2025",
+				"Word": "STERN"
+			},
+			{
+				"Id": 1298,
+				"Date": "Jan 07 2025",
+				"Word": "POESY"
+			},
+			{
+				"Id": 1299,
+				"Date": "Jan 08 2025",
+				"Word": "ROCKY"
+			},
+			{
+				"Id": 1300,
+				"Date": "Jan 09 2025",
+				"Word": "TWEET"
+			},
+			{
+				"Id": 1301,
+				"Date": "Jan 10 2025",
+				"Word": "WAIST"
+			},
+			{
+				"Id": 1302,
+				"Date": "Jan 11 2025",
+				"Word": "SPIRE"
+			},
+			{
+				"Id": 1303,
+				"Date": "Jan 12 2025",
+				"Word": "GROPE"
+			},
+			{
+				"Id": 1304,
+				"Date": "Jan 13 2025",
+				"Word": "HAVOC"
+			},
+			{
+				"Id": 1305,
+				"Date": "Jan 14 2025",
+				"Word": "PATSY"
+			},
+			{
+				"Id": 1306,
+				"Date": "Jan 15 2025",
+				"Word": "TRULY"
+			},
+			{
+				"Id": 1307,
+				"Date": "Jan 16 2025",
+				"Word": "FORTY"
+			},
+			{
+				"Id": 1308,
+				"Date": "Jan 17 2025",
+				"Word": "DEITY"
+			},
+			{
+				"Id": 1309,
+				"Date": "Jan 18 2025",
+				"Word": "UNCLE"
+			},
+			{
+				"Id": 1310,
+				"Date": "Jan 19 2025",
+				"Word": "SWISH"
+			},
+			{
+				"Id": 1311,
+				"Date": "Jan 20 2025",
+				"Word": "GIVER"
+			},
+			{
+				"Id": 1312,
+				"Date": "Jan 21 2025",
+				"Word": "PREEN"
+			},
+			{
+				"Id": 1313,
+				"Date": "Jan 22 2025",
+				"Word": "BEVEL"
+			},
+			{
+				"Id": 1314,
+				"Date": "Jan 23 2025",
+				"Word": "LEMUR"
+			},
+			{
+				"Id": 1315,
+				"Date": "Jan 24 2025",
+				"Word": "DRAFT"
+			},
+			{
+				"Id": 1316,
+				"Date": "Jan 25 2025",
+				"Word": "SLOPE"
+			},
+			{
+				"Id": 1317,
+				"Date": "Jan 26 2025",
+				"Word": "ANNOY"
+			},
+			{
+				"Id": 1318,
+				"Date": "Jan 27 2025",
+				"Word": "LINGO"
+			},
+			{
+				"Id": 1319,
+				"Date": "Jan 28 2025",
+				"Word": "BLEAK"
+			},
+			{
+				"Id": 1320,
+				"Date": "Jan 29 2025",
+				"Word": "DITTY"
+			},
+			{
+				"Id": 1321,
+				"Date": "Jan 30 2025",
+				"Word": "CURLY"
+			},
+			{
+				"Id": 1322,
+				"Date": "Jan 31 2025",
+				"Word": "CEDAR"
+			},
+			{
+				"Id": 1323,
+				"Date": "Feb 01 2025",
+				"Word": "DIRGE"
+			},
+			{
+				"Id": 1324,
+				"Date": "Feb 02 2025",
+				"Word": "GROWN"
+			},
+			{
+				"Id": 1325,
+				"Date": "Feb 03 2025",
+				"Word": "HORDE"
+			},
+			{
+				"Id": 1326,
+				"Date": "Feb 04 2025",
+				"Word": "DROOL"
+			},
+			{
+				"Id": 1327,
+				"Date": "Feb 05 2025",
+				"Word": "SHUCK"
+			},
+			{
+				"Id": 1328,
+				"Date": "Feb 06 2025",
+				"Word": "CRYPT"
+			},
+			{
+				"Id": 1329,
+				"Date": "Feb 07 2025",
+				"Word": "CUMIN"
+			},
+			{
+				"Id": 1330,
+				"Date": "Feb 08 2025",
+				"Word": "STOCK"
+			},
+			{
+				"Id": 1331,
+				"Date": "Feb 09 2025",
+				"Word": "GRAVY"
+			},
+			{
+				"Id": 1332,
+				"Date": "Feb 10 2025",
+				"Word": "LOCUS"
+			},
+			{
+				"Id": 1333,
+				"Date": "Feb 11 2025",
+				"Word": "WIDER"
+			},
+			{
+				"Id": 1334,
+				"Date": "Feb 12 2025",
+				"Word": "BREED"
+			},
+			{
+				"Id": 1335,
+				"Date": "Feb 13 2025",
+				"Word": "QUITE"
+			},
+			{
+				"Id": 1336,
+				"Date": "Feb 14 2025",
+				"Word": "CHAFE"
+			},
+			{
+				"Id": 1337,
+				"Date": "Feb 15 2025",
+				"Word": "CACHE"
+			},
+			{
+				"Id": 1338,
+				"Date": "Feb 16 2025",
+				"Word": "BLIMP"
+			},
+			{
+				"Id": 1339,
+				"Date": "Feb 17 2025",
+				"Word": "DEIGN"
+			},
+			{
+				"Id": 1340,
+				"Date": "Feb 18 2025",
+				"Word": "FIEND"
+			},
+			{
+				"Id": 1341,
+				"Date": "Feb 19 2025",
+				"Word": "LOGIC"
+			},
+			{
+				"Id": 1342,
+				"Date": "Feb 20 2025",
+				"Word": "CHEAP"
+			},
+			{
+				"Id": 1343,
+				"Date": "Feb 21 2025",
+				"Word": "ELIDE"
+			},
+			{
+				"Id": 1344,
+				"Date": "Feb 22 2025",
+				"Word": "RIGID"
+			},
+			{
+				"Id": 1345,
+				"Date": "Feb 23 2025",
+				"Word": "FALSE"
+			},
+			{
+				"Id": 1346,
+				"Date": "Feb 24 2025",
+				"Word": "RENAL"
+			},
+			{
+				"Id": 1347,
+				"Date": "Feb 25 2025",
+				"Word": "PENCE"
+			},
+			{
+				"Id": 1348,
+				"Date": "Feb 26 2025",
+				"Word": "ROWDY"
+			},
+			{
+				"Id": 1349,
+				"Date": "Feb 27 2025",
+				"Word": "SHOOT"
+			},
+			{
+				"Id": 1350,
+				"Date": "Feb 28 2025",
+				"Word": "BLAZE"
+			},
+			{
+				"Id": 1351,
+				"Date": "Mar 01 2025",
+				"Word": "ENVOY"
+			},
+			{
+				"Id": 1352,
+				"Date": "Mar 02 2025",
+				"Word": "POSSE"
+			},
+			{
+				"Id": 1353,
+				"Date": "Mar 03 2025",
+				"Word": "BRIEF"
+			},
+			{
+				"Id": 1354,
+				"Date": "Mar 04 2025",
+				"Word": "NEVER"
+			},
+			{
+				"Id": 1355,
+				"Date": "Mar 05 2025",
+				"Word": "ABORT"
+			},
+			{
+				"Id": 1356,
+				"Date": "Mar 06 2025",
+				"Word": "MOUSE"
+			},
+			{
+				"Id": 1357,
+				"Date": "Mar 07 2025",
+				"Word": "MUCKY"
+			},
+			{
+				"Id": 1358,
+				"Date": "Mar 08 2025",
+				"Word": "SULKY"
+			},
+			{
+				"Id": 1359,
+				"Date": "Mar 09 2025",
+				"Word": "FIERY"
+			},
+			{
+				"Id": 1360,
+				"Date": "Mar 10 2025",
+				"Word": "MEDIA"
+			},
+			{
+				"Id": 1361,
+				"Date": "Mar 11 2025",
+				"Word": "TRUNK"
+			},
+			{
+				"Id": 1362,
+				"Date": "Mar 12 2025",
+				"Word": "YEAST"
+			},
+			{
+				"Id": 1363,
+				"Date": "Mar 13 2025",
+				"Word": "CLEAR"
+			},
+			{
+				"Id": 1364,
+				"Date": "Mar 14 2025",
+				"Word": "SKUNK"
+			},
+			{
+				"Id": 1365,
+				"Date": "Mar 15 2025",
+				"Word": "SCALP"
+			},
+			{
+				"Id": 1366,
+				"Date": "Mar 16 2025",
+				"Word": "BITTY"
+			},
+			{
+				"Id": 1367,
+				"Date": "Mar 17 2025",
+				"Word": "CIDER"
+			},
+			{
+				"Id": 1368,
+				"Date": "Mar 18 2025",
+				"Word": "KOALA"
+			},
+			{
+				"Id": 1369,
+				"Date": "Mar 19 2025",
+				"Word": "DUVET"
+			},
+			{
+				"Id": 1370,
+				"Date": "Mar 20 2025",
+				"Word": "SEGUE"
+			},
+			{
+				"Id": 1371,
+				"Date": "Mar 21 2025",
+				"Word": "CREME"
+			},
+			{
+				"Id": 1372,
+				"Date": "Mar 22 2025",
+				"Word": "SUPER"
+			},
+			{
+				"Id": 1373,
+				"Date": "Mar 23 2025",
+				"Word": "GRILL"
+			},
+			{
+				"Id": 1374,
+				"Date": "Mar 24 2025",
+				"Word": "AFTER"
+			},
+			{
+				"Id": 1375,
+				"Date": "Mar 25 2025",
+				"Word": "OWNER"
+			},
+			{
+				"Id": 1376,
+				"Date": "Mar 26 2025",
+				"Word": "EMBER"
+			},
+			{
+				"Id": 1377,
+				"Date": "Mar 27 2025",
+				"Word": "REACH"
+			},
+			{
+				"Id": 1378,
+				"Date": "Mar 28 2025",
+				"Word": "NOBLY"
+			},
+			{
+				"Id": 1379,
+				"Date": "Mar 29 2025",
+				"Word": "EMPTY"
+			},
+			{
+				"Id": 1380,
+				"Date": "Mar 30 2025",
+				"Word": "SPEED"
+			},
+			{
+				"Id": 1381,
+				"Date": "Mar 31 2025",
+				"Word": "GIPSY"
+			},
+			{
+				"Id": 1382,
+				"Date": "Apr 01 2025",
+				"Word": "RECUR"
+			},
+			{
+				"Id": 1383,
+				"Date": "Apr 02 2025",
+				"Word": "SMOCK"
+			},
+			{
+				"Id": 1384,
+				"Date": "Apr 03 2025",
+				"Word": "DREAD"
+			},
+			{
+				"Id": 1385,
+				"Date": "Apr 04 2025",
+				"Word": "MERGE"
+			},
+			{
+				"Id": 1386,
+				"Date": "Apr 05 2025",
+				"Word": "BURST"
+			},
+			{
+				"Id": 1387,
+				"Date": "Apr 06 2025",
+				"Word": "KAPPA"
+			},
+			{
+				"Id": 1388,
+				"Date": "Apr 07 2025",
+				"Word": "AMITY"
+			},
+			{
+				"Id": 1389,
+				"Date": "Apr 08 2025",
+				"Word": "SHAKY"
+			},
+			{
+				"Id": 1390,
+				"Date": "Apr 09 2025",
+				"Word": "HOVER"
+			},
+			{
+				"Id": 1391,
+				"Date": "Apr 10 2025",
+				"Word": "CAROL"
+			},
+			{
+				"Id": 1392,
+				"Date": "Apr 11 2025",
+				"Word": "SNORT"
+			},
+			{
+				"Id": 1393,
+				"Date": "Apr 12 2025",
+				"Word": "SYNOD"
+			},
+			{
+				"Id": 1394,
+				"Date": "Apr 13 2025",
+				"Word": "FAINT"
+			},
+			{
+				"Id": 1395,
+				"Date": "Apr 14 2025",
+				"Word": "HAUNT"
+			},
+			{
+				"Id": 1396,
+				"Date": "Apr 15 2025",
+				"Word": "FLOUR"
+			},
+			{
+				"Id": 1397,
+				"Date": "Apr 16 2025",
+				"Word": "CHAIR"
+			},
+			{
+				"Id": 1398,
+				"Date": "Apr 17 2025",
+				"Word": "DETOX"
+			},
+			{
+				"Id": 1399,
+				"Date": "Apr 18 2025",
+				"Word": "SHREW"
+			},
+			{
+				"Id": 1400,
+				"Date": "Apr 19 2025",
+				"Word": "TENSE"
+			},
+			{
+				"Id": 1401,
+				"Date": "Apr 20 2025",
+				"Word": "PLIED"
+			},
+			{
+				"Id": 1402,
+				"Date": "Apr 21 2025",
+				"Word": "QUARK"
+			},
+			{
+				"Id": 1403,
+				"Date": "Apr 22 2025",
+				"Word": "BURLY"
+			},
+			{
+				"Id": 1404,
+				"Date": "Apr 23 2025",
+				"Word": "NOVEL"
+			},
+			{
+				"Id": 1405,
+				"Date": "Apr 24 2025",
+				"Word": "WAXEN"
+			},
+			{
+				"Id": 1406,
+				"Date": "Apr 25 2025",
+				"Word": "STOIC"
+			},
+			{
+				"Id": 1407,
+				"Date": "Apr 26 2025",
+				"Word": "JERKY"
+			},
+			{
+				"Id": 1408,
+				"Date": "Apr 27 2025",
+				"Word": "BLITZ"
+			},
+			{
+				"Id": 1409,
+				"Date": "Apr 28 2025",
+				"Word": "BEEFY"
+			},
+			{
+				"Id": 1410,
+				"Date": "Apr 29 2025",
+				"Word": "LYRIC"
+			},
+			{
+				"Id": 1411,
+				"Date": "Apr 30 2025",
+				"Word": "HUSSY"
+			},
+			{
+				"Id": 1412,
+				"Date": "May 01 2025",
+				"Word": "TOWEL"
+			},
+			{
+				"Id": 1413,
+				"Date": "May 02 2025",
+				"Word": "QUILT"
+			},
+			{
+				"Id": 1414,
+				"Date": "May 03 2025",
+				"Word": "BELOW"
+			},
+			{
+				"Id": 1415,
+				"Date": "May 04 2025",
+				"Word": "BINGO"
+			},
+			{
+				"Id": 1416,
+				"Date": "May 05 2025",
+				"Word": "WISPY"
+			},
+			{
+				"Id": 1417,
+				"Date": "May 06 2025",
+				"Word": "BRASH"
+			},
+			{
+				"Id": 1418,
+				"Date": "May 07 2025",
+				"Word": "SCONE"
+			},
+			{
+				"Id": 1419,
+				"Date": "May 08 2025",
+				"Word": "TOAST"
+			},
+			{
+				"Id": 1420,
+				"Date": "May 09 2025",
+				"Word": "EASEL"
+			},
+			{
+				"Id": 1421,
+				"Date": "May 10 2025",
+				"Word": "SAUCY"
+			},
+			{
+				"Id": 1422,
+				"Date": "May 11 2025",
+				"Word": "VALUE"
+			},
+			{
+				"Id": 1423,
+				"Date": "May 12 2025",
+				"Word": "SPICE"
+			},
+			{
+				"Id": 1424,
+				"Date": "May 13 2025",
+				"Word": "HONOR"
+			},
+			{
+				"Id": 1425,
+				"Date": "May 14 2025",
+				"Word": "ROUTE"
+			},
+			{
+				"Id": 1426,
+				"Date": "May 15 2025",
+				"Word": "SHARP"
+			},
+			{
+				"Id": 1427,
+				"Date": "May 16 2025",
+				"Word": "BAWDY"
+			},
+			{
+				"Id": 1428,
+				"Date": "May 17 2025",
+				"Word": "RADII"
+			},
+			{
+				"Id": 1429,
+				"Date": "May 18 2025",
+				"Word": "SKULL"
+			},
+			{
+				"Id": 1430,
+				"Date": "May 19 2025",
+				"Word": "PHONY"
+			},
+			{
+				"Id": 1431,
+				"Date": "May 20 2025",
+				"Word": "ISSUE"
+			},
+			{
+				"Id": 1432,
+				"Date": "May 21 2025",
+				"Word": "LAGER"
+			},
+			{
+				"Id": 1433,
+				"Date": "May 22 2025",
+				"Word": "SWELL"
+			},
+			{
+				"Id": 1434,
+				"Date": "May 23 2025",
+				"Word": "URINE"
+			},
+			{
+				"Id": 1435,
+				"Date": "May 24 2025",
+				"Word": "GASSY"
+			},
+			{
+				"Id": 1436,
+				"Date": "May 25 2025",
+				"Word": "TRIAL"
+			},
+			{
+				"Id": 1437,
+				"Date": "May 26 2025",
+				"Word": "FLORA"
+			},
+			{
+				"Id": 1438,
+				"Date": "May 27 2025",
+				"Word": "UPPER"
+			},
+			{
+				"Id": 1439,
+				"Date": "May 28 2025",
+				"Word": "LATCH"
+			},
+			{
+				"Id": 1440,
+				"Date": "May 29 2025",
+				"Word": "WIGHT"
+			},
+			{
+				"Id": 1441,
+				"Date": "May 30 2025",
+				"Word": "BRICK"
+			},
+			{
+				"Id": 1442,
+				"Date": "May 31 2025",
+				"Word": "RETRY"
+			},
+			{
+				"Id": 1443,
+				"Date": "Jun 01 2025",
+				"Word": "HOLLY"
+			},
+			{
+				"Id": 1444,
+				"Date": "Jun 02 2025",
+				"Word": "DECAL"
+			},
+			{
+				"Id": 1445,
+				"Date": "Jun 03 2025",
+				"Word": "GRASS"
+			},
+			{
+				"Id": 1446,
+				"Date": "Jun 04 2025",
+				"Word": "SHACK"
+			},
+			{
+				"Id": 1447,
+				"Date": "Jun 05 2025",
+				"Word": "DOGMA"
+			},
+			{
+				"Id": 1448,
+				"Date": "Jun 06 2025",
+				"Word": "MOVER"
+			},
+			{
+				"Id": 1449,
+				"Date": "Jun 07 2025",
+				"Word": "DEFER"
+			},
+			{
+				"Id": 1450,
+				"Date": "Jun 08 2025",
+				"Word": "SOBER"
+			},
+			{
+				"Id": 1451,
+				"Date": "Jun 09 2025",
+				"Word": "OPTIC"
+			},
+			{
+				"Id": 1452,
+				"Date": "Jun 10 2025",
+				"Word": "CRIER"
+			},
+			{
+				"Id": 1453,
+				"Date": "Jun 11 2025",
+				"Word": "VYING"
+			},
+			{
+				"Id": 1454,
+				"Date": "Jun 12 2025",
+				"Word": "NOMAD"
+			},
+			{
+				"Id": 1455,
+				"Date": "Jun 13 2025",
+				"Word": "FLUTE"
+			},
+			{
+				"Id": 1456,
+				"Date": "Jun 14 2025",
+				"Word": "HIPPO"
+			},
+			{
+				"Id": 1457,
+				"Date": "Jun 15 2025",
+				"Word": "SHARK"
+			},
+			{
+				"Id": 1458,
+				"Date": "Jun 16 2025",
+				"Word": "DRIER"
+			},
+			{
+				"Id": 1459,
+				"Date": "Jun 17 2025",
+				"Word": "OBESE"
+			},
+			{
+				"Id": 1460,
+				"Date": "Jun 18 2025",
+				"Word": "BUGLE"
+			},
+			{
+				"Id": 1461,
+				"Date": "Jun 19 2025",
+				"Word": "TAWNY"
+			},
+			{
+				"Id": 1462,
+				"Date": "Jun 20 2025",
+				"Word": "CHALK"
+			},
+			{
+				"Id": 1463,
+				"Date": "Jun 21 2025",
+				"Word": "FEAST"
+			},
+			{
+				"Id": 1464,
+				"Date": "Jun 22 2025",
+				"Word": "RUDDY"
+			},
+			{
+				"Id": 1465,
+				"Date": "Jun 23 2025",
+				"Word": "PEDAL"
+			},
+			{
+				"Id": 1466,
+				"Date": "Jun 24 2025",
+				"Word": "SCARF"
+			},
+			{
+				"Id": 1467,
+				"Date": "Jun 25 2025",
+				"Word": "CRUEL"
+			},
+			{
+				"Id": 1468,
+				"Date": "Jun 26 2025",
+				"Word": "BLEAT"
+			},
+			{
+				"Id": 1469,
+				"Date": "Jun 27 2025",
+				"Word": "TIDAL"
+			},
+			{
+				"Id": 1470,
+				"Date": "Jun 28 2025",
+				"Word": "SLUSH"
+			},
+			{
+				"Id": 1471,
+				"Date": "Jun 29 2025",
+				"Word": "SEMEN"
+			},
+			{
+				"Id": 1472,
+				"Date": "Jun 30 2025",
+				"Word": "WINDY"
+			},
+			{
+				"Id": 1473,
+				"Date": "Jul 01 2025",
+				"Word": "DUSTY"
+			},
+			{
+				"Id": 1474,
+				"Date": "Jul 02 2025",
+				"Word": "SALLY"
+			},
+			{
+				"Id": 1475,
+				"Date": "Jul 03 2025",
+				"Word": "IGLOO"
+			},
+			{
+				"Id": 1476,
+				"Date": "Jul 04 2025",
+				"Word": "NERDY"
+			},
+			{
+				"Id": 1477,
+				"Date": "Jul 05 2025",
+				"Word": "JEWEL"
+			},
+			{
+				"Id": 1478,
+				"Date": "Jul 06 2025",
+				"Word": "SHONE"
+			},
+			{
+				"Id": 1479,
+				"Date": "Jul 07 2025",
+				"Word": "WHALE"
+			},
+			{
+				"Id": 1480,
+				"Date": "Jul 08 2025",
+				"Word": "HYMEN"
+			},
+			{
+				"Id": 1481,
+				"Date": "Jul 09 2025",
+				"Word": "ABUSE"
+			},
+			{
+				"Id": 1482,
+				"Date": "Jul 10 2025",
+				"Word": "FUGUE"
+			},
+			{
+				"Id": 1483,
+				"Date": "Jul 11 2025",
+				"Word": "ELBOW"
+			},
+			{
+				"Id": 1484,
+				"Date": "Jul 12 2025",
+				"Word": "CRUMB"
+			},
+			{
+				"Id": 1485,
+				"Date": "Jul 13 2025",
+				"Word": "PANSY"
+			},
+			{
+				"Id": 1486,
+				"Date": "Jul 14 2025",
+				"Word": "WELSH"
+			},
+			{
+				"Id": 1487,
+				"Date": "Jul 15 2025",
+				"Word": "SYRUP"
+			},
+			{
+				"Id": 1488,
+				"Date": "Jul 16 2025",
+				"Word": "TERSE"
+			},
+			{
+				"Id": 1489,
+				"Date": "Jul 17 2025",
+				"Word": "SUAVE"
+			},
+			{
+				"Id": 1490,
+				"Date": "Jul 18 2025",
+				"Word": "GAMUT"
+			},
+			{
+				"Id": 1491,
+				"Date": "Jul 19 2025",
+				"Word": "SWUNG"
+			},
+			{
+				"Id": 1492,
+				"Date": "Jul 20 2025",
+				"Word": "DRAKE"
+			},
+			{
+				"Id": 1493,
+				"Date": "Jul 21 2025",
+				"Word": "FREED"
+			},
+			{
+				"Id": 1494,
+				"Date": "Jul 22 2025",
+				"Word": "AFIRE"
+			},
+			{
+				"Id": 1495,
+				"Date": "Jul 23 2025",
+				"Word": "SHIRT"
+			},
+			{
+				"Id": 1496,
+				"Date": "Jul 24 2025",
+				"Word": "GROUT"
+			},
+			{
+				"Id": 1497,
+				"Date": "Jul 25 2025",
+				"Word": "ODDLY"
+			},
+			{
+				"Id": 1498,
+				"Date": "Jul 26 2025",
+				"Word": "TITHE"
+			},
+			{
+				"Id": 1499,
+				"Date": "Jul 27 2025",
+				"Word": "PLAID"
+			},
+			{
+				"Id": 1500,
+				"Date": "Jul 28 2025",
+				"Word": "DUMMY"
+			},
+			{
+				"Id": 1501,
+				"Date": "Jul 29 2025",
+				"Word": "BROOM"
+			},
+			{
+				"Id": 1502,
+				"Date": "Jul 30 2025",
+				"Word": "BLIND"
+			},
+			{
+				"Id": 1503,
+				"Date": "Jul 31 2025",
+				"Word": "TORCH"
+			},
+			{
+				"Id": 1504,
+				"Date": "Aug 01 2025",
+				"Word": "ENEMY"
+			},
+			{
+				"Id": 1505,
+				"Date": "Aug 02 2025",
+				"Word": "AGAIN"
+			},
+			{
+				"Id": 1506,
+				"Date": "Aug 03 2025",
+				"Word": "TYING"
+			},
+			{
+				"Id": 1507,
+				"Date": "Aug 04 2025",
+				"Word": "PESKY"
+			},
+			{
+				"Id": 1508,
+				"Date": "Aug 05 2025",
+				"Word": "ALTER"
+			},
+			{
+				"Id": 1509,
+				"Date": "Aug 06 2025",
+				"Word": "GAZER"
+			},
+			{
+				"Id": 1510,
+				"Date": "Aug 07 2025",
+				"Word": "NOBLE"
+			},
+			{
+				"Id": 1511,
+				"Date": "Aug 08 2025",
+				"Word": "ETHOS"
+			},
+			{
+				"Id": 1512,
+				"Date": "Aug 09 2025",
+				"Word": "BRIDE"
+			},
+			{
+				"Id": 1513,
+				"Date": "Aug 10 2025",
+				"Word": "EXTOL"
+			},
+			{
+				"Id": 1514,
+				"Date": "Aug 11 2025",
+				"Word": "DECOR"
+			},
+			{
+				"Id": 1515,
+				"Date": "Aug 12 2025",
+				"Word": "HOBBY"
+			},
+			{
+				"Id": 1516,
+				"Date": "Aug 13 2025",
+				"Word": "BEAST"
+			},
+			{
+				"Id": 1517,
+				"Date": "Aug 14 2025",
+				"Word": "IDIOM"
+			},
+			{
+				"Id": 1518,
+				"Date": "Aug 15 2025",
+				"Word": "UTTER"
+			},
+			{
+				"Id": 1519,
+				"Date": "Aug 16 2025",
+				"Word": "THESE"
+			},
+			{
+				"Id": 1520,
+				"Date": "Aug 17 2025",
+				"Word": "SIXTH"
+			},
+			{
+				"Id": 1521,
+				"Date": "Aug 18 2025",
+				"Word": "ALARM"
+			},
+			{
+				"Id": 1522,
+				"Date": "Aug 19 2025",
+				"Word": "ERASE"
+			},
+			{
+				"Id": 1523,
+				"Date": "Aug 20 2025",
+				"Word": "ELEGY"
+			},
+			{
+				"Id": 1524,
+				"Date": "Aug 21 2025",
+				"Word": "SPUNK"
+			},
+			{
+				"Id": 1525,
+				"Date": "Aug 22 2025",
+				"Word": "PIPER"
+			},
+			{
+				"Id": 1526,
+				"Date": "Aug 23 2025",
+				"Word": "SCALY"
+			},
+			{
+				"Id": 1527,
+				"Date": "Aug 24 2025",
+				"Word": "SCOLD"
+			},
+			{
+				"Id": 1528,
+				"Date": "Aug 25 2025",
+				"Word": "HEFTY"
+			},
+			{
+				"Id": 1529,
+				"Date": "Aug 26 2025",
+				"Word": "CHICK"
+			},
+			{
+				"Id": 1530,
+				"Date": "Aug 27 2025",
+				"Word": "SOOTY"
+			},
+			{
+				"Id": 1531,
+				"Date": "Aug 28 2025",
+				"Word": "CANAL"
+			},
+			{
+				"Id": 1532,
+				"Date": "Aug 29 2025",
+				"Word": "WHINY"
+			},
+			{
+				"Id": 1533,
+				"Date": "Aug 30 2025",
+				"Word": "SLASH"
+			},
+			{
+				"Id": 1534,
+				"Date": "Aug 31 2025",
+				"Word": "QUAKE"
+			},
+			{
+				"Id": 1535,
+				"Date": "Sep 01 2025",
+				"Word": "JOINT"
+			},
+			{
+				"Id": 1536,
+				"Date": "Sep 02 2025",
+				"Word": "SWEPT"
+			},
+			{
+				"Id": 1537,
+				"Date": "Sep 03 2025",
+				"Word": "PRUDE"
+			},
+			{
+				"Id": 1538,
+				"Date": "Sep 04 2025",
+				"Word": "HEAVY"
+			},
+			{
+				"Id": 1539,
+				"Date": "Sep 05 2025",
+				"Word": "WIELD"
+			},
+			{
+				"Id": 1540,
+				"Date": "Sep 06 2025",
+				"Word": "FEMME"
+			},
+			{
+				"Id": 1541,
+				"Date": "Sep 07 2025",
+				"Word": "LASSO"
+			},
+			{
+				"Id": 1542,
+				"Date": "Sep 08 2025",
+				"Word": "MAIZE"
+			},
+			{
+				"Id": 1543,
+				"Date": "Sep 09 2025",
+				"Word": "SHALE"
+			},
+			{
+				"Id": 1544,
+				"Date": "Sep 10 2025",
+				"Word": "SCREW"
+			},
+			{
+				"Id": 1545,
+				"Date": "Sep 11 2025",
+				"Word": "SPREE"
+			},
+			{
+				"Id": 1546,
+				"Date": "Sep 12 2025",
+				"Word": "SMOKY"
+			},
+			{
+				"Id": 1547,
+				"Date": "Sep 13 2025",
+				"Word": "WHIFF"
+			},
+			{
+				"Id": 1548,
+				"Date": "Sep 14 2025",
+				"Word": "SCENT"
+			},
+			{
+				"Id": 1549,
+				"Date": "Sep 15 2025",
+				"Word": "GLADE"
+			},
+			{
+				"Id": 1550,
+				"Date": "Sep 16 2025",
+				"Word": "SPENT"
+			},
+			{
+				"Id": 1551,
+				"Date": "Sep 17 2025",
+				"Word": "PRISM"
+			},
+			{
+				"Id": 1552,
+				"Date": "Sep 18 2025",
+				"Word": "STOKE"
+			},
+			{
+				"Id": 1553,
+				"Date": "Sep 19 2025",
+				"Word": "RIPER"
+			},
+			{
+				"Id": 1554,
+				"Date": "Sep 20 2025",
+				"Word": "ORBIT"
+			},
+			{
+				"Id": 1555,
+				"Date": "Sep 21 2025",
+				"Word": "COCOA"
+			},
+			{
+				"Id": 1556,
+				"Date": "Sep 22 2025",
+				"Word": "GUILT"
+			},
+			{
+				"Id": 1557,
+				"Date": "Sep 23 2025",
+				"Word": "HUMUS"
+			},
+			{
+				"Id": 1558,
+				"Date": "Sep 24 2025",
+				"Word": "SHUSH"
+			},
+			{
+				"Id": 1559,
+				"Date": "Sep 25 2025",
+				"Word": "TABLE"
+			},
+			{
+				"Id": 1560,
+				"Date": "Sep 26 2025",
+				"Word": "SMIRK"
+			},
+			{
+				"Id": 1561,
+				"Date": "Sep 27 2025",
+				"Word": "WRONG"
+			},
+			{
+				"Id": 1562,
+				"Date": "Sep 28 2025",
+				"Word": "NOISY"
+			},
+			{
+				"Id": 1563,
+				"Date": "Sep 29 2025",
+				"Word": "ALERT"
+			},
+			{
+				"Id": 1564,
+				"Date": "Sep 30 2025",
+				"Word": "SHINY"
+			},
+			{
+				"Id": 1565,
+				"Date": "Oct 01 2025",
+				"Word": "ELATE"
+			},
+			{
+				"Id": 1566,
+				"Date": "Oct 02 2025",
+				"Word": "RESIN"
+			},
+			{
+				"Id": 1567,
+				"Date": "Oct 03 2025",
+				"Word": "WHOLE"
+			},
+			{
+				"Id": 1568,
+				"Date": "Oct 04 2025",
+				"Word": "HUNCH"
+			},
+			{
+				"Id": 1569,
+				"Date": "Oct 05 2025",
+				"Word": "PIXEL"
+			},
+			{
+				"Id": 1570,
+				"Date": "Oct 06 2025",
+				"Word": "POLAR"
+			},
+			{
+				"Id": 1571,
+				"Date": "Oct 07 2025",
+				"Word": "HOTEL"
+			},
+			{
+				"Id": 1572,
+				"Date": "Oct 08 2025",
+				"Word": "SWORD"
+			},
+			{
+				"Id": 1573,
+				"Date": "Oct 09 2025",
+				"Word": "CLEAT"
+			},
+			{
+				"Id": 1574,
+				"Date": "Oct 10 2025",
+				"Word": "MANGO"
+			},
+			{
+				"Id": 1575,
+				"Date": "Oct 11 2025",
+				"Word": "RUMBA"
+			},
+			{
+				"Id": 1576,
+				"Date": "Oct 12 2025",
+				"Word": "PUFFY"
+			},
+			{
+				"Id": 1577,
+				"Date": "Oct 13 2025",
+				"Word": "FILLY"
+			},
+			{
+				"Id": 1578,
+				"Date": "Oct 14 2025",
+				"Word": "BILLY"
+			},
+			{
+				"Id": 1579,
+				"Date": "Oct 15 2025",
+				"Word": "LEASH"
+			},
+			{
+				"Id": 1580,
+				"Date": "Oct 16 2025",
+				"Word": "CLOUT"
+			},
+			{
+				"Id": 1581,
+				"Date": "Oct 17 2025",
+				"Word": "DANCE"
+			},
+			{
+				"Id": 1582,
+				"Date": "Oct 18 2025",
+				"Word": "OVATE"
+			},
+			{
+				"Id": 1583,
+				"Date": "Oct 19 2025",
+				"Word": "FACET"
+			},
+			{
+				"Id": 1584,
+				"Date": "Oct 20 2025",
+				"Word": "CHILI"
+			},
+			{
+				"Id": 1585,
+				"Date": "Oct 21 2025",
+				"Word": "PAINT"
+			},
+			{
+				"Id": 1586,
+				"Date": "Oct 22 2025",
+				"Word": "LINER"
+			},
+			{
+				"Id": 1587,
+				"Date": "Oct 23 2025",
+				"Word": "CURIO"
+			},
+			{
+				"Id": 1588,
+				"Date": "Oct 24 2025",
+				"Word": "SALTY"
+			},
+			{
+				"Id": 1589,
+				"Date": "Oct 25 2025",
+				"Word": "AUDIO"
+			},
+			{
+				"Id": 1590,
+				"Date": "Oct 26 2025",
+				"Word": "SNAKE"
+			},
+			{
+				"Id": 1591,
+				"Date": "Oct 27 2025",
+				"Word": "FABLE"
+			},
+			{
+				"Id": 1592,
+				"Date": "Oct 28 2025",
+				"Word": "CLOAK"
+			},
+			{
+				"Id": 1593,
+				"Date": "Oct 29 2025",
+				"Word": "NAVEL"
+			},
+			{
+				"Id": 1594,
+				"Date": "Oct 30 2025",
+				"Word": "SPURT"
+			},
+			{
+				"Id": 1595,
+				"Date": "Oct 31 2025",
+				"Word": "PESTO"
+			},
+			{
+				"Id": 1596,
+				"Date": "Nov 01 2025",
+				"Word": "BALMY"
+			},
+			{
+				"Id": 1597,
+				"Date": "Nov 02 2025",
+				"Word": "FLASH"
+			},
+			{
+				"Id": 1598,
+				"Date": "Nov 03 2025",
+				"Word": "UNWED"
+			},
+			{
+				"Id": 1599,
+				"Date": "Nov 04 2025",
+				"Word": "EARLY"
+			},
+			{
+				"Id": 1600,
+				"Date": "Nov 05 2025",
+				"Word": "CHURN"
+			},
+			{
+				"Id": 1601,
+				"Date": "Nov 06 2025",
+				"Word": "WEEDY"
+			},
+			{
+				"Id": 1602,
+				"Date": "Nov 07 2025",
+				"Word": "STUMP"
+			},
+			{
+				"Id": 1603,
+				"Date": "Nov 08 2025",
+				"Word": "LEASE"
+			},
+			{
+				"Id": 1604,
+				"Date": "Nov 09 2025",
+				"Word": "WITTY"
+			},
+			{
+				"Id": 1605,
+				"Date": "Nov 10 2025",
+				"Word": "WIMPY"
+			},
+			{
+				"Id": 1606,
+				"Date": "Nov 11 2025",
+				"Word": "SPOOF"
+			},
+			{
+				"Id": 1607,
+				"Date": "Nov 12 2025",
+				"Word": "SANER"
+			},
+			{
+				"Id": 1608,
+				"Date": "Nov 13 2025",
+				"Word": "BLEND"
+			},
+			{
+				"Id": 1609,
+				"Date": "Nov 14 2025",
+				"Word": "SALSA"
+			},
+			{
+				"Id": 1610,
+				"Date": "Nov 15 2025",
+				"Word": "THICK"
+			},
+			{
+				"Id": 1611,
+				"Date": "Nov 16 2025",
+				"Word": "WARTY"
+			},
+			{
+				"Id": 1612,
+				"Date": "Nov 17 2025",
+				"Word": "MANIC"
+			},
+			{
+				"Id": 1613,
+				"Date": "Nov 18 2025",
+				"Word": "BLARE"
+			},
+			{
+				"Id": 1614,
+				"Date": "Nov 19 2025",
+				"Word": "SQUIB"
+			},
+			{
+				"Id": 1615,
+				"Date": "Nov 20 2025",
+				"Word": "SPOON"
+			},
+			{
+				"Id": 1616,
+				"Date": "Nov 21 2025",
+				"Word": "PROBE"
+			},
+			{
+				"Id": 1617,
+				"Date": "Nov 22 2025",
+				"Word": "CREPE"
+			},
+			{
+				"Id": 1618,
+				"Date": "Nov 23 2025",
+				"Word": "KNACK"
+			},
+			{
+				"Id": 1619,
+				"Date": "Nov 24 2025",
+				"Word": "FORCE"
+			},
+			{
+				"Id": 1620,
+				"Date": "Nov 25 2025",
+				"Word": "DEBUT"
+			},
+			{
+				"Id": 1621,
+				"Date": "Nov 26 2025",
+				"Word": "ORDER"
+			},
+			{
+				"Id": 1622,
+				"Date": "Nov 27 2025",
+				"Word": "HASTE"
+			},
+			{
+				"Id": 1623,
+				"Date": "Nov 28 2025",
+				"Word": "TEETH"
+			},
+			{
+				"Id": 1624,
+				"Date": "Nov 29 2025",
+				"Word": "AGENT"
+			},
+			{
+				"Id": 1625,
+				"Date": "Nov 30 2025",
+				"Word": "WIDEN"
+			},
+			{
+				"Id": 1626,
+				"Date": "Dec 01 2025",
+				"Word": "ICILY"
+			},
+			{
+				"Id": 1627,
+				"Date": "Dec 02 2025",
+				"Word": "SLICE"
+			},
+			{
+				"Id": 1628,
+				"Date": "Dec 03 2025",
+				"Word": "INGOT"
+			},
+			{
+				"Id": 1629,
+				"Date": "Dec 04 2025",
+				"Word": "CLASH"
+			},
+			{
+				"Id": 1630,
+				"Date": "Dec 05 2025",
+				"Word": "JUROR"
+			},
+			{
+				"Id": 1631,
+				"Date": "Dec 06 2025",
+				"Word": "BLOOD"
+			},
+			{
+				"Id": 1632,
+				"Date": "Dec 07 2025",
+				"Word": "ABODE"
+			},
+			{
+				"Id": 1633,
+				"Date": "Dec 08 2025",
+				"Word": "THROW"
+			},
+			{
+				"Id": 1634,
+				"Date": "Dec 09 2025",
+				"Word": "UNITY"
+			},
+			{
+				"Id": 1635,
+				"Date": "Dec 10 2025",
+				"Word": "PIVOT"
+			},
+			{
+				"Id": 1636,
+				"Date": "Dec 11 2025",
+				"Word": "SLEPT"
+			},
+			{
+				"Id": 1637,
+				"Date": "Dec 12 2025",
+				"Word": "TROOP"
+			},
+			{
+				"Id": 1638,
+				"Date": "Dec 13 2025",
+				"Word": "SPARE"
+			},
+			{
+				"Id": 1639,
+				"Date": "Dec 14 2025",
+				"Word": "SEWER"
+			},
+			{
+				"Id": 1640,
+				"Date": "Dec 15 2025",
+				"Word": "PARSE"
+			},
+			{
+				"Id": 1641,
+				"Date": "Dec 16 2025",
+				"Word": "MORPH"
+			},
+			{
+				"Id": 1642,
+				"Date": "Dec 17 2025",
+				"Word": "CACTI"
+			},
+			{
+				"Id": 1643,
+				"Date": "Dec 18 2025",
+				"Word": "TACKY"
+			},
+			{
+				"Id": 1644,
+				"Date": "Dec 19 2025",
+				"Word": "SPOOL"
+			},
+			{
+				"Id": 1645,
+				"Date": "Dec 20 2025",
+				"Word": "DEMON"
+			},
+			{
+				"Id": 1646,
+				"Date": "Dec 21 2025",
+				"Word": "MOODY"
+			},
+			{
+				"Id": 1647,
+				"Date": "Dec 22 2025",
+				"Word": "ANNEX"
+			},
+			{
+				"Id": 1648,
+				"Date": "Dec 23 2025",
+				"Word": "BEGIN"
+			},
+			{
+				"Id": 1649,
+				"Date": "Dec 24 2025",
+				"Word": "FUZZY"
+			},
+			{
+				"Id": 1650,
+				"Date": "Dec 25 2025",
+				"Word": "PATCH"
+			},
+			{
+				"Id": 1651,
+				"Date": "Dec 26 2025",
+				"Word": "WATER"
+			},
+			{
+				"Id": 1652,
+				"Date": "Dec 27 2025",
+				"Word": "LUMPY"
+			},
+			{
+				"Id": 1653,
+				"Date": "Dec 28 2025",
+				"Word": "ADMIN"
+			},
+			{
+				"Id": 1654,
+				"Date": "Dec 29 2025",
+				"Word": "OMEGA"
+			},
+			{
+				"Id": 1655,
+				"Date": "Dec 30 2025",
+				"Word": "LIMIT"
+			},
+			{
+				"Id": 1656,
+				"Date": "Dec 31 2025",
+				"Word": "TABBY"
+			},
+			{
+				"Id": 1657,
+				"Date": "Jan 01 2026",
+				"Word": "MACHO"
+			},
+			{
+				"Id": 1658,
+				"Date": "Jan 02 2026",
+				"Word": "AISLE"
+			},
+			{
+				"Id": 1659,
+				"Date": "Jan 03 2026",
+				"Word": "SKIFF"
+			},
+			{
+				"Id": 1660,
+				"Date": "Jan 04 2026",
+				"Word": "BASIS"
+			},
+			{
+				"Id": 1661,
+				"Date": "Jan 05 2026",
+				"Word": "PLANK"
+			},
+			{
+				"Id": 1662,
+				"Date": "Jan 06 2026",
+				"Word": "VERGE"
+			},
+			{
+				"Id": 1663,
+				"Date": "Jan 07 2026",
+				"Word": "BOTCH"
+			},
+			{
+				"Id": 1664,
+				"Date": "Jan 08 2026",
+				"Word": "CRAWL"
+			},
+			{
+				"Id": 1665,
+				"Date": "Jan 09 2026",
+				"Word": "LOUSY"
+			},
+			{
+				"Id": 1666,
+				"Date": "Jan 10 2026",
+				"Word": "SLAIN"
+			},
+			{
+				"Id": 1667,
+				"Date": "Jan 11 2026",
+				"Word": "CUBIC"
+			},
+			{
+				"Id": 1668,
+				"Date": "Jan 12 2026",
+				"Word": "RAISE"
+			},
+			{
+				"Id": 1669,
+				"Date": "Jan 13 2026",
+				"Word": "WRACK"
+			},
+			{
+				"Id": 1670,
+				"Date": "Jan 14 2026",
+				"Word": "GUIDE"
+			},
+			{
+				"Id": 1671,
+				"Date": "Jan 15 2026",
+				"Word": "FOIST"
+			},
+			{
+				"Id": 1672,
+				"Date": "Jan 16 2026",
+				"Word": "CAMEO"
+			},
+			{
+				"Id": 1673,
+				"Date": "Jan 17 2026",
+				"Word": "UNDER"
+			},
+			{
+				"Id": 1674,
+				"Date": "Jan 18 2026",
+				"Word": "ACTOR"
+			},
+			{
+				"Id": 1675,
+				"Date": "Jan 19 2026",
+				"Word": "REVUE"
+			},
+			{
+				"Id": 1676,
+				"Date": "Jan 20 2026",
+				"Word": "FRAUD"
+			},
+			{
+				"Id": 1677,
+				"Date": "Jan 21 2026",
+				"Word": "HARPY"
+			},
+			{
+				"Id": 1678,
+				"Date": "Jan 22 2026",
+				"Word": "SCOOP"
+			},
+			{
+				"Id": 1679,
+				"Date": "Jan 23 2026",
+				"Word": "CLIMB"
+			},
+			{
+				"Id": 1680,
+				"Date": "Jan 24 2026",
+				"Word": "REFER"
+			},
+			{
+				"Id": 1681,
+				"Date": "Jan 25 2026",
+				"Word": "OLDEN"
+			},
+			{
+				"Id": 1682,
+				"Date": "Jan 26 2026",
+				"Word": "CLERK"
+			},
+			{
+				"Id": 1683,
+				"Date": "Jan 27 2026",
+				"Word": "DEBAR"
+			},
+			{
+				"Id": 1684,
+				"Date": "Jan 28 2026",
+				"Word": "TALLY"
+			},
+			{
+				"Id": 1685,
+				"Date": "Jan 29 2026",
+				"Word": "ETHIC"
+			},
+			{
+				"Id": 1686,
+				"Date": "Jan 30 2026",
+				"Word": "CAIRN"
+			},
+			{
+				"Id": 1687,
+				"Date": "Jan 31 2026",
+				"Word": "TULLE"
+			},
+			{
+				"Id": 1688,
+				"Date": "Feb 01 2026",
+				"Word": "GHOUL"
+			},
+			{
+				"Id": 1689,
+				"Date": "Feb 02 2026",
+				"Word": "HILLY"
+			},
+			{
+				"Id": 1690,
+				"Date": "Feb 03 2026",
+				"Word": "CRUDE"
+			},
+			{
+				"Id": 1691,
+				"Date": "Feb 04 2026",
+				"Word": "APART"
+			},
+			{
+				"Id": 1692,
+				"Date": "Feb 05 2026",
+				"Word": "SCALE"
+			},
+			{
+				"Id": 1693,
+				"Date": "Feb 06 2026",
+				"Word": "OLDER"
+			},
+			{
+				"Id": 1694,
+				"Date": "Feb 07 2026",
+				"Word": "PLAIN"
+			},
+			{
+				"Id": 1695,
+				"Date": "Feb 08 2026",
+				"Word": "SPERM"
+			},
+			{
+				"Id": 1696,
+				"Date": "Feb 09 2026",
+				"Word": "BRINY"
+			},
+			{
+				"Id": 1697,
+				"Date": "Feb 10 2026",
+				"Word": "ABBOT"
+			},
+			{
+				"Id": 1698,
+				"Date": "Feb 11 2026",
+				"Word": "RERUN"
+			},
+			{
+				"Id": 1699,
+				"Date": "Feb 12 2026",
+				"Word": "QUEST"
+			},
+			{
+				"Id": 1700,
+				"Date": "Feb 13 2026",
+				"Word": "CRISP"
+			},
+			{
+				"Id": 1701,
+				"Date": "Feb 14 2026",
+				"Word": "BOUND"
+			},
+			{
+				"Id": 1702,
+				"Date": "Feb 15 2026",
+				"Word": "BEFIT"
+			},
+			{
+				"Id": 1703,
+				"Date": "Feb 16 2026",
+				"Word": "DRAWN"
+			},
+			{
+				"Id": 1704,
+				"Date": "Feb 17 2026",
+				"Word": "SUITE"
+			},
+			{
+				"Id": 1705,
+				"Date": "Feb 18 2026",
+				"Word": "ITCHY"
+			},
+			{
+				"Id": 1706,
+				"Date": "Feb 19 2026",
+				"Word": "CHEER"
+			},
+			{
+				"Id": 1707,
+				"Date": "Feb 20 2026",
+				"Word": "BAGEL"
+			},
+			{
+				"Id": 1708,
+				"Date": "Feb 21 2026",
+				"Word": "GUESS"
+			},
+			{
+				"Id": 1709,
+				"Date": "Feb 22 2026",
+				"Word": "BROAD"
+			},
+			{
+				"Id": 1710,
+				"Date": "Feb 23 2026",
+				"Word": "AXIOM"
+			},
+			{
+				"Id": 1711,
+				"Date": "Feb 24 2026",
+				"Word": "CHARD"
+			},
+			{
+				"Id": 1712,
+				"Date": "Feb 25 2026",
+				"Word": "CAPUT"
+			},
+			{
+				"Id": 1713,
+				"Date": "Feb 26 2026",
+				"Word": "LEANT"
+			},
+			{
+				"Id": 1714,
+				"Date": "Feb 27 2026",
+				"Word": "HARSH"
+			},
+			{
+				"Id": 1715,
+				"Date": "Feb 28 2026",
+				"Word": "CURSE"
+			},
+			{
+				"Id": 1716,
+				"Date": "Mar 01 2026",
+				"Word": "PROUD"
+			},
+			{
+				"Id": 1717,
+				"Date": "Mar 02 2026",
+				"Word": "SWING"
+			},
+			{
+				"Id": 1718,
+				"Date": "Mar 03 2026",
+				"Word": "OPINE"
+			},
+			{
+				"Id": 1719,
+				"Date": "Mar 04 2026",
+				"Word": "TASTE"
+			},
+			{
+				"Id": 1720,
+				"Date": "Mar 05 2026",
+				"Word": "LUPUS"
+			},
+			{
+				"Id": 1721,
+				"Date": "Mar 06 2026",
+				"Word": "GUMBO"
+			},
+			{
+				"Id": 1722,
+				"Date": "Mar 07 2026",
+				"Word": "MINER"
+			},
+			{
+				"Id": 1723,
+				"Date": "Mar 08 2026",
+				"Word": "GREEN"
+			},
+			{
+				"Id": 1724,
+				"Date": "Mar 09 2026",
+				"Word": "CHASM"
+			},
+			{
+				"Id": 1725,
+				"Date": "Mar 10 2026",
+				"Word": "LIPID"
+			},
+			{
+				"Id": 1726,
+				"Date": "Mar 11 2026",
+				"Word": "TOPIC"
+			},
+			{
+				"Id": 1727,
+				"Date": "Mar 12 2026",
+				"Word": "ARMOR"
+			},
+			{
+				"Id": 1728,
+				"Date": "Mar 13 2026",
+				"Word": "BRUSH"
+			},
+			{
+				"Id": 1729,
+				"Date": "Mar 14 2026",
+				"Word": "CRANE"
+			},
+			{
+				"Id": 1730,
+				"Date": "Mar 15 2026",
+				"Word": "MURAL"
+			},
+			{
+				"Id": 1731,
+				"Date": "Mar 16 2026",
+				"Word": "ABLED"
+			},
+			{
+				"Id": 1732,
+				"Date": "Mar 17 2026",
+				"Word": "HABIT"
+			},
+			{
+				"Id": 1733,
+				"Date": "Mar 18 2026",
+				"Word": "BOSSY"
+			},
+			{
+				"Id": 1734,
+				"Date": "Mar 19 2026",
+				"Word": "MAKER"
+			},
+			{
+				"Id": 1735,
+				"Date": "Mar 20 2026",
+				"Word": "DUSKY"
+			},
+			{
+				"Id": 1736,
+				"Date": "Mar 21 2026",
+				"Word": "DIZZY"
+			},
+			{
+				"Id": 1737,
+				"Date": "Mar 22 2026",
+				"Word": "LITHE"
+			},
+			{
+				"Id": 1738,
+				"Date": "Mar 23 2026",
+				"Word": "BROOK"
+			},
+			{
+				"Id": 1739,
+				"Date": "Mar 24 2026",
+				"Word": "JAZZY"
+			},
+			{
+				"Id": 1740,
+				"Date": "Mar 25 2026",
+				"Word": "FIFTY"
+			},
+			{
+				"Id": 1741,
+				"Date": "Mar 26 2026",
+				"Word": "SENSE"
+			},
+			{
+				"Id": 1742,
+				"Date": "Mar 27 2026",
+				"Word": "GIANT"
+			},
+			{
+				"Id": 1743,
+				"Date": "Mar 28 2026",
+				"Word": "SURLY"
+			},
+			{
+				"Id": 1744,
+				"Date": "Mar 29 2026",
+				"Word": "LEGAL"
+			},
+			{
+				"Id": 1745,
+				"Date": "Mar 30 2026",
+				"Word": "FATAL"
+			},
+			{
+				"Id": 1746,
+				"Date": "Mar 31 2026",
+				"Word": "FLUNK"
+			},
+			{
+				"Id": 1747,
+				"Date": "Apr 01 2026",
+				"Word": "BEGAN"
+			},
+			{
+				"Id": 1748,
+				"Date": "Apr 02 2026",
+				"Word": "PRUNE"
+			},
+			{
+				"Id": 1749,
+				"Date": "Apr 03 2026",
+				"Word": "SMALL"
+			},
+			{
+				"Id": 1750,
+				"Date": "Apr 04 2026",
+				"Word": "SLANT"
+			},
+			{
+				"Id": 1751,
+				"Date": "Apr 05 2026",
+				"Word": "SCOFF"
+			},
+			{
+				"Id": 1752,
+				"Date": "Apr 06 2026",
+				"Word": "TORUS"
+			},
+			{
+				"Id": 1753,
+				"Date": "Apr 07 2026",
+				"Word": "NINNY"
+			},
+			{
+				"Id": 1754,
+				"Date": "Apr 08 2026",
+				"Word": "COVEY"
+			},
+			{
+				"Id": 1755,
+				"Date": "Apr 09 2026",
+				"Word": "VIPER"
+			},
+			{
+				"Id": 1756,
+				"Date": "Apr 10 2026",
+				"Word": "TAKEN"
+			},
+			{
+				"Id": 1757,
+				"Date": "Apr 11 2026",
+				"Word": "MORAL"
+			},
+			{
+				"Id": 1758,
+				"Date": "Apr 12 2026",
+				"Word": "VOGUE"
+			},
+			{
+				"Id": 1759,
+				"Date": "Apr 13 2026",
+				"Word": "OWING"
+			},
+			{
+				"Id": 1760,
+				"Date": "Apr 14 2026",
+				"Word": "TOKEN"
+			},
+			{
+				"Id": 1761,
+				"Date": "Apr 15 2026",
+				"Word": "ENTRY"
+			},
+			{
+				"Id": 1762,
+				"Date": "Apr 16 2026",
+				"Word": "BOOTH"
+			},
+			{
+				"Id": 1763,
+				"Date": "Apr 17 2026",
+				"Word": "VOTER"
+			},
+			{
+				"Id": 1764,
+				"Date": "Apr 18 2026",
+				"Word": "CHIDE"
+			},
+			{
+				"Id": 1765,
+				"Date": "Apr 19 2026",
+				"Word": "ELFIN"
+			},
+			{
+				"Id": 1766,
+				"Date": "Apr 20 2026",
+				"Word": "EBONY"
+			},
+			{
+				"Id": 1767,
+				"Date": "Apr 21 2026",
+				"Word": "NEIGH"
+			},
+			{
+				"Id": 1768,
+				"Date": "Apr 22 2026",
+				"Word": "MINIM"
+			},
+			{
+				"Id": 1769,
+				"Date": "Apr 23 2026",
+				"Word": "MELON"
+			},
+			{
+				"Id": 1770,
+				"Date": "Apr 24 2026",
+				"Word": "KNEED"
+			},
+			{
+				"Id": 1771,
+				"Date": "Apr 25 2026",
+				"Word": "DECOY"
+			},
+			{
+				"Id": 1772,
+				"Date": "Apr 26 2026",
+				"Word": "VOILA"
+			},
+			{
+				"Id": 1773,
+				"Date": "Apr 27 2026",
+				"Word": "ANKLE"
+			},
+			{
+				"Id": 1774,
+				"Date": "Apr 28 2026",
+				"Word": "ARROW"
+			},
+			{
+				"Id": 1775,
+				"Date": "Apr 29 2026",
+				"Word": "MUSHY"
+			},
+			{
+				"Id": 1776,
+				"Date": "Apr 30 2026",
+				"Word": "TRIBE"
+			},
+			{
+				"Id": 1777,
+				"Date": "May 01 2026",
+				"Word": "CEASE"
+			},
+			{
+				"Id": 1778,
+				"Date": "May 02 2026",
+				"Word": "EAGER"
+			},
+			{
+				"Id": 1779,
+				"Date": "May 03 2026",
+				"Word": "BIRTH"
+			},
+			{
+				"Id": 1780,
+				"Date": "May 04 2026",
+				"Word": "GRAPH"
+			},
+			{
+				"Id": 1781,
+				"Date": "May 05 2026",
+				"Word": "ODDER"
+			},
+			{
+				"Id": 1782,
+				"Date": "May 06 2026",
+				"Word": "TERRA"
+			},
+			{
+				"Id": 1783,
+				"Date": "May 07 2026",
+				"Word": "WEIRD"
+			},
+			{
+				"Id": 1784,
+				"Date": "May 08 2026",
+				"Word": "TRIED"
+			},
+			{
+				"Id": 1785,
+				"Date": "May 09 2026",
+				"Word": "CLACK"
+			},
+			{
+				"Id": 1786,
+				"Date": "May 10 2026",
+				"Word": "COLOR"
+			},
+			{
+				"Id": 1787,
+				"Date": "May 11 2026",
+				"Word": "ROUGH"
+			},
+			{
+				"Id": 1788,
+				"Date": "May 12 2026",
+				"Word": "WEIGH"
+			},
+			{
+				"Id": 1789,
+				"Date": "May 13 2026",
+				"Word": "UNCUT"
+			},
+			{
+				"Id": 1790,
+				"Date": "May 14 2026",
+				"Word": "LADLE"
+			},
+			{
+				"Id": 1791,
+				"Date": "May 15 2026",
+				"Word": "STRIP"
+			},
+			{
+				"Id": 1792,
+				"Date": "May 16 2026",
+				"Word": "CRAFT"
+			},
+			{
+				"Id": 1793,
+				"Date": "May 17 2026",
+				"Word": "MINUS"
+			},
+			{
+				"Id": 1794,
+				"Date": "May 18 2026",
+				"Word": "DICEY"
+			},
+			{
+				"Id": 1795,
+				"Date": "May 19 2026",
+				"Word": "TITAN"
+			},
+			{
+				"Id": 1796,
+				"Date": "May 20 2026",
+				"Word": "LUCID"
+			},
+			{
+				"Id": 1797,
+				"Date": "May 21 2026",
+				"Word": "VICAR"
+			},
+			{
+				"Id": 1798,
+				"Date": "May 22 2026",
+				"Word": "DRESS"
+			},
+			{
+				"Id": 1799,
+				"Date": "May 23 2026",
+				"Word": "DITCH"
+			},
+			{
+				"Id": 1800,
+				"Date": "May 24 2026",
+				"Word": "GYPSY"
+			},
+			{
+				"Id": 1801,
+				"Date": "May 25 2026",
+				"Word": "PASTA"
+			},
+			{
+				"Id": 1802,
+				"Date": "May 26 2026",
+				"Word": "TAFFY"
+			},
+			{
+				"Id": 1803,
+				"Date": "May 27 2026",
+				"Word": "FLAME"
+			},
+			{
+				"Id": 1804,
+				"Date": "May 28 2026",
+				"Word": "SWOOP"
+			},
+			{
+				"Id": 1805,
+				"Date": "May 29 2026",
+				"Word": "ALOOF"
+			},
+			{
+				"Id": 1806,
+				"Date": "May 30 2026",
+				"Word": "SIGHT"
+			},
+			{
+				"Id": 1807,
+				"Date": "May 31 2026",
+				"Word": "BROKE"
+			},
+			{
+				"Id": 1808,
+				"Date": "Jun 01 2026",
+				"Word": "TEARY"
+			},
+			{
+				"Id": 1809,
+				"Date": "Jun 02 2026",
+				"Word": "CHART"
+			},
+			{
+				"Id": 1810,
+				"Date": "Jun 03 2026",
+				"Word": "SIXTY"
+			},
+			{
+				"Id": 1811,
+				"Date": "Jun 04 2026",
+				"Word": "WORDY"
+			},
+			{
+				"Id": 1812,
+				"Date": "Jun 05 2026",
+				"Word": "SHEER"
+			},
+			{
+				"Id": 1813,
+				"Date": "Jun 06 2026",
+				"Word": "LEPER"
+			},
+			{
+				"Id": 1814,
+				"Date": "Jun 07 2026",
+				"Word": "NOSEY"
+			},
+			{
+				"Id": 1815,
+				"Date": "Jun 08 2026",
+				"Word": "BULGE"
+			},
+			{
+				"Id": 1816,
+				"Date": "Jun 09 2026",
+				"Word": "SAVOR"
+			},
+			{
+				"Id": 1817,
+				"Date": "Jun 10 2026",
+				"Word": "CLAMP"
+			},
+			{
+				"Id": 1818,
+				"Date": "Jun 11 2026",
+				"Word": "FUNKY"
+			},
+			{
+				"Id": 1819,
+				"Date": "Jun 12 2026",
+				"Word": "FOAMY"
+			},
+			{
+				"Id": 1820,
+				"Date": "Jun 13 2026",
+				"Word": "TOXIC"
+			},
+			{
+				"Id": 1821,
+				"Date": "Jun 14 2026",
+				"Word": "BRAND"
+			},
+			{
+				"Id": 1822,
+				"Date": "Jun 15 2026",
+				"Word": "PLUMB"
+			},
+			{
+				"Id": 1823,
+				"Date": "Jun 16 2026",
+				"Word": "DINGY"
+			},
+			{
+				"Id": 1824,
+				"Date": "Jun 17 2026",
+				"Word": "BUTTE"
+			},
+			{
+				"Id": 1825,
+				"Date": "Jun 18 2026",
+				"Word": "DRILL"
+			},
+			{
+				"Id": 1826,
+				"Date": "Jun 19 2026",
+				"Word": "TRIPE"
+			},
+			{
+				"Id": 1827,
+				"Date": "Jun 20 2026",
+				"Word": "BICEP"
+			},
+			{
+				"Id": 1828,
+				"Date": "Jun 21 2026",
+				"Word": "TENOR"
+			},
+			{
+				"Id": 1829,
+				"Date": "Jun 22 2026",
+				"Word": "KRILL"
+			},
+			{
+				"Id": 1830,
+				"Date": "Jun 23 2026",
+				"Word": "WORSE"
+			},
+			{
+				"Id": 1831,
+				"Date": "Jun 24 2026",
+				"Word": "DRAMA"
+			},
+			{
+				"Id": 1832,
+				"Date": "Jun 25 2026",
+				"Word": "HYENA"
+			},
+			{
+				"Id": 1833,
+				"Date": "Jun 26 2026",
+				"Word": "THINK"
+			},
+			{
+				"Id": 1834,
+				"Date": "Jun 27 2026",
+				"Word": "RATIO"
+			},
+			{
+				"Id": 1835,
+				"Date": "Jun 28 2026",
+				"Word": "COBRA"
+			},
+			{
+				"Id": 1836,
+				"Date": "Jun 29 2026",
+				"Word": "BASIL"
+			},
+			{
+				"Id": 1837,
+				"Date": "Jun 30 2026",
+				"Word": "SCRUM"
+			},
+			{
+				"Id": 1838,
+				"Date": "Jul 01 2026",
+				"Word": "BUSED"
+			},
+			{
+				"Id": 1839,
+				"Date": "Jul 02 2026",
+				"Word": "PHONE"
+			},
+			{
+				"Id": 1840,
+				"Date": "Jul 03 2026",
+				"Word": "COURT"
+			},
+			{
+				"Id": 1841,
+				"Date": "Jul 04 2026",
+				"Word": "CAMEL"
+			},
+			{
+				"Id": 1842,
+				"Date": "Jul 05 2026",
+				"Word": "PROOF"
+			},
+			{
+				"Id": 1843,
+				"Date": "Jul 06 2026",
+				"Word": "HEARD"
+			},
+			{
+				"Id": 1844,
+				"Date": "Jul 07 2026",
+				"Word": "ANGEL"
+			},
+			{
+				"Id": 1845,
+				"Date": "Jul 08 2026",
+				"Word": "PETAL"
+			},
+			{
+				"Id": 1846,
+				"Date": "Jul 09 2026",
+				"Word": "POUTY"
+			},
+			{
+				"Id": 1847,
+				"Date": "Jul 10 2026",
+				"Word": "THROB"
+			},
+			{
+				"Id": 1848,
+				"Date": "Jul 11 2026",
+				"Word": "MAYBE"
+			},
+			{
+				"Id": 1849,
+				"Date": "Jul 12 2026",
+				"Word": "FETAL"
+			},
+			{
+				"Id": 1850,
+				"Date": "Jul 13 2026",
+				"Word": "SPRIG"
+			},
+			{
+				"Id": 1851,
+				"Date": "Jul 14 2026",
+				"Word": "SPINE"
+			},
+			{
+				"Id": 1852,
+				"Date": "Jul 15 2026",
+				"Word": "SHOUT"
+			},
+			{
+				"Id": 1853,
+				"Date": "Jul 16 2026",
+				"Word": "CADET"
+			},
+			{
+				"Id": 1854,
+				"Date": "Jul 17 2026",
+				"Word": "MACRO"
+			},
+			{
+				"Id": 1855,
+				"Date": "Jul 18 2026",
+				"Word": "DODGY"
+			},
+			{
+				"Id": 1856,
+				"Date": "Jul 19 2026",
+				"Word": "SATYR"
+			},
+			{
+				"Id": 1857,
+				"Date": "Jul 20 2026",
+				"Word": "RARER"
+			},
+			{
+				"Id": 1858,
+				"Date": "Jul 21 2026",
+				"Word": "BINGE"
+			},
+			{
+				"Id": 1859,
+				"Date": "Jul 22 2026",
+				"Word": "TREND"
+			},
+			{
+				"Id": 1860,
+				"Date": "Jul 23 2026",
+				"Word": "NUTTY"
+			},
+			{
+				"Id": 1861,
+				"Date": "Jul 24 2026",
+				"Word": "LEAPT"
+			},
+			{
+				"Id": 1862,
+				"Date": "Jul 25 2026",
+				"Word": "AMISS"
+			},
+			{
+				"Id": 1863,
+				"Date": "Jul 26 2026",
+				"Word": "SPLIT"
+			},
+			{
+				"Id": 1864,
+				"Date": "Jul 27 2026",
+				"Word": "MYRRH"
+			},
+			{
+				"Id": 1865,
+				"Date": "Jul 28 2026",
+				"Word": "WIDTH"
+			},
+			{
+				"Id": 1866,
+				"Date": "Jul 29 2026",
+				"Word": "SONAR"
+			},
+			{
+				"Id": 1867,
+				"Date": "Jul 30 2026",
+				"Word": "TOWER"
+			},
+			{
+				"Id": 1868,
+				"Date": "Jul 31 2026",
+				"Word": "BARON"
+			},
+			{
+				"Id": 1869,
+				"Date": "Aug 01 2026",
+				"Word": "FEVER"
+			},
+			{
+				"Id": 1870,
+				"Date": "Aug 02 2026",
+				"Word": "WAVER"
+			},
+			{
+				"Id": 1871,
+				"Date": "Aug 03 2026",
+				"Word": "SPARK"
+			},
+			{
+				"Id": 1872,
+				"Date": "Aug 04 2026",
+				"Word": "BELIE"
+			},
+			{
+				"Id": 1873,
+				"Date": "Aug 05 2026",
+				"Word": "SLOOP"
+			},
+			{
+				"Id": 1874,
+				"Date": "Aug 06 2026",
+				"Word": "EXPEL"
+			},
+			{
+				"Id": 1875,
+				"Date": "Aug 07 2026",
+				"Word": "SMOTE"
+			},
+			{
+				"Id": 1876,
+				"Date": "Aug 08 2026",
+				"Word": "BALER"
+			},
+			{
+				"Id": 1877,
+				"Date": "Aug 09 2026",
+				"Word": "ABOVE"
+			},
+			{
+				"Id": 1878,
+				"Date": "Aug 10 2026",
+				"Word": "NORTH"
+			},
+			{
+				"Id": 1879,
+				"Date": "Aug 11 2026",
+				"Word": "WAFER"
+			},
+			{
+				"Id": 1880,
+				"Date": "Aug 12 2026",
+				"Word": "SCANT"
+			},
+			{
+				"Id": 1881,
+				"Date": "Aug 13 2026",
+				"Word": "FRILL"
+			},
+			{
+				"Id": 1882,
+				"Date": "Aug 14 2026",
+				"Word": "AWASH"
+			},
+			{
+				"Id": 1883,
+				"Date": "Aug 15 2026",
+				"Word": "SNACK"
+			},
+			{
+				"Id": 1884,
+				"Date": "Aug 16 2026",
+				"Word": "SCOWL"
+			},
+			{
+				"Id": 1885,
+				"Date": "Aug 17 2026",
+				"Word": "FRAIL"
+			},
+			{
+				"Id": 1886,
+				"Date": "Aug 18 2026",
+				"Word": "DRIFT"
+			},
+			{
+				"Id": 1887,
+				"Date": "Aug 19 2026",
+				"Word": "LIMBO"
+			},
+			{
+				"Id": 1888,
+				"Date": "Aug 20 2026",
+				"Word": "FENCE"
+			},
+			{
+				"Id": 1889,
+				"Date": "Aug 21 2026",
+				"Word": "MOTEL"
+			},
+			{
+				"Id": 1890,
+				"Date": "Aug 22 2026",
+				"Word": "OUNCE"
+			},
+			{
+				"Id": 1891,
+				"Date": "Aug 23 2026",
+				"Word": "WREAK"
+			},
+			{
+				"Id": 1892,
+				"Date": "Aug 24 2026",
+				"Word": "REVEL"
+			},
+			{
+				"Id": 1893,
+				"Date": "Aug 25 2026",
+				"Word": "TALON"
+			},
+			{
+				"Id": 1894,
+				"Date": "Aug 26 2026",
+				"Word": "PRIOR"
+			},
+			{
+				"Id": 1895,
+				"Date": "Aug 27 2026",
+				"Word": "KNELT"
+			},
+			{
+				"Id": 1896,
+				"Date": "Aug 28 2026",
+				"Word": "CELLO"
+			},
+			{
+				"Id": 1897,
+				"Date": "Aug 29 2026",
+				"Word": "FLAKE"
+			},
+			{
+				"Id": 1898,
+				"Date": "Aug 30 2026",
+				"Word": "DEBUG"
+			},
+			{
+				"Id": 1899,
+				"Date": "Aug 31 2026",
+				"Word": "ANODE"
+			},
+			{
+				"Id": 1900,
+				"Date": "Sep 01 2026",
+				"Word": "CRIME"
+			},
+			{
+				"Id": 1901,
+				"Date": "Sep 02 2026",
+				"Word": "SALVE"
+			},
+			{
+				"Id": 1902,
+				"Date": "Sep 03 2026",
+				"Word": "SCOUT"
+			},
+			{
+				"Id": 1903,
+				"Date": "Sep 04 2026",
+				"Word": "IMBUE"
+			},
+			{
+				"Id": 1904,
+				"Date": "Sep 05 2026",
+				"Word": "PINKY"
+			},
+			{
+				"Id": 1905,
+				"Date": "Sep 06 2026",
+				"Word": "STAVE"
+			},
+			{
+				"Id": 1906,
+				"Date": "Sep 07 2026",
+				"Word": "VAGUE"
+			},
+			{
+				"Id": 1907,
+				"Date": "Sep 08 2026",
+				"Word": "CHOCK"
+			},
+			{
+				"Id": 1908,
+				"Date": "Sep 09 2026",
+				"Word": "FIGHT"
+			},
+			{
+				"Id": 1909,
+				"Date": "Sep 10 2026",
+				"Word": "VIDEO"
+			},
+			{
+				"Id": 1910,
+				"Date": "Sep 11 2026",
+				"Word": "STONE"
+			},
+			{
+				"Id": 1911,
+				"Date": "Sep 12 2026",
+				"Word": "TEACH"
+			},
+			{
+				"Id": 1912,
+				"Date": "Sep 13 2026",
+				"Word": "CLEFT"
+			},
+			{
+				"Id": 1913,
+				"Date": "Sep 14 2026",
+				"Word": "FROST"
+			},
+			{
+				"Id": 1914,
+				"Date": "Sep 15 2026",
+				"Word": "PRAWN"
+			},
+			{
+				"Id": 1915,
+				"Date": "Sep 16 2026",
+				"Word": "BOOTY"
+			},
+			{
+				"Id": 1916,
+				"Date": "Sep 17 2026",
+				"Word": "TWIST"
+			},
+			{
+				"Id": 1917,
+				"Date": "Sep 18 2026",
+				"Word": "APNEA"
+			},
+			{
+				"Id": 1918,
+				"Date": "Sep 19 2026",
+				"Word": "STIFF"
+			},
+			{
+				"Id": 1919,
+				"Date": "Sep 20 2026",
+				"Word": "PLAZA"
+			},
+			{
+				"Id": 1920,
+				"Date": "Sep 21 2026",
+				"Word": "LEDGE"
+			},
+			{
+				"Id": 1921,
+				"Date": "Sep 22 2026",
+				"Word": "TWEAK"
+			},
+			{
+				"Id": 1922,
+				"Date": "Sep 23 2026",
+				"Word": "BOARD"
+			},
+			{
+				"Id": 1923,
+				"Date": "Sep 24 2026",
+				"Word": "GRANT"
+			},
+			{
+				"Id": 1924,
+				"Date": "Sep 25 2026",
+				"Word": "MEDIC"
+			},
+			{
+				"Id": 1925,
+				"Date": "Sep 26 2026",
+				"Word": "BACON"
+			},
+			{
+				"Id": 1926,
+				"Date": "Sep 27 2026",
+				"Word": "CABLE"
+			},
+			{
+				"Id": 1927,
+				"Date": "Sep 28 2026",
+				"Word": "BRAWL"
+			},
+			{
+				"Id": 1928,
+				"Date": "Sep 29 2026",
+				"Word": "SLUNK"
+			},
+			{
+				"Id": 1929,
+				"Date": "Sep 30 2026",
+				"Word": "RASPY"
+			},
+			{
+				"Id": 1930,
+				"Date": "Oct 01 2026",
+				"Word": "FORUM"
+			},
+			{
+				"Id": 1931,
+				"Date": "Oct 02 2026",
+				"Word": "DRONE"
+			},
+			{
+				"Id": 1932,
+				"Date": "Oct 03 2026",
+				"Word": "WOMEN"
+			},
+			{
+				"Id": 1933,
+				"Date": "Oct 04 2026",
+				"Word": "MUCUS"
+			},
+			{
+				"Id": 1934,
+				"Date": "Oct 05 2026",
+				"Word": "BOAST"
+			},
+			{
+				"Id": 1935,
+				"Date": "Oct 06 2026",
+				"Word": "TODDY"
+			},
+			{
+				"Id": 1936,
+				"Date": "Oct 07 2026",
+				"Word": "COVEN"
+			},
+			{
+				"Id": 1937,
+				"Date": "Oct 08 2026",
+				"Word": "TUMOR"
+			},
+			{
+				"Id": 1938,
+				"Date": "Oct 09 2026",
+				"Word": "TRUER"
+			},
+			{
+				"Id": 1939,
+				"Date": "Oct 10 2026",
+				"Word": "WRATH"
+			},
+			{
+				"Id": 1940,
+				"Date": "Oct 11 2026",
+				"Word": "STALL"
+			},
+			{
+				"Id": 1941,
+				"Date": "Oct 12 2026",
+				"Word": "STEAM"
+			},
+			{
+				"Id": 1942,
+				"Date": "Oct 13 2026",
+				"Word": "AXIAL"
+			},
+			{
+				"Id": 1943,
+				"Date": "Oct 14 2026",
+				"Word": "PURER"
+			},
+			{
+				"Id": 1944,
+				"Date": "Oct 15 2026",
+				"Word": "DAILY"
+			},
+			{
+				"Id": 1945,
+				"Date": "Oct 16 2026",
+				"Word": "TRAIL"
+			},
+			{
+				"Id": 1946,
+				"Date": "Oct 17 2026",
+				"Word": "NICHE"
+			},
+			{
+				"Id": 1947,
+				"Date": "Oct 18 2026",
+				"Word": "MEALY"
+			},
+			{
+				"Id": 1948,
+				"Date": "Oct 19 2026",
+				"Word": "JUICE"
+			},
+			{
+				"Id": 1949,
+				"Date": "Oct 20 2026",
+				"Word": "NYLON"
+			},
+			{
+				"Id": 1950,
+				"Date": "Oct 21 2026",
+				"Word": "PLUMP"
+			},
+			{
+				"Id": 1951,
+				"Date": "Oct 22 2026",
+				"Word": "MERRY"
+			},
+			{
+				"Id": 1952,
+				"Date": "Oct 23 2026",
+				"Word": "FLAIL"
+			},
+			{
+				"Id": 1953,
+				"Date": "Oct 24 2026",
+				"Word": "PAPAL"
+			},
+			{
+				"Id": 1954,
+				"Date": "Oct 25 2026",
+				"Word": "WHEAT"
+			},
+			{
+				"Id": 1955,
+				"Date": "Oct 26 2026",
+				"Word": "BERRY"
+			},
+			{
+				"Id": 1956,
+				"Date": "Oct 27 2026",
+				"Word": "COWER"
+			},
+			{
+				"Id": 1957,
+				"Date": "Oct 28 2026",
+				"Word": "ERECT"
+			},
+			{
+				"Id": 1958,
+				"Date": "Oct 29 2026",
+				"Word": "BRUTE"
+			},
+			{
+				"Id": 1959,
+				"Date": "Oct 30 2026",
+				"Word": "LEGGY"
+			},
+			{
+				"Id": 1960,
+				"Date": "Oct 31 2026",
+				"Word": "SNIPE"
+			},
+			{
+				"Id": 1961,
+				"Date": "Nov 01 2026",
+				"Word": "SINEW"
+			},
+			{
+				"Id": 1962,
+				"Date": "Nov 02 2026",
+				"Word": "SKIER"
+			},
+			{
+				"Id": 1963,
+				"Date": "Nov 03 2026",
+				"Word": "PENNY"
+			},
+			{
+				"Id": 1964,
+				"Date": "Nov 04 2026",
+				"Word": "JUMPY"
+			},
+			{
+				"Id": 1965,
+				"Date": "Nov 05 2026",
+				"Word": "RALLY"
+			},
+			{
+				"Id": 1966,
+				"Date": "Nov 06 2026",
+				"Word": "UMBRA"
+			},
+			{
+				"Id": 1967,
+				"Date": "Nov 07 2026",
+				"Word": "SCARY"
+			},
+			{
+				"Id": 1968,
+				"Date": "Nov 08 2026",
+				"Word": "MODEM"
+			},
+			{
+				"Id": 1969,
+				"Date": "Nov 09 2026",
+				"Word": "GROSS"
+			},
+			{
+				"Id": 1970,
+				"Date": "Nov 10 2026",
+				"Word": "AVIAN"
+			},
+			{
+				"Id": 1971,
+				"Date": "Nov 11 2026",
+				"Word": "GREED"
+			},
+			{
+				"Id": 1972,
+				"Date": "Nov 12 2026",
+				"Word": "SATIN"
+			},
+			{
+				"Id": 1973,
+				"Date": "Nov 13 2026",
+				"Word": "TONIC"
+			},
+			{
+				"Id": 1974,
+				"Date": "Nov 14 2026",
+				"Word": "PARKA"
+			},
+			{
+				"Id": 1975,
+				"Date": "Nov 15 2026",
+				"Word": "SNIFF"
+			},
+			{
+				"Id": 1976,
+				"Date": "Nov 16 2026",
+				"Word": "LIVID"
+			},
+			{
+				"Id": 1977,
+				"Date": "Nov 17 2026",
+				"Word": "STARK"
+			},
+			{
+				"Id": 1978,
+				"Date": "Nov 18 2026",
+				"Word": "TRUMP"
+			},
+			{
+				"Id": 1979,
+				"Date": "Nov 19 2026",
+				"Word": "GIDDY"
+			},
+			{
+				"Id": 1980,
+				"Date": "Nov 20 2026",
+				"Word": "REUSE"
+			},
+			{
+				"Id": 1981,
+				"Date": "Nov 21 2026",
+				"Word": "TABOO"
+			},
+			{
+				"Id": 1982,
+				"Date": "Nov 22 2026",
+				"Word": "AVOID"
+			},
+			{
+				"Id": 1983,
+				"Date": "Nov 23 2026",
+				"Word": "QUOTE"
+			},
+			{
+				"Id": 1984,
+				"Date": "Nov 24 2026",
+				"Word": "DEVIL"
+			},
+			{
+				"Id": 1985,
+				"Date": "Nov 25 2026",
+				"Word": "LIKEN"
+			},
+			{
+				"Id": 1986,
+				"Date": "Nov 26 2026",
+				"Word": "GLOSS"
+			},
+			{
+				"Id": 1987,
+				"Date": "Nov 27 2026",
+				"Word": "GAYER"
+			},
+			{
+				"Id": 1988,
+				"Date": "Nov 28 2026",
+				"Word": "BERET"
+			},
+			{
+				"Id": 1989,
+				"Date": "Nov 29 2026",
+				"Word": "NOISE"
+			},
+			{
+				"Id": 1990,
+				"Date": "Nov 30 2026",
+				"Word": "GLAND"
+			},
+			{
+				"Id": 1991,
+				"Date": "Dec 01 2026",
+				"Word": "DEALT"
+			},
+			{
+				"Id": 1992,
+				"Date": "Dec 02 2026",
+				"Word": "SLING"
+			},
+			{
+				"Id": 1993,
+				"Date": "Dec 03 2026",
+				"Word": "RUMOR"
+			},
+			{
+				"Id": 1994,
+				"Date": "Dec 04 2026",
+				"Word": "OPERA"
+			},
+			{
+				"Id": 1995,
+				"Date": "Dec 05 2026",
+				"Word": "THIGH"
+			},
+			{
+				"Id": 1996,
+				"Date": "Dec 06 2026",
+				"Word": "TONGA"
+			},
+			{
+				"Id": 1997,
+				"Date": "Dec 07 2026",
+				"Word": "FLARE"
+			},
+			{
+				"Id": 1998,
+				"Date": "Dec 08 2026",
+				"Word": "WOUND"
+			},
+			{
+				"Id": 1999,
+				"Date": "Dec 09 2026",
+				"Word": "WHITE"
+			},
+			{
+				"Id": 2000,
+				"Date": "Dec 10 2026",
+				"Word": "BULKY"
+			},
+			{
+				"Id": 2001,
+				"Date": "Dec 11 2026",
+				"Word": "ETUDE"
+			},
+			{
+				"Id": 2002,
+				"Date": "Dec 12 2026",
+				"Word": "HORSE"
+			},
+			{
+				"Id": 2003,
+				"Date": "Dec 13 2026",
+				"Word": "CIRCA"
+			},
+			{
+				"Id": 2004,
+				"Date": "Dec 14 2026",
+				"Word": "PADDY"
+			},
+			{
+				"Id": 2005,
+				"Date": "Dec 15 2026",
+				"Word": "INBOX"
+			},
+			{
+				"Id": 2006,
+				"Date": "Dec 16 2026",
+				"Word": "FIZZY"
+			},
+			{
+				"Id": 2007,
+				"Date": "Dec 17 2026",
+				"Word": "GRAIN"
+			},
+			{
+				"Id": 2008,
+				"Date": "Dec 18 2026",
+				"Word": "EXERT"
+			},
+			{
+				"Id": 2009,
+				"Date": "Dec 19 2026",
+				"Word": "SURGE"
+			},
+			{
+				"Id": 2010,
+				"Date": "Dec 20 2026",
+				"Word": "GLEAM"
+			},
+			{
+				"Id": 2011,
+				"Date": "Dec 21 2026",
+				"Word": "BELLE"
+			},
+			{
+				"Id": 2012,
+				"Date": "Dec 22 2026",
+				"Word": "SALVO"
+			},
+			{
+				"Id": 2013,
+				"Date": "Dec 23 2026",
+				"Word": "CRUSH"
+			},
+			{
+				"Id": 2014,
+				"Date": "Dec 24 2026",
+				"Word": "FRUIT"
+			},
+			{
+				"Id": 2015,
+				"Date": "Dec 25 2026",
+				"Word": "SAPPY"
+			},
+			{
+				"Id": 2016,
+				"Date": "Dec 26 2026",
+				"Word": "TAKER"
+			},
+			{
+				"Id": 2017,
+				"Date": "Dec 27 2026",
+				"Word": "TRACT"
+			},
+			{
+				"Id": 2018,
+				"Date": "Dec 28 2026",
+				"Word": "OVINE"
+			},
+			{
+				"Id": 2019,
+				"Date": "Dec 29 2026",
+				"Word": "SPIKY"
+			},
+			{
+				"Id": 2020,
+				"Date": "Dec 30 2026",
+				"Word": "FRANK"
+			},
+			{
+				"Id": 2021,
+				"Date": "Dec 31 2026",
+				"Word": "REEDY"
+			},
+			{
+				"Id": 2022,
+				"Date": "Jan 01 2027",
+				"Word": "FILTH"
+			},
+			{
+				"Id": 2023,
+				"Date": "Jan 02 2027",
+				"Word": "SPASM"
+			},
+			{
+				"Id": 2024,
+				"Date": "Jan 03 2027",
+				"Word": "HEAVE"
+			},
+			{
+				"Id": 2025,
+				"Date": "Jan 04 2027",
+				"Word": "MAMBO"
+			},
+			{
+				"Id": 2026,
+				"Date": "Jan 05 2027",
+				"Word": "RIGHT"
+			},
+			{
+				"Id": 2027,
+				"Date": "Jan 06 2027",
+				"Word": "CLANK"
+			},
+			{
+				"Id": 2028,
+				"Date": "Jan 07 2027",
+				"Word": "TRUST"
+			},
+			{
+				"Id": 2029,
+				"Date": "Jan 08 2027",
+				"Word": "LUMEN"
+			},
+			{
+				"Id": 2030,
+				"Date": "Jan 09 2027",
+				"Word": "BORNE"
+			},
+			{
+				"Id": 2031,
+				"Date": "Jan 10 2027",
+				"Word": "SPOOK"
+			},
+			{
+				"Id": 2032,
+				"Date": "Jan 11 2027",
+				"Word": "SAUCE"
+			},
+			{
+				"Id": 2033,
+				"Date": "Jan 12 2027",
+				"Word": "AMBER"
+			},
+			{
+				"Id": 2034,
+				"Date": "Jan 13 2027",
+				"Word": "LATHE"
+			},
+			{
+				"Id": 2035,
+				"Date": "Jan 14 2027",
+				"Word": "CARAT"
+			},
+			{
+				"Id": 2036,
+				"Date": "Jan 15 2027",
+				"Word": "CORER"
+			},
+			{
+				"Id": 2037,
+				"Date": "Jan 16 2027",
+				"Word": "DIRTY"
+			},
+			{
+				"Id": 2038,
+				"Date": "Jan 17 2027",
+				"Word": "SLYLY"
+			},
+			{
+				"Id": 2039,
+				"Date": "Jan 18 2027",
+				"Word": "AFFIX"
+			},
+			{
+				"Id": 2040,
+				"Date": "Jan 19 2027",
+				"Word": "ALLOY"
+			},
+			{
+				"Id": 2041,
+				"Date": "Jan 20 2027",
+				"Word": "TAINT"
+			},
+			{
+				"Id": 2042,
+				"Date": "Jan 21 2027",
+				"Word": "SHEEP"
+			},
+			{
+				"Id": 2043,
+				"Date": "Jan 22 2027",
+				"Word": "KINKY"
+			},
+			{
+				"Id": 2044,
+				"Date": "Jan 23 2027",
+				"Word": "WOOLY"
+			},
+			{
+				"Id": 2045,
+				"Date": "Jan 24 2027",
+				"Word": "MAUVE"
+			},
+			{
+				"Id": 2046,
+				"Date": "Jan 25 2027",
+				"Word": "FLUNG"
+			},
+			{
+				"Id": 2047,
+				"Date": "Jan 26 2027",
+				"Word": "YACHT"
+			},
+			{
+				"Id": 2048,
+				"Date": "Jan 27 2027",
+				"Word": "FRIED"
+			},
+			{
+				"Id": 2049,
+				"Date": "Jan 28 2027",
+				"Word": "QUAIL"
+			},
+			{
+				"Id": 2050,
+				"Date": "Jan 29 2027",
+				"Word": "BRUNT"
+			},
+			{
+				"Id": 2051,
+				"Date": "Jan 30 2027",
+				"Word": "GRIMY"
+			},
+			{
+				"Id": 2052,
+				"Date": "Jan 31 2027",
+				"Word": "CURVY"
+			},
+			{
+				"Id": 2053,
+				"Date": "Feb 01 2027",
+				"Word": "CAGEY"
+			},
+			{
+				"Id": 2054,
+				"Date": "Feb 02 2027",
+				"Word": "RINSE"
+			},
+			{
+				"Id": 2055,
+				"Date": "Feb 03 2027",
+				"Word": "DEUCE"
+			},
+			{
+				"Id": 2056,
+				"Date": "Feb 04 2027",
+				"Word": "STATE"
+			},
+			{
+				"Id": 2057,
+				"Date": "Feb 05 2027",
+				"Word": "GRASP"
+			},
+			{
+				"Id": 2058,
+				"Date": "Feb 06 2027",
+				"Word": "MILKY"
+			},
+			{
+				"Id": 2059,
+				"Date": "Feb 07 2027",
+				"Word": "BISON"
+			},
+			{
+				"Id": 2060,
+				"Date": "Feb 08 2027",
+				"Word": "GRAFT"
+			},
+			{
+				"Id": 2061,
+				"Date": "Feb 09 2027",
+				"Word": "SANDY"
+			},
+			{
+				"Id": 2062,
+				"Date": "Feb 10 2027",
+				"Word": "BASTE"
+			},
+			{
+				"Id": 2063,
+				"Date": "Feb 11 2027",
+				"Word": "FLASK"
+			},
+			{
+				"Id": 2064,
+				"Date": "Feb 12 2027",
+				"Word": "HEDGE"
+			},
+			{
+				"Id": 2065,
+				"Date": "Feb 13 2027",
+				"Word": "GIRLY"
+			},
+			{
+				"Id": 2066,
+				"Date": "Feb 14 2027",
+				"Word": "SWASH"
+			},
+			{
+				"Id": 2067,
+				"Date": "Feb 15 2027",
+				"Word": "BONEY"
+			},
+			{
+				"Id": 2068,
+				"Date": "Feb 16 2027",
+				"Word": "COUPE"
+			},
+			{
+				"Id": 2069,
+				"Date": "Feb 17 2027",
+				"Word": "ENDOW"
+			},
+			{
+				"Id": 2070,
+				"Date": "Feb 18 2027",
+				"Word": "ABHOR"
+			},
+			{
+				"Id": 2071,
+				"Date": "Feb 19 2027",
+				"Word": "WELCH"
+			},
+			{
+				"Id": 2072,
+				"Date": "Feb 20 2027",
+				"Word": "BLADE"
+			},
+			{
+				"Id": 2073,
+				"Date": "Feb 21 2027",
+				"Word": "TIGHT"
+			},
+			{
+				"Id": 2074,
+				"Date": "Feb 22 2027",
+				"Word": "GEESE"
+			},
+			{
+				"Id": 2075,
+				"Date": "Feb 23 2027",
+				"Word": "MISER"
+			},
+			{
+				"Id": 2076,
+				"Date": "Feb 24 2027",
+				"Word": "MIRTH"
+			},
+			{
+				"Id": 2077,
+				"Date": "Feb 25 2027",
+				"Word": "CLOUD"
+			},
+			{
+				"Id": 2078,
+				"Date": "Feb 26 2027",
+				"Word": "CABAL"
+			},
+			{
+				"Id": 2079,
+				"Date": "Feb 27 2027",
+				"Word": "LEECH"
+			},
+			{
+				"Id": 2080,
+				"Date": "Feb 28 2027",
+				"Word": "CLOSE"
+			},
+			{
+				"Id": 2081,
+				"Date": "Mar 01 2027",
+				"Word": "TENTH"
+			},
+			{
+				"Id": 2082,
+				"Date": "Mar 02 2027",
+				"Word": "PECAN"
+			},
+			{
+				"Id": 2083,
+				"Date": "Mar 03 2027",
+				"Word": "DROIT"
+			},
+			{
+				"Id": 2084,
+				"Date": "Mar 04 2027",
+				"Word": "GRAIL"
+			},
+			{
+				"Id": 2085,
+				"Date": "Mar 05 2027",
+				"Word": "CLONE"
+			},
+			{
+				"Id": 2086,
+				"Date": "Mar 06 2027",
+				"Word": "GUISE"
+			},
+			{
+				"Id": 2087,
+				"Date": "Mar 07 2027",
+				"Word": "RALPH"
+			},
+			{
+				"Id": 2088,
+				"Date": "Mar 08 2027",
+				"Word": "TANGO"
+			},
+			{
+				"Id": 2089,
+				"Date": "Mar 09 2027",
+				"Word": "BIDDY"
+			},
+			{
+				"Id": 2090,
+				"Date": "Mar 10 2027",
+				"Word": "SMITH"
+			},
+			{
+				"Id": 2091,
+				"Date": "Mar 11 2027",
+				"Word": "MOWER"
+			},
+			{
+				"Id": 2092,
+				"Date": "Mar 12 2027",
+				"Word": "PAYEE"
+			},
+			{
+				"Id": 2093,
+				"Date": "Mar 13 2027",
+				"Word": "SERIF"
+			},
+			{
+				"Id": 2094,
+				"Date": "Mar 14 2027",
+				"Word": "DRAPE"
+			},
+			{
+				"Id": 2095,
+				"Date": "Mar 15 2027",
+				"Word": "FIFTH"
+			},
+			{
+				"Id": 2096,
+				"Date": "Mar 16 2027",
+				"Word": "SPANK"
+			},
+			{
+				"Id": 2097,
+				"Date": "Mar 17 2027",
+				"Word": "GLAZE"
+			},
+			{
+				"Id": 2098,
+				"Date": "Mar 18 2027",
+				"Word": "ALLOT"
+			},
+			{
+				"Id": 2099,
+				"Date": "Mar 19 2027",
+				"Word": "TRUCK"
+			},
+			{
+				"Id": 2100,
+				"Date": "Mar 20 2027",
+				"Word": "KAYAK"
+			},
+			{
+				"Id": 2101,
+				"Date": "Mar 21 2027",
+				"Word": "VIRUS"
+			},
+			{
+				"Id": 2102,
+				"Date": "Mar 22 2027",
+				"Word": "TESTY"
+			},
+			{
+				"Id": 2103,
+				"Date": "Mar 23 2027",
+				"Word": "TEPEE"
+			},
+			{
+				"Id": 2104,
+				"Date": "Mar 24 2027",
+				"Word": "FULLY"
+			},
+			{
+				"Id": 2105,
+				"Date": "Mar 25 2027",
+				"Word": "ZONAL"
+			},
+			{
+				"Id": 2106,
+				"Date": "Mar 26 2027",
+				"Word": "METRO"
+			},
+			{
+				"Id": 2107,
+				"Date": "Mar 27 2027",
+				"Word": "CURRY"
+			},
+			{
+				"Id": 2108,
+				"Date": "Mar 28 2027",
+				"Word": "GRAND"
+			},
+			{
+				"Id": 2109,
+				"Date": "Mar 29 2027",
+				"Word": "BANJO"
+			},
+			{
+				"Id": 2110,
+				"Date": "Mar 30 2027",
+				"Word": "AXION"
+			},
+			{
+				"Id": 2111,
+				"Date": "Mar 31 2027",
+				"Word": "BEZEL"
+			},
+			{
+				"Id": 2112,
+				"Date": "Apr 01 2027",
+				"Word": "OCCUR"
+			},
+			{
+				"Id": 2113,
+				"Date": "Apr 02 2027",
+				"Word": "CHAIN"
+			},
+			{
+				"Id": 2114,
+				"Date": "Apr 03 2027",
+				"Word": "NASAL"
+			},
+			{
+				"Id": 2115,
+				"Date": "Apr 04 2027",
+				"Word": "GOOEY"
+			},
+			{
+				"Id": 2116,
+				"Date": "Apr 05 2027",
+				"Word": "FILER"
+			},
+			{
+				"Id": 2117,
+				"Date": "Apr 06 2027",
+				"Word": "BRACE"
+			},
+			{
+				"Id": 2118,
+				"Date": "Apr 07 2027",
+				"Word": "ALLAY"
+			},
+			{
+				"Id": 2119,
+				"Date": "Apr 08 2027",
+				"Word": "PUBIC"
+			},
+			{
+				"Id": 2120,
+				"Date": "Apr 09 2027",
+				"Word": "RAVEN"
+			},
+			{
+				"Id": 2121,
+				"Date": "Apr 10 2027",
+				"Word": "PLEAD"
+			},
+			{
+				"Id": 2122,
+				"Date": "Apr 11 2027",
+				"Word": "GNASH"
+			},
+			{
+				"Id": 2123,
+				"Date": "Apr 12 2027",
+				"Word": "FLAKY"
+			},
+			{
+				"Id": 2124,
+				"Date": "Apr 13 2027",
+				"Word": "MUNCH"
+			},
+			{
+				"Id": 2125,
+				"Date": "Apr 14 2027",
+				"Word": "DULLY"
+			},
+			{
+				"Id": 2126,
+				"Date": "Apr 15 2027",
+				"Word": "EKING"
+			},
+			{
+				"Id": 2127,
+				"Date": "Apr 16 2027",
+				"Word": "THING"
+			},
+			{
+				"Id": 2128,
+				"Date": "Apr 17 2027",
+				"Word": "SLINK"
+			},
+			{
+				"Id": 2129,
+				"Date": "Apr 18 2027",
+				"Word": "HURRY"
+			},
+			{
+				"Id": 2130,
+				"Date": "Apr 19 2027",
+				"Word": "THEFT"
+			},
+			{
+				"Id": 2131,
+				"Date": "Apr 20 2027",
+				"Word": "SHORN"
+			},
+			{
+				"Id": 2132,
+				"Date": "Apr 21 2027",
+				"Word": "PYGMY"
+			},
+			{
+				"Id": 2133,
+				"Date": "Apr 22 2027",
+				"Word": "RANCH"
+			},
+			{
+				"Id": 2134,
+				"Date": "Apr 23 2027",
+				"Word": "WRING"
+			},
+			{
+				"Id": 2135,
+				"Date": "Apr 24 2027",
+				"Word": "LEMON"
+			},
+			{
+				"Id": 2136,
+				"Date": "Apr 25 2027",
+				"Word": "SHORE"
+			},
+			{
+				"Id": 2137,
+				"Date": "Apr 26 2027",
+				"Word": "MAMMA"
+			},
+			{
+				"Id": 2138,
+				"Date": "Apr 27 2027",
+				"Word": "FROZE"
+			},
+			{
+				"Id": 2139,
+				"Date": "Apr 28 2027",
+				"Word": "NEWER"
+			},
+			{
+				"Id": 2140,
+				"Date": "Apr 29 2027",
+				"Word": "STYLE"
+			},
+			{
+				"Id": 2141,
+				"Date": "Apr 30 2027",
+				"Word": "MOOSE"
+			},
+			{
+				"Id": 2142,
+				"Date": "May 01 2027",
+				"Word": "ANTIC"
+			},
+			{
+				"Id": 2143,
+				"Date": "May 02 2027",
+				"Word": "DROWN"
+			},
+			{
+				"Id": 2144,
+				"Date": "May 03 2027",
+				"Word": "VEGAN"
+			},
+			{
+				"Id": 2145,
+				"Date": "May 04 2027",
+				"Word": "CHESS"
+			},
+			{
+				"Id": 2146,
+				"Date": "May 05 2027",
+				"Word": "GUPPY"
+			},
+			{
+				"Id": 2147,
+				"Date": "May 06 2027",
+				"Word": "UNION"
+			},
+			{
+				"Id": 2148,
+				"Date": "May 07 2027",
+				"Word": "LEVER"
+			},
+			{
+				"Id": 2149,
+				"Date": "May 08 2027",
+				"Word": "LORRY"
+			},
+			{
+				"Id": 2150,
+				"Date": "May 09 2027",
+				"Word": "IMAGE"
+			},
+			{
+				"Id": 2151,
+				"Date": "May 10 2027",
+				"Word": "CABBY"
+			},
+			{
+				"Id": 2152,
+				"Date": "May 11 2027",
+				"Word": "DRUID"
+			},
+			{
+				"Id": 2153,
+				"Date": "May 12 2027",
+				"Word": "EXACT"
+			},
+			{
+				"Id": 2154,
+				"Date": "May 13 2027",
+				"Word": "TRUTH"
+			},
+			{
+				"Id": 2155,
+				"Date": "May 14 2027",
+				"Word": "DOPEY"
+			},
+			{
+				"Id": 2156,
+				"Date": "May 15 2027",
+				"Word": "SPEAR"
+			},
+			{
+				"Id": 2157,
+				"Date": "May 16 2027",
+				"Word": "CRIED"
+			},
+			{
+				"Id": 2158,
+				"Date": "May 17 2027",
+				"Word": "CHIME"
+			},
+			{
+				"Id": 2159,
+				"Date": "May 18 2027",
+				"Word": "CRONY"
+			},
+			{
+				"Id": 2160,
+				"Date": "May 19 2027",
+				"Word": "STUNK"
+			},
+			{
+				"Id": 2161,
+				"Date": "May 20 2027",
+				"Word": "TIMID"
+			},
+			{
+				"Id": 2162,
+				"Date": "May 21 2027",
+				"Word": "BATCH"
+			},
+			{
+				"Id": 2163,
+				"Date": "May 22 2027",
+				"Word": "GAUGE"
+			},
+			{
+				"Id": 2164,
+				"Date": "May 23 2027",
+				"Word": "ROTOR"
+			},
+			{
+				"Id": 2165,
+				"Date": "May 24 2027",
+				"Word": "CRACK"
+			},
+			{
+				"Id": 2166,
+				"Date": "May 25 2027",
+				"Word": "CURVE"
+			},
+			{
+				"Id": 2167,
+				"Date": "May 26 2027",
+				"Word": "LATTE"
+			},
+			{
+				"Id": 2168,
+				"Date": "May 27 2027",
+				"Word": "WITCH"
+			},
+			{
+				"Id": 2169,
+				"Date": "May 28 2027",
+				"Word": "BUNCH"
+			},
+			{
+				"Id": 2170,
+				"Date": "May 29 2027",
+				"Word": "REPEL"
+			},
+			{
+				"Id": 2171,
+				"Date": "May 30 2027",
+				"Word": "ANVIL"
+			},
+			{
+				"Id": 2172,
+				"Date": "May 31 2027",
+				"Word": "SOAPY"
+			},
+			{
+				"Id": 2173,
+				"Date": "Jun 01 2027",
+				"Word": "METER"
+			},
+			{
+				"Id": 2174,
+				"Date": "Jun 02 2027",
+				"Word": "BROTH"
+			},
+			{
+				"Id": 2175,
+				"Date": "Jun 03 2027",
+				"Word": "MADLY"
+			},
+			{
+				"Id": 2176,
+				"Date": "Jun 04 2027",
+				"Word": "DRIED"
+			},
+			{
+				"Id": 2177,
+				"Date": "Jun 05 2027",
+				"Word": "SCENE"
+			},
+			{
+				"Id": 2178,
+				"Date": "Jun 06 2027",
+				"Word": "KNOWN"
+			},
+			{
+				"Id": 2179,
+				"Date": "Jun 07 2027",
+				"Word": "MAGMA"
+			},
+			{
+				"Id": 2180,
+				"Date": "Jun 08 2027",
+				"Word": "ROOST"
+			},
+			{
+				"Id": 2181,
+				"Date": "Jun 09 2027",
+				"Word": "WOMAN"
+			},
+			{
+				"Id": 2182,
+				"Date": "Jun 10 2027",
+				"Word": "THONG"
+			},
+			{
+				"Id": 2183,
+				"Date": "Jun 11 2027",
+				"Word": "PUNCH"
+			},
+			{
+				"Id": 2184,
+				"Date": "Jun 12 2027",
+				"Word": "PASTY"
+			},
+			{
+				"Id": 2185,
+				"Date": "Jun 13 2027",
+				"Word": "DOWNY"
+			},
+			{
+				"Id": 2186,
+				"Date": "Jun 14 2027",
+				"Word": "KNEAD"
+			},
+			{
+				"Id": 2187,
+				"Date": "Jun 15 2027",
+				"Word": "WHIRL"
+			},
+			{
+				"Id": 2188,
+				"Date": "Jun 16 2027",
+				"Word": "RAPID"
+			},
+			{
+				"Id": 2189,
+				"Date": "Jun 17 2027",
+				"Word": "CLANG"
+			},
+			{
+				"Id": 2190,
+				"Date": "Jun 18 2027",
+				"Word": "ANGER"
+			},
+			{
+				"Id": 2191,
+				"Date": "Jun 19 2027",
+				"Word": "DRIVE"
+			},
+			{
+				"Id": 2192,
+				"Date": "Jun 20 2027",
+				"Word": "GOOFY"
+			},
+			{
+				"Id": 2193,
+				"Date": "Jun 21 2027",
+				"Word": "EMAIL"
+			},
+			{
+				"Id": 2194,
+				"Date": "Jun 22 2027",
+				"Word": "MUSIC"
+			},
+			{
+				"Id": 2195,
+				"Date": "Jun 23 2027",
+				"Word": "STUFF"
+			},
+			{
+				"Id": 2196,
+				"Date": "Jun 24 2027",
+				"Word": "BLEEP"
+			},
+			{
+				"Id": 2197,
+				"Date": "Jun 25 2027",
+				"Word": "RIDER"
+			},
+			{
+				"Id": 2198,
+				"Date": "Jun 26 2027",
+				"Word": "MECCA"
+			},
+			{
+				"Id": 2199,
+				"Date": "Jun 27 2027",
+				"Word": "FOLIO"
+			},
+			{
+				"Id": 2200,
+				"Date": "Jun 28 2027",
+				"Word": "SETUP"
+			},
+			{
+				"Id": 2201,
+				"Date": "Jun 29 2027",
+				"Word": "VERSO"
+			},
+			{
+				"Id": 2202,
+				"Date": "Jun 30 2027",
+				"Word": "QUASH"
+			},
+			{
+				"Id": 2203,
+				"Date": "Jul 01 2027",
+				"Word": "FAUNA"
+			},
+			{
+				"Id": 2204,
+				"Date": "Jul 02 2027",
+				"Word": "GUMMY"
+			},
+			{
+				"Id": 2205,
+				"Date": "Jul 03 2027",
+				"Word": "HAPPY"
+			},
+			{
+				"Id": 2206,
+				"Date": "Jul 04 2027",
+				"Word": "NEWLY"
+			},
+			{
+				"Id": 2207,
+				"Date": "Jul 05 2027",
+				"Word": "FUSSY"
+			},
+			{
+				"Id": 2208,
+				"Date": "Jul 06 2027",
+				"Word": "RELIC"
+			},
+			{
+				"Id": 2209,
+				"Date": "Jul 07 2027",
+				"Word": "GUAVA"
+			},
+			{
+				"Id": 2210,
+				"Date": "Jul 08 2027",
+				"Word": "RATTY"
+			},
+			{
+				"Id": 2211,
+				"Date": "Jul 09 2027",
+				"Word": "FUDGE"
+			},
+			{
+				"Id": 2212,
+				"Date": "Jul 10 2027",
+				"Word": "FEMUR"
+			},
+			{
+				"Id": 2213,
+				"Date": "Jul 11 2027",
+				"Word": "CHIRP"
+			},
+			{
+				"Id": 2214,
+				"Date": "Jul 12 2027",
+				"Word": "FORTE"
+			},
+			{
+				"Id": 2215,
+				"Date": "Jul 13 2027",
+				"Word": "ALIBI"
+			},
+			{
+				"Id": 2216,
+				"Date": "Jul 14 2027",
+				"Word": "WHINE"
+			},
+			{
+				"Id": 2217,
+				"Date": "Jul 15 2027",
+				"Word": "PETTY"
+			},
+			{
+				"Id": 2218,
+				"Date": "Jul 16 2027",
+				"Word": "GOLLY"
+			},
+			{
+				"Id": 2219,
+				"Date": "Jul 17 2027",
+				"Word": "PLAIT"
+			},
+			{
+				"Id": 2220,
+				"Date": "Jul 18 2027",
+				"Word": "FLECK"
+			},
+			{
+				"Id": 2221,
+				"Date": "Jul 19 2027",
+				"Word": "FELON"
+			},
+			{
+				"Id": 2222,
+				"Date": "Jul 20 2027",
+				"Word": "GOURD"
+			},
+			{
+				"Id": 2223,
+				"Date": "Jul 21 2027",
+				"Word": "BROWN"
+			},
+			{
+				"Id": 2224,
+				"Date": "Jul 22 2027",
+				"Word": "THRUM"
+			},
+			{
+				"Id": 2225,
+				"Date": "Jul 23 2027",
+				"Word": "FICUS"
+			},
+			{
+				"Id": 2226,
+				"Date": "Jul 24 2027",
+				"Word": "STASH"
+			},
+			{
+				"Id": 2227,
+				"Date": "Jul 25 2027",
+				"Word": "DECRY"
+			},
+			{
+				"Id": 2228,
+				"Date": "Jul 26 2027",
+				"Word": "WISER"
+			},
+			{
+				"Id": 2229,
+				"Date": "Jul 27 2027",
+				"Word": "JUNTA"
+			},
+			{
+				"Id": 2230,
+				"Date": "Jul 28 2027",
+				"Word": "VISOR"
+			},
+			{
+				"Id": 2231,
+				"Date": "Jul 29 2027",
+				"Word": "DAUNT"
+			},
+			{
+				"Id": 2232,
+				"Date": "Jul 30 2027",
+				"Word": "SCREE"
+			},
+			{
+				"Id": 2233,
+				"Date": "Jul 31 2027",
+				"Word": "IMPEL"
+			},
+			{
+				"Id": 2234,
+				"Date": "Aug 01 2027",
+				"Word": "AWAIT"
+			},
+			{
+				"Id": 2235,
+				"Date": "Aug 02 2027",
+				"Word": "PRESS"
+			},
+			{
+				"Id": 2236,
+				"Date": "Aug 03 2027",
+				"Word": "WHOSE"
+			},
+			{
+				"Id": 2237,
+				"Date": "Aug 04 2027",
+				"Word": "TURBO"
+			},
+			{
+				"Id": 2238,
+				"Date": "Aug 05 2027",
+				"Word": "STOOP"
+			},
+			{
+				"Id": 2239,
+				"Date": "Aug 06 2027",
+				"Word": "SPEAK"
+			},
+			{
+				"Id": 2240,
+				"Date": "Aug 07 2027",
+				"Word": "MANGY"
+			},
+			{
+				"Id": 2241,
+				"Date": "Aug 08 2027",
+				"Word": "EYING"
+			},
+			{
+				"Id": 2242,
+				"Date": "Aug 09 2027",
+				"Word": "INLET"
+			},
+			{
+				"Id": 2243,
+				"Date": "Aug 10 2027",
+				"Word": "CRONE"
+			},
+			{
+				"Id": 2244,
+				"Date": "Aug 11 2027",
+				"Word": "PULSE"
+			},
+			{
+				"Id": 2245,
+				"Date": "Aug 12 2027",
+				"Word": "MOSSY"
+			},
+			{
+				"Id": 2246,
+				"Date": "Aug 13 2027",
+				"Word": "STAID"
+			},
+			{
+				"Id": 2247,
+				"Date": "Aug 14 2027",
+				"Word": "HENCE"
+			},
+			{
+				"Id": 2248,
+				"Date": "Aug 15 2027",
+				"Word": "PINCH"
+			},
+			{
+				"Id": 2249,
+				"Date": "Aug 16 2027",
+				"Word": "TEDDY"
+			},
+			{
+				"Id": 2250,
+				"Date": "Aug 17 2027",
+				"Word": "SULLY"
+			},
+			{
+				"Id": 2251,
+				"Date": "Aug 18 2027",
+				"Word": "SNORE"
+			},
+			{
+				"Id": 2252,
+				"Date": "Aug 19 2027",
+				"Word": "RIPEN"
+			},
+			{
+				"Id": 2253,
+				"Date": "Aug 20 2027",
+				"Word": "SNOWY"
+			},
+			{
+				"Id": 2254,
+				"Date": "Aug 21 2027",
+				"Word": "ATTIC"
+			},
+			{
+				"Id": 2255,
+				"Date": "Aug 22 2027",
+				"Word": "GOING"
+			},
+			{
+				"Id": 2256,
+				"Date": "Aug 23 2027",
+				"Word": "LEACH"
+			},
+			{
+				"Id": 2257,
+				"Date": "Aug 24 2027",
+				"Word": "MOUTH"
+			},
+			{
+				"Id": 2258,
+				"Date": "Aug 25 2027",
+				"Word": "HOUND"
+			},
+			{
+				"Id": 2259,
+				"Date": "Aug 26 2027",
+				"Word": "CLUMP"
+			},
+			{
+				"Id": 2260,
+				"Date": "Aug 27 2027",
+				"Word": "TONAL"
+			},
+			{
+				"Id": 2261,
+				"Date": "Aug 28 2027",
+				"Word": "BIGOT"
+			},
+			{
+				"Id": 2262,
+				"Date": "Aug 29 2027",
+				"Word": "PERIL"
+			},
+			{
+				"Id": 2263,
+				"Date": "Aug 30 2027",
+				"Word": "PIECE"
+			},
+			{
+				"Id": 2264,
+				"Date": "Aug 31 2027",
+				"Word": "BLAME"
+			},
+			{
+				"Id": 2265,
+				"Date": "Sep 01 2027",
+				"Word": "HAUTE"
+			},
+			{
+				"Id": 2266,
+				"Date": "Sep 02 2027",
+				"Word": "SPIED"
+			},
+			{
+				"Id": 2267,
+				"Date": "Sep 03 2027",
+				"Word": "UNDID"
+			},
+			{
+				"Id": 2268,
+				"Date": "Sep 04 2027",
+				"Word": "INTRO"
+			},
+			{
+				"Id": 2269,
+				"Date": "Sep 05 2027",
+				"Word": "BASAL"
+			},
+			{
+				"Id": 2270,
+				"Date": "Sep 06 2027",
+				"Word": "SHINE"
+			},
+			{
+				"Id": 2271,
+				"Date": "Sep 07 2027",
+				"Word": "GECKO"
+			},
+			{
+				"Id": 2272,
+				"Date": "Sep 08 2027",
+				"Word": "RODEO"
+			},
+			{
+				"Id": 2273,
+				"Date": "Sep 09 2027",
+				"Word": "GUARD"
+			},
+			{
+				"Id": 2274,
+				"Date": "Sep 10 2027",
+				"Word": "STEER"
+			},
+			{
+				"Id": 2275,
+				"Date": "Sep 11 2027",
+				"Word": "LOAMY"
+			},
+			{
+				"Id": 2276,
+				"Date": "Sep 12 2027",
+				"Word": "SCAMP"
+			},
+			{
+				"Id": 2277,
+				"Date": "Sep 13 2027",
+				"Word": "SCRAM"
+			},
+			{
+				"Id": 2278,
+				"Date": "Sep 14 2027",
+				"Word": "MANLY"
+			},
+			{
+				"Id": 2279,
+				"Date": "Sep 15 2027",
+				"Word": "HELLO"
+			},
+			{
+				"Id": 2280,
+				"Date": "Sep 16 2027",
+				"Word": "VAUNT"
+			},
+			{
+				"Id": 2281,
+				"Date": "Sep 17 2027",
+				"Word": "ORGAN"
+			},
+			{
+				"Id": 2282,
+				"Date": "Sep 18 2027",
+				"Word": "FERAL"
+			},
+			{
+				"Id": 2283,
+				"Date": "Sep 19 2027",
+				"Word": "KNOCK"
+			},
+			{
+				"Id": 2284,
+				"Date": "Sep 20 2027",
+				"Word": "EXTRA"
+			},
+			{
+				"Id": 2285,
+				"Date": "Sep 21 2027",
+				"Word": "CONDO"
+			},
+			{
+				"Id": 2286,
+				"Date": "Sep 22 2027",
+				"Word": "ADAPT"
+			},
+			{
+				"Id": 2287,
+				"Date": "Sep 23 2027",
+				"Word": "WILLY"
+			},
+			{
+				"Id": 2288,
+				"Date": "Sep 24 2027",
+				"Word": "POLKA"
+			},
+			{
+				"Id": 2289,
+				"Date": "Sep 25 2027",
+				"Word": "RAYON"
+			},
+			{
+				"Id": 2290,
+				"Date": "Sep 26 2027",
+				"Word": "SKIRT"
+			},
+			{
+				"Id": 2291,
+				"Date": "Sep 27 2027",
+				"Word": "FAITH"
+			},
+			{
+				"Id": 2292,
+				"Date": "Sep 28 2027",
+				"Word": "TORSO"
+			},
+			{
+				"Id": 2293,
+				"Date": "Sep 29 2027",
+				"Word": "MATCH"
+			},
+			{
+				"Id": 2294,
+				"Date": "Sep 30 2027",
+				"Word": "MERCY"
+			},
+			{
+				"Id": 2295,
+				"Date": "Oct 01 2027",
+				"Word": "TEPID"
+			},
+			{
+				"Id": 2296,
+				"Date": "Oct 02 2027",
+				"Word": "SLEEK"
+			},
+			{
+				"Id": 2297,
+				"Date": "Oct 03 2027",
+				"Word": "RISER"
+			},
+			{
+				"Id": 2298,
+				"Date": "Oct 04 2027",
+				"Word": "TWIXT"
+			},
+			{
+				"Id": 2299,
+				"Date": "Oct 05 2027",
+				"Word": "PEACE"
+			},
+			{
+				"Id": 2300,
+				"Date": "Oct 06 2027",
+				"Word": "FLUSH"
+			},
+			{
+				"Id": 2301,
+				"Date": "Oct 07 2027",
+				"Word": "CATTY"
+			},
+			{
+				"Id": 2302,
+				"Date": "Oct 08 2027",
+				"Word": "LOGIN"
+			},
+			{
+				"Id": 2303,
+				"Date": "Oct 09 2027",
+				"Word": "EJECT"
+			},
+			{
+				"Id": 2304,
+				"Date": "Oct 10 2027",
+				"Word": "ROGER"
+			},
+			{
+				"Id": 2305,
+				"Date": "Oct 11 2027",
+				"Word": "RIVAL"
+			},
+			{
+				"Id": 2306,
+				"Date": "Oct 12 2027",
+				"Word": "UNTIE"
+			},
+			{
+				"Id": 2307,
+				"Date": "Oct 13 2027",
+				"Word": "REFIT"
+			},
+			{
+				"Id": 2308,
+				"Date": "Oct 14 2027",
+				"Word": "AORTA"
+			},
+			{
+				"Id": 2309,
+				"Date": "Oct 15 2027",
+				"Word": "ADULT"
+			},
+			{
+				"Id": 2310,
+				"Date": "Oct 16 2027",
+				"Word": "JUDGE"
+			},
+			{
+				"Id": 2311,
+				"Date": "Oct 17 2027",
+				"Word": "ROWER"
+			},
+			{
+				"Id": 2312,
+				"Date": "Oct 18 2027",
+				"Word": "ARTSY"
+			},
+			{
+				"Id": 2313,
+				"Date": "Oct 19 2027",
+				"Word": "RURAL"
+			},
+			{
+				"Id": 2314,
+				"Date": "Oct 20 2027",
+				"Word": "SHAVE"
+			}
+		]
+	}
+}

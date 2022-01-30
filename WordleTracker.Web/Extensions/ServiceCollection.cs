@@ -9,7 +9,9 @@ public static class ServiceCollectionExtensions
 	private const string SqliteConnectionKey = "Sqlite";
 
 	public static IServiceCollection AddConfig(this IServiceCollection services, IConfiguration config) =>
-		services.Configure<NamesOptions>(config.GetSection(NamesOptions.Section));
+		services
+			.Configure<DaysOptions>(config.GetSection(DaysOptions.Section))
+			.Configure<NamesOptions>(config.GetSection(NamesOptions.Section));
 
 	public static IServiceCollection UseDbContexts(this IServiceCollection services, IConfiguration config) =>
 		services.AddDbContext<WordleTrackerContext>(options =>

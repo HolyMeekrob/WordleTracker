@@ -4,7 +4,7 @@
 	{
 		public const string Section = "Names";
 
-		public List<string> Adjectives { get; set; } = new();
-		public List<string> Nouns { get; set; } = new();
+		public List<string> Adjectives { get; init; } = null!;
+		public List<string> Nouns { get; init; } = null!;
 	}
 }

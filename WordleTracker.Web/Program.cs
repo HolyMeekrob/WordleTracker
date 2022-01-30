@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.Extensions.Options;
+using WordleTracker.Core.Configuration;
 using WordleTracker.Data;
 using WordleTracker.Svc;
 using WordleTracker.Web.Extensions;
@@ -9,7 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Host.ConfigureAppConfiguration((hostingContext, config) =>
 {
 	var configFolder = Path.Combine(hostingContext.HostingEnvironment.ContentRootPath, "Configuration");
-	config.AddJsonFile(Path.Combine(configFolder, "Names.json"), false, false);
+	config
+		.AddJsonFile(Path.Combine(configFolder, "Names.json"), false, false)
+		.AddJsonFile(Path.Combine(configFolder, "Days.json"), false, false);
 });
 
 // Add services to the container.
@@ -57,7 +61,10 @@ else
 using (var scope = app.Services.CreateScope())
 {
 	var context = scope.ServiceProvider.GetRequiredService<WordleTrackerContext>();
+	var config = scope.ServiceProvider.GetRequiredService<IOptions<DaysOptions>>();
+
 	context.Database.EnsureCreated();
+	DatabaseInitializer.Initialize(context, config);
 }
 
 app.UseHttpsRedirection();
