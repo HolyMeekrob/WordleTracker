@@ -3,6 +3,7 @@ using System.Text.Json;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WordleTracker.Data.Models;
 
 namespace WordleTracker.Data;
@@ -19,6 +20,13 @@ public class WordleTrackerContext : DbContext
 	{
 	}
 
+	protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+	{
+		configurationBuilder
+			.Properties<DateTimeOffset>()
+			.HaveConversion<UniversalSortableTimeConverter>();
+	}
+
 	protected override void OnModelCreating(ModelBuilder modelBuilder)
 	{
 		base.OnModelCreating(modelBuilder);
@@ -28,7 +36,6 @@ public class WordleTrackerContext : DbContext
 	private class UserEntityTypeConfiguration : IEntityTypeConfiguration<User>
 	{
 		// TODO: How to automate UpdatedDate
-		// TODO: How to Results, Groups, GroupMemberships immutable
 		public void Configure(EntityTypeBuilder<User> builder)
 		{
 			builder
@@ -79,6 +86,19 @@ public class WordleTrackerContext : DbContext
 		{
 			builder.HasKey(gm => new { gm.GroupId, gm.UserId });
 			builder.Property(groupMember => groupMember.Role).HasConversion<string>();
+		}
+	}
+
+	/// <summary>
+	/// Converts DateTimeOffsets to/from ISO 8601 format when reading/writing to the database.
+	/// </summary>
+	private class UniversalSortableTimeConverter : ValueConverter<DateTimeOffset, string>
+	{
+		public UniversalSortableTimeConverter() : base(
+				date => date.ToString("u"),
+				dateStr => DateTimeOffset.Parse(dateStr)
+			)
+		{
 		}
 	}
 }
