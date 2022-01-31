@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using WordleTracker.Core.Configuration;
 using WordleTracker.Data;
@@ -63,7 +64,7 @@ using (var scope = app.Services.CreateScope())
 	var context = scope.ServiceProvider.GetRequiredService<WordleTrackerContext>();
 	var config = scope.ServiceProvider.GetRequiredService<IOptions<DaysOptions>>();
 
-	context.Database.EnsureCreated();
+	context.Database.Migrate();
 	DatabaseInitializer.Initialize(context, config);
 }
 
