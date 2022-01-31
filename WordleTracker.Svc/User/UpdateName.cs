@@ -19,8 +19,6 @@ public partial class UserSvc
 		}
 
 		user.Name = name;
-		// TODO: Automate this
-		user.UpdatedDate = DateTime.UtcNow;
 		await DbContext.SaveChangesAsync(cancellationToken);
 
 		DbContext.Entry(user).State = EntityState.Detached;

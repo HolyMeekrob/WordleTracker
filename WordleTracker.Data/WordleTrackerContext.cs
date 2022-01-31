@@ -33,9 +33,67 @@ public class WordleTrackerContext : DbContext
 		modelBuilder.ApplyConfigurationsFromAssembly(typeof(WordleTrackerContext).Assembly);
 	}
 
+	public override int SaveChanges(bool acceptAllChangesOnSuccess)
+	{
+		OnBeforeSave();
+		return base.SaveChanges(acceptAllChangesOnSuccess);
+	}
+
+	public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default)
+	{
+		OnBeforeSave();
+		return base.SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
+	}
+
+	private void OnBeforeSave()
+	{
+		var now = DateTimeOffset.UtcNow;
+
+		var entries = ChangeTracker.Entries();
+
+		entries
+			.Where(entry => entry.State == EntityState.Added)
+			.ToList()
+			.ForEach(OnBeforeAdd);
+
+		entries
+			.Where(entry => entry.State == EntityState.Modified)
+			.ToList()
+			.ForEach(OnBeforeUpdate);
+
+		#region Helpers
+
+		void OnBeforeAdd(EntityEntry entry)
+		{
+			if (entry.Entity is ITrackCreation addTrackedEntity)
+			{
+				addTrackedEntity.CreatedDate = now;
+			}
+
+			if (entry.Entity is ITrackModification modTrackedEntity)
+			{
+				modTrackedEntity.UpdatedDate = now;
+			}
+		}
+
+		void OnBeforeUpdate(EntityEntry entry)
+		{
+			if (entry.Entity is ITrackModification trackedEntity)
+			{
+				trackedEntity.UpdatedDate = now;
+			}
+
+			if (entry.Entity is ITrackCreation)
+			{
+				entry.Property("CreatedDate").IsModified = false;
+			}
+		}
+
+		#endregion Helpers
+	}
+
 	private class UserEntityTypeConfiguration : IEntityTypeConfiguration<User>
 	{
-		// TODO: How to automate UpdatedDate
 		public void Configure(EntityTypeBuilder<User> builder)
 		{
 			builder
@@ -79,7 +137,6 @@ public class WordleTrackerContext : DbContext
 		}
 	}
 
-	// TODO: How to set UpdatedDate automatically
 	private class GroupMemberEntityTypeConfiguration : IEntityTypeConfiguration<GroupMember>
 	{
 		public void Configure(EntityTypeBuilder<GroupMember> builder)

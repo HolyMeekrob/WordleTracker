@@ -99,7 +99,6 @@ public class CreateUserTests : DbTests
 		Assert.NotNull(fetchedUser);
 		Assert.Equal(returnedUser.CreatedDate, returnedUser.UpdatedDate);
 		Assert.Equal(fetchedUser!.CreatedDate, fetchedUser.UpdatedDate);
-		Assert.Equal(returnedUser.CreatedDate, fetchedUser.CreatedDate);
 	}
 }
 

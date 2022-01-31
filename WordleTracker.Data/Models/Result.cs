@@ -6,7 +6,7 @@ using static WordleTracker.Core.Utilities.Functional;
 
 namespace WordleTracker.Data.Models;
 
-public class Result
+public class Result : ITrackCreation
 {
 	#region Properties
 	public string UserId { get; set; } = null!;

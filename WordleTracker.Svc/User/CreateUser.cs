@@ -12,14 +12,10 @@ public partial class UserSvc
 			throw new ArgumentException("User id cannot be empty or whitespace", nameof(id));
 		}
 
-		var now = DateTimeOffset.UtcNow;
-
 		var user = new User()
 		{
 			Id = id,
 			Name = string.IsNullOrWhiteSpace(name) ? id : name,
-			CreatedDate = now,
-			UpdatedDate = now
 		};
 
 		DbContext.Add(user);

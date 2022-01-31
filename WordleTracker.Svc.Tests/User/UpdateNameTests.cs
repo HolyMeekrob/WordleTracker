@@ -27,8 +27,6 @@ public class UpdateNameTests : DbTests
 		{
 			Id = "User Id",
 			Name = "User Name",
-			CreatedDate = DateTime.UtcNow,
-			UpdatedDate = DateTime.UtcNow
 		};
 		DbContext.Users.Add(user);
 		await DbContext.SaveChangesAsync();
@@ -48,8 +46,6 @@ public class UpdateNameTests : DbTests
 		{
 			Id = "User Id",
 			Name = "User Name",
-			CreatedDate = DateTime.UtcNow,
-			UpdatedDate = DateTime.UtcNow
 		};
 		DbContext.Users.Add(user);
 		await DbContext.SaveChangesAsync();
@@ -68,8 +64,6 @@ public class UpdateNameTests : DbTests
 		{
 			Id = "User Id",
 			Name = "User Name",
-			CreatedDate = DateTime.UtcNow,
-			UpdatedDate = DateTime.UtcNow
 		};
 		DbContext.Users.Add(user);
 		await DbContext.SaveChangesAsync();
@@ -90,8 +84,6 @@ public class UpdateNameTests : DbTests
 		{
 			Id = "User Id",
 			Name = "User Name",
-			CreatedDate = DateTime.UtcNow,
-			UpdatedDate = DateTime.UtcNow
 		};
 		DbContext.Users.Add(user);
 		await DbContext.SaveChangesAsync();
