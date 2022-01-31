@@ -30,6 +30,7 @@ builder.Services.AddConfig(builder.Configuration);
 
 #region DI Registration
 
+builder.Services.AddScoped<ResultSvc, ResultSvc>();
 builder.Services.AddScoped<UserSvc, UserSvc>();
 
 #endregion DI Registration

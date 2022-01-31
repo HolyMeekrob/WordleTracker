@@ -1,42 +1,46 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using WordleTracker.Data.Models;
+using WordleTracker.Svc;
+using static WordleTracker.Web.Utilities.Identity;
 
 namespace WordleTracker.Web.Pages;
 
 public class IndexModel : PageModel
 {
 	private readonly ILogger<IndexModel> _logger;
+	private readonly ResultSvc _resultSvc;
 
 	// The formatted string from the Wordle share feature
 	[BindProperty]
-	[RegularExpression(Result.SharePattern)]
+	[RegularExpression(ResultParser.SharePattern)]
 	[Required]
 	public string Share { get; set; } = string.Empty;
 
 	public string SuccessMessage { get; set; } = string.Empty;
 
-	public IndexModel(ILogger<IndexModel> logger)
+	public IndexModel(ILogger<IndexModel> logger, ResultSvc resultSvc)
 	{
 		_logger = logger;
+		_resultSvc = resultSvc;
 	}
 
 	public void OnGet()
 	{
 	}
 
-	public async Task<IActionResult> OnPostAsync()
+	public async Task<IActionResult> OnPostAsync(CancellationToken cancellationToken)
 	{
-		if (!ModelState.IsValid)
+		if (ModelState.IsValid)
 		{
-			return await Task.FromResult<IActionResult>(Page());
+			var result = await _resultSvc.CreateResult(GetUserId(User), Share, cancellationToken);
+			SuccessMessage = $"Day {result.DayId} saved successfully";
 		}
 		else
 		{
-			SuccessMessage = "Hooray!";
-			var result = Result.Parse(User.Identity!.Name!, Share);
-			return await Task.FromResult<IActionResult>(Page());
+			SuccessMessage = "Failed to save result";
 		}
+
+		return Page();
 	}
 }
