@@ -1,4 +1,4 @@
-using WordleTracker.Data;
+﻿using WordleTracker.Data;
 
 namespace WordleTracker.Svc;
 
