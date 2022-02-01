@@ -1,6 +1,6 @@
 ﻿namespace WordleTracker.Data.Models;
 
-public class Group : ITrackCreation
+public class Group : ITrackCreation, ITrackModification
 {
 #pragma warning disable IDE0044, CS0169 // Add readonly modifier, Field is unused
 	// Cannot be read-only because this is set by Entity Framework
@@ -9,6 +9,7 @@ public class Group : ITrackCreation
 
 	public string Name { get; set; } = null!;
 	public DateTimeOffset CreatedDate { get; set; }
+	public DateTimeOffset UpdatedDate { get; set; }
 
 	public ICollection<User> Members { get; set; } = null!;
 	public List<GroupMember> Memberships { get; set; } = null!;
