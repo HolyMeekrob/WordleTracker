@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using WordleTracker.Svc;
 using static WordleTracker.Web.Utilities.Identity;
 
@@ -33,12 +34,15 @@ public class IndexModel : PageModel
 	{
 		if (ModelState.IsValid)
 		{
-			var result = await _resultSvc.CreateResult(GetUserId(User), Share, cancellationToken);
-			SuccessMessage = $"Day {result.DayId} saved successfully";
-		}
-		else
-		{
-			SuccessMessage = "Failed to save result";
+			try
+			{
+				var result = await _resultSvc.CreateResult(GetUserId(User), Share, cancellationToken);
+				SuccessMessage = $"Day {result.DayId} saved successfully";
+			}
+			catch (DbUpdateException)
+			{
+				ModelState.TryAddModelError(nameof(Share), "Result already exists");
+			}
 		}
 
 		return Page();

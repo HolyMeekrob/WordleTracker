@@ -43,7 +43,7 @@ public class CreateUserTests : DbTests
 	}
 
 	[Fact]
-	public async Task CreatingWithAnEmptyNameUsesId()
+	public async Task EmptyNameUsesId()
 	{
 		var svc = new UserSvc(DbContext);
 		var id = "User Id";
@@ -59,7 +59,7 @@ public class CreateUserTests : DbTests
 	[Theory]
 	[InlineData(" ")]
 	[InlineData("\t")]
-	public async Task CreatingWithAWhitespaceNameUsesId(string name)
+	public async Task WhitespaceNameUsesId(string name)
 	{
 		var svc = new UserSvc(DbContext);
 		var id = "User Id";

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using WordleTracker.Data.Models;
 using Xunit;
 
@@ -231,6 +232,43 @@ public class CreateResultTests : DbTests
 
 		await Assert.ThrowsAsync<FormatException>(() =>
 			svc.CreateResult("User Id", share, new CancellationToken())
+		);
+	}
+
+	[Fact]
+	public async Task DuplicateDayForUserThrowsAnException()
+	{
+		var svc = new ResultSvc(DbContext);
+		var userId = "User Id";
+
+		var shareOne = @"Wordle 123 X/6
+
+⬛⬛⬛⬛⬛
+⬛⬛⬛🟨🟨
+🟨⬛⬛⬛🟨
+⬛🟨🟨⬛🟨
+⬛🟩🟩🟩🟩
+⬛🟩🟩🟩🟩";
+
+		var shareTwo = @"Wordle 123 2/6
+
+⬛⬛⬛🟨🟨
+🟩🟩🟩🟩🟩";
+
+		var user = GetUser(userId);
+		DbContext.Add(user);
+
+		var day = GetDay(123);
+		DbContext.Add(day);
+
+		var token = new CancellationToken();
+
+		await DbContext.SaveChangesAsync();
+
+		await svc.CreateResult(userId, shareOne, token);
+
+		await Assert.ThrowsAsync<DbUpdateException>(() =>
+			svc.CreateResult(userId, shareTwo, token)
 		);
 	}
 
