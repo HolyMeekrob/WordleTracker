@@ -1,0 +1,20 @@
+﻿@using WordleTracker.Data.Models
+@model WordGuess
+
+<div>
+	@foreach (var letter in Model!.Guesses)
+	{
+		<span>@GetGuessDisplay(letter)</span>
+	}
+</div>
+
+@functions
+{
+	string GetGuessDisplay(LetterGuess guess) => guess switch
+	{
+		LetterGuess.Missing => "⬛",
+		LetterGuess.Misplaced => "🟨",
+		LetterGuess.Correct => "🟩",
+		_ => throw new ArgumentOutOfRangeException(nameof(guess), $"Unexpected guess: {guess}")
+	};
+}

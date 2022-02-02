@@ -1,0 +1,15 @@
+﻿@using WordleTracker.Data.Models
+@model Result
+
+<div>
+	Wordle @Model!.DayId
+	@(Model.IsSolved ? @Model.Guesses.Count : "X")/6
+	@(Model.HardMode ? "*" : "")
+</div>
+
+<div>
+	@foreach (var guess in @Model.Guesses)
+	{
+		<partial name="Guess" model=guess />
+	}
+</div>

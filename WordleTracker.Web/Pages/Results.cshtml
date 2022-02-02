@@ -1,0 +1,12 @@
+﻿@page
+@model WordleTracker.Web.Pages.ResultsModel
+@{
+	ViewData["Title"] = "Results";
+}
+
+<h1>Results</h1>
+
+@foreach (var result in Model.Results)
+{
+	<partial name="Result" model=result />
+}

@@ -17,21 +17,17 @@ public class CreateResultTests : DbTests
 ⬛🟩🟩🟩🟩
 🟩🟩🟩🟩🟩";
 
-	private static User GetUser(string userId) =>
-		new()
-		{
-			Id = userId,
-			Name = userId,
-			CreatedDate = DateTime.UtcNow,
-			UpdatedDate = DateTime.UtcNow
-		};
+	private static User GetUser(string userId) => new()
+	{
+		Id = userId,
+		Name = userId
+	};
 
-	private static Day GetDay(int dayId) =>
-		new()
-		{
-			Id = dayId,
-			Date = DateTimeOffset.UtcNow,
-		};
+	private static Day GetDay(int dayId) => new()
+	{
+		Id = dayId,
+		Date = DateTimeOffset.UtcNow,
+	};
 
 	[Fact]
 	public async Task EmptyUserIdThrowsAnException()

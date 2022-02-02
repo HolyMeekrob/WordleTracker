@@ -23,6 +23,7 @@ builder.Services
 	.AddRazorPages()
 	.AddRazorOptions(options =>
 	{
+		options.PageViewLocationFormats.Add("/Pages/Shared/Partials/_{0}.cshtml");
 		options.PageViewLocationFormats.Add("/Pages/Shared/Partials/{0}/_{0}.cshtml");
 	});
 
