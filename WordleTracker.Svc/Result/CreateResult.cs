@@ -14,7 +14,6 @@ public partial class ResultSvc
 
 		var result = ResultParser.Parse(sharedResult);
 		result.UserId = userId;
-		result.CreatedDate = DateTimeOffset.UtcNow;
 
 		DbContext.Add(result);
 		await DbContext.SaveChangesAsync(cancellationToken);

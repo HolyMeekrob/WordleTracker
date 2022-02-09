@@ -1,0 +1,36 @@
+﻿@page
+@model WordleTracker.Web.Pages.GroupsModel
+@{
+	ViewData["Title"] = "Groups";
+
+	<h1>Groups</h1>
+
+	<form method="post" asp-page="Groups" asp-page-handler="UpdateGroupName" class="container">
+		<fieldset>
+			<div class="row">
+				<div class="col-auto">
+					<label asp-for="Name" class="col-form-label"></label>
+				</div>
+				<div class="col">
+					<input asp-for="Name" class="form-control" />
+					<span asp-validation-for="Name" class="text-danger" />
+				</div>
+				<div class="col-auto">
+					<button type="submit" title="Create group" class="btn btn-primary">Create</button>
+				</div>
+			</div>
+		</fieldset>
+	</form>
+
+	<ul>
+	@foreach (var group in Model.Groups)
+	{
+		<li>@group.Name</li>
+	}
+	</ul>
+}
+
+@section Scripts
+{
+	<partial name="_ValidationScriptsPartial" />
+}

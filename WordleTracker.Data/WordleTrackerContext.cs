@@ -128,15 +128,6 @@ public class WordleTrackerContext : DbContext
 		}
 	}
 
-	private class GroupEntityTypeConfiguration : IEntityTypeConfiguration<Group>
-	{
-		public void Configure(EntityTypeBuilder<Group> builder)
-		{
-			builder.HasKey("_id");
-			builder.Property("_id").HasColumnName("Id");
-		}
-	}
-
 	private class GroupMemberEntityTypeConfiguration : IEntityTypeConfiguration<GroupMember>
 	{
 		public void Configure(EntityTypeBuilder<GroupMember> builder)

@@ -2,10 +2,7 @@
 
 public class Group : ITrackCreation, ITrackModification
 {
-#pragma warning disable IDE0044, CS0169 // Add readonly modifier, Field is unused
-	// Cannot be read-only because this is set by Entity Framework
-	private int _id;
-#pragma warning restore IDE0044, CS0169 // Add readonly modifier, Field is unused
+	public int Id { get; set; }
 
 	public string Name { get; set; } = null!;
 	public DateTimeOffset CreatedDate { get; set; }
