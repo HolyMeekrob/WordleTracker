@@ -13,7 +13,7 @@ public class GroupsModel : PageModel
 	private readonly ILogger<GroupsModel> _logger;
 	private readonly GroupSvc _groupSvc;
 
-	public List<Group> Groups { get; set; } = null!;
+	public ILookup<GroupRole, Group> Groups { get; set; } = null!;
 
 	[BindProperty]
 	[Required(ErrorMessage = "Group name cannot be blank")]
@@ -27,11 +27,18 @@ public class GroupsModel : PageModel
 		_groupSvc = groupSvc;
 	}
 
-	private async Task<List<Group>> GetGroups(CancellationToken cancellationToken) =>
-		await _groupSvc
-			.GetGroupsForUser(GetUserId(User))
-			.Include(group => group.Members)
-			.ToListAsync(cancellationToken);
+	private async Task<ILookup<GroupRole, Group>> GetGroups(CancellationToken cancellationToken)
+	{
+		var userId = GetUserId(User);
+		return (await _groupSvc
+			.GetGroupsForUser(userId)
+			.Include(group => group.Memberships)
+			.ToListAsync(cancellationToken))
+			.ToLookup(group => group.Memberships
+				.First(member => member.UserId == userId)
+				.Role
+			);
+	}
 
 	public async Task<IActionResult> OnGetAsync(CancellationToken cancellationToken)
 	{
@@ -39,7 +46,7 @@ public class GroupsModel : PageModel
 		return Page();
 	}
 
-	public async Task<IActionResult> OnPostUpdateGroupNameAsync(CancellationToken cancellationToken)
+	public async Task<IActionResult> OnPostAsync(CancellationToken cancellationToken)
 	{
 		if (!ModelState.IsValid)
 		{

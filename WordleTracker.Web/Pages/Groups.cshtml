@@ -5,7 +5,7 @@
 
 	<h1>Groups</h1>
 
-	<form method="post" asp-page="Groups" asp-page-handler="UpdateGroupName" class="container">
+	<form method="post" class="container">
 		<fieldset>
 			<div class="row">
 				<div class="col-auto">
@@ -22,12 +22,18 @@
 		</fieldset>
 	</form>
 
-	<ul>
-	@foreach (var group in Model.Groups)
+	@foreach (var grouping in Model.Groups)
 	{
-		<li>@group.Name</li>
+		<div class="card">
+			<div class="card-header">@grouping.Key</div>
+			<ul class="list-group list-group-flush">
+				@foreach (var group in grouping)
+				{
+					<li class="list-group-item">(@group.Memberships.Count()) @group.Name</li>
+				}
+			</ul>
+		</div>
 	}
-	</ul>
 }
 
 @section Scripts
