@@ -1,0 +1,31 @@
+﻿@page "{id:int}"
+@model WordleTracker.Web.Pages.GroupModel
+@{
+	ViewData["Title"] = $"Group {Model.Name}";
+}
+
+<h1>@Model.Name</h1>
+
+<table class="table table-light table-bordered">
+	<thead>
+		<tr>
+			<th scope="col">Name</th>
+			<th scope="col">Role</th>
+			<th scope="col">Solutions</th>
+			<th scope="col">Solution Rate</th>
+			<th scope="col">Average success</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var member in Model.Members)
+		{
+			<tr>
+				<td title=@member.Id>@member.Name</td>
+				<td>@member.Role</td>
+				<td>@member.SolutionCount</td>
+				<td>@member.SolutionRate.ToString("P0")</td>
+				<td>@member.SolutionAverage</td>
+			</tr>
+		}
+	</tbody>
+</table>

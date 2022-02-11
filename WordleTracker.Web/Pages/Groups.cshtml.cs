@@ -27,10 +27,10 @@ public class GroupsModel : PageModel
 		_groupSvc = groupSvc;
 	}
 
-	private async Task<ILookup<GroupRole, Group>> GetGroups(CancellationToken cancellationToken)
+	public async Task<IActionResult> OnGetAsync(CancellationToken cancellationToken)
 	{
 		var userId = GetUserId(User);
-		return (await _groupSvc
+		Groups = (await _groupSvc
 			.GetGroupsForUser(userId)
 			.Include(group => group.Memberships)
 			.ToListAsync(cancellationToken))
@@ -38,11 +38,7 @@ public class GroupsModel : PageModel
 				.First(member => member.UserId == userId)
 				.Role
 			);
-	}
 
-	public async Task<IActionResult> OnGetAsync(CancellationToken cancellationToken)
-	{
-		Groups = await GetGroups(cancellationToken);
 		return Page();
 	}
 
@@ -54,12 +50,6 @@ public class GroupsModel : PageModel
 		}
 
 		var group = await _groupSvc.CreateGroup(Name, GetUserId(User), cancellationToken);
-
-		ModelState.Clear();
-		// TODO: Redirect to group page
-		Name = string.Empty;
-		Groups = await GetGroups(cancellationToken);
-
-		return Page();
+		return RedirectToPage("Group", new { id = group.Id });
 	}
 }

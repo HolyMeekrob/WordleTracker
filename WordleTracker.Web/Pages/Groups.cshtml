@@ -29,7 +29,10 @@
 			<ul class="list-group list-group-flush">
 				@foreach (var group in grouping)
 				{
-					<li class="list-group-item">(@group.Memberships.Count()) @group.Name</li>
+					<li class="list-group-item">
+						(@group.Memberships.Count)
+						<a asp-page="Group" asp-route-id=@group.Id>@group.Name</a>
+					</li>
 				}
 			</ul>
 		</div>
