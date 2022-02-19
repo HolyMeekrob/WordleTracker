@@ -9,7 +9,7 @@ namespace WordleTracker.Svc;
 public static class ResultParser
 {
 	public const string SharePattern =
-		@"Wordle (?<id>\d+) (?<success>[1-6X])/6(?<hardmode>\*?)(?<newline>\r|\n|\r\n){2}(?:(?<nonfinal>[⬛🟨🟩]{5,10})\k<newline>){0,5}(?<final>[⬛🟨🟩]{5,10})";
+		@"(?:(?<results>Wordle (?<id>\d+) (?<success>[1-6X])/6(?<hardmode>\*?)(?<newline>\r|\n|\r\n){2}(?:(?<nonfinal>[⬛🟨🟩]{5,10})\k<newline>){0,5}(?<final>[⬛🟨🟩]{5,10}))\k<newline>*)+";
 
 	private static readonly Regex s_shareRegex = new(SharePattern, RegexOptions.Compiled);
 	private static readonly Dictionary<string, LetterGuess> s_letterGuessMap = new()
@@ -19,6 +19,15 @@ public static class ResultParser
 		{ "🟩", LetterGuess.Correct }
 	};
 
+	public static ImmutableList<Result> ParseAll(string sharedResults) =>
+		s_shareRegex
+			.Match(sharedResults)
+			.Groups["results"]
+			.Captures
+			.Select(Parse)
+			.ToImmutableList();
+
+	private static Result Parse(Capture result) => Parse(result.Value);
 	public static Result Parse(string sharedResult)
 	{
 		var result = s_shareRegex.Match(sharedResult);

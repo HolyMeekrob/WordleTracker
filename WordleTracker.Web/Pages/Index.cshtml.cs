@@ -36,8 +36,8 @@ public class IndexModel : PageModel
 		{
 			try
 			{
-				var result = await _resultSvc.CreateResult(GetUserId(User), Share, cancellationToken);
-				SuccessMessage = $"Day {result.DayId} saved successfully";
+				var results = await _resultSvc.CreateResults(GetUserId(User), Share, cancellationToken);
+				SuccessMessage = $"{results.Count()} results saved successfully";
 			}
 			catch (DbUpdateException)
 			{
