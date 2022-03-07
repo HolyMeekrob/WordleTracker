@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WordleTracker.Data.Models;
 using WordleTracker.Svc;
+using static WordleTracker.Web.Utilities.Identity;
 
 namespace WordleTracker.Web.Pages;
 
@@ -10,8 +11,19 @@ public class GroupModel : PageModel
 	private readonly ILogger<GroupModel> _logger;
 	private readonly GroupSvc _groupSvc;
 
+	[BindProperty]
+	public int Id { get; set; }
 	public string Name { get; set; } = null!;
 	public List<Member> Members { get; set; } = null!;
+
+	[BindProperty]
+	public string NewMemberId { get; set; } = null!;
+
+	private Member? Me => Members.FirstOrDefault(member => member.Id == GetUserId(User));
+	public List<GroupRole> AssignableRoles =>
+		Enum.GetValues<GroupRole>()
+		.Where(role => role < Me!.Role)
+		.ToList();
 
 	public GroupModel(ILogger<GroupModel> logger, GroupSvc groupSvc)
 	{
@@ -22,10 +34,57 @@ public class GroupModel : PageModel
 	public async Task<IActionResult> OnGetAsync(int id, CancellationToken cancellationToken)
 	{
 		var group = await _groupSvc.GetGroupById(id, cancellationToken);
+
+		if (group == null)
+		{
+			return NotFound();
+		}
+
+		Id = id;
 		Name = group.Name;
 		Members = group.Memberships.Select(Member.Create).ToList();
 
+		return Me is null
+			? StatusCode(StatusCodes.Status403Forbidden)
+			: Page();
+	}
+
+	public async Task<IActionResult> OnPostAsync(CancellationToken cancellationToken)
+	{
+		if (ModelState.IsValid)
+		{
+			var result = await _groupSvc.AddUserToGroup(Id, NewMemberId, GroupRole.Member, GetUserId(User), cancellationToken);
+
+			if (!result.IsValid)
+			{
+				ModelState.AddModelError(nameof(NewMemberId), result.Message);
+			}
+			else
+			{
+				ModelState.SetModelValue(nameof(NewMemberId), string.Empty, string.Empty);
+			}
+
+			var group = await _groupSvc.GetGroupById(Id, cancellationToken);
+
+			if (group == null)
+			{
+				return NotFound();
+			}
+
+			Name = group.Name;
+			Members = group.Memberships.Select(Member.Create).ToList();
+		}
+
 		return Page();
+	}
+
+	public async Task<IActionResult> OnDeleteUserAsync(int id, [FromBody] UserRequest user, CancellationToken cancellationToken)
+	{
+		var result = await _groupSvc.RemoveUserFromGroup(id, user.UserId, GetUserId(User), cancellationToken);
+
+		return result.IsValid
+			? new EmptyResult()
+			: Forbid();
 	}
 
 	public class Member
@@ -63,4 +122,6 @@ public class GroupModel : PageModel
 			GuessCount = result.Guesses.Count
 		};
 	}
+
+	public record UserRequest(string UserId);
 }

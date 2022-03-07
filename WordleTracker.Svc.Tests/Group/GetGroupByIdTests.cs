@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using WordleTracker.Data.Models;
 using Xunit;
@@ -9,7 +8,7 @@ namespace WordleTracker.Svc.Tests;
 public class GetGroupByIdTests : DbTests
 {
 	[Fact]
-	public async Task InvalidIdThrowsAnException()
+	public async Task InvalidIdReturnsNull()
 	{
 		var group = new Group
 		{
@@ -21,8 +20,9 @@ public class GetGroupByIdTests : DbTests
 
 		var svc = new GroupSvc(DbContext);
 
-		await Assert.ThrowsAsync<InvalidOperationException>(() =>
-			svc.GetGroupById(group.Id + 1, new CancellationToken()));
+		var result = await svc.GetGroupById(group.Id + 1, new CancellationToken());
+
+		Assert.Null(result);
 	}
 
 	[Fact]
@@ -42,6 +42,6 @@ public class GetGroupByIdTests : DbTests
 		var result = await svc.GetGroupById(group.Id, new CancellationToken());
 
 		Assert.NotNull(result);
-		Assert.Equal(name, result.Name);
+		Assert.Equal(name, result!.Name);
 	}
 }

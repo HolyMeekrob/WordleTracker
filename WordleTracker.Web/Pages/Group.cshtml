@@ -1,10 +1,30 @@
 ﻿@page "{id:int}"
+
+@using WordleTracker.Data.Models
 @model WordleTracker.Web.Pages.GroupModel
 @{
-	ViewData["Title"] = $"Group {Model.Name}";
+	ViewData["Title"] = $"{Model.Name}";
 }
 
 <h1>@Model.Name</h1>
+
+@if (Model.AssignableRoles.Any())
+{
+	<form method="post" class="mb-4">
+		<div class="row">
+			<div class="col-5">
+				<input asp-for="NewMemberId" class="form-control" />
+			</div>
+			<div class="col">
+				<button type="submit" class="btn btn-primary">Add</button>
+			</div>
+		</div>
+		<div>
+			<span asp-validation-for="NewMemberId" class="text-danger"></span>
+		</div>
+		<input type="hidden" asp-for="Id" />
+	</form>
+}
 
 <table class="table table-light table-bordered">
 	<thead>
@@ -20,7 +40,13 @@
 		@foreach (var member in Model.Members)
 		{
 			<tr>
-				<td title=@member.Id>@member.Name</td>
+				<td title=@member.Id>
+					@member.Name
+					@if (Model.AssignableRoles.Contains(member.Role))
+					{
+						<i class="fa-solid fa-user-xmark pointer" data-id="@member.Id" data-action="remove-user" title="Remove user"></i>
+					}
+				</td>
 				<td>@member.Role</td>
 				<td>@member.SolutionCount</td>
 				<td>@member.SolutionRate.ToString("P0")</td>
@@ -29,3 +55,10 @@
 		}
 	</tbody>
 </table>
+
+<input asp-for="Id" type="hidden" />
+
+@section Scripts
+{
+	<script src="~/js/group/removeUser.js" asp-append-version="true"></script>
+}
