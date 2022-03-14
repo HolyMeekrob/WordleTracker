@@ -6,7 +6,26 @@
 	ViewData["Title"] = $"{Model.Name}";
 }
 
-<h1>@Model.Name</h1>
+@if (Model.CanEditName)
+{
+	<div>
+		<span asp-validation-for="Name" id="update-group-name-error" class="text-danger fs-small"></span>
+		<h1 id="view-group-name" class="editable">@Model.Name</h1>
+	</div>
+
+	<form id="edit-group-name" method="post" asp-page-handler="GroupName" class="d-none">
+		<h1 class="input-group">
+			<input type="text" asp-for="Name" id="edit-group-name-input" class="form-control inherit-font" title="Edit group name" tabindex="0" />
+			<a id="undo-edit-group-name" class="input-group-text btn btn-outline-dark" title="Undo" tabindex="1">
+				<i class="fa-solid fa-rotate-left"></i>
+			</a>
+		</h1>
+	</form>
+}
+else
+{
+	<h1>@Model.Name</h1>
+}
 
 @if (Model.AssignableRoles.Any())
 {
@@ -60,5 +79,6 @@
 
 @section Scripts
 {
+	<script src="~/js/group/updateGroupName.js" asp-append-version="true"></script>
 	<script src="~/js/group/removeUser.js" asp-append-version="true"></script>
 }

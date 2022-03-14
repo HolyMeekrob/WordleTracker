@@ -67,7 +67,6 @@
 		try {
 			await save(getForm());
 		} catch (err) {
-			//getErrorElement().innerText = saveErrorText;
 			getInput().value = savedName;
 			if (err) {
 				getErrorElement().innerText = err;

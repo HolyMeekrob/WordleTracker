@@ -13,6 +13,7 @@ public class GroupModel : PageModel
 
 	[BindProperty]
 	public int Id { get; set; }
+	[BindProperty]
 	public string Name { get; set; } = null!;
 	public List<Member> Members { get; set; } = null!;
 
@@ -24,6 +25,8 @@ public class GroupModel : PageModel
 		Enum.GetValues<GroupRole>()
 		.Where(role => role < Me!.Role)
 		.ToList();
+
+	public bool CanEditName => Me!.Role == GroupRole.Owner;
 
 	public GroupModel(ILogger<GroupModel> logger, GroupSvc groupSvc)
 	{
@@ -71,11 +74,19 @@ public class GroupModel : PageModel
 				return NotFound();
 			}
 
-			Name = group.Name;
 			Members = group.Memberships.Select(Member.Create).ToList();
 		}
 
 		return Page();
+	}
+
+	public async Task<IActionResult> OnPostGroupNameAsync(int id, string name, CancellationToken cancellationToken)
+	{
+		var result = await _groupSvc.UpdateGroupName(id, GetUserId(User), name, cancellationToken);
+
+		return result.IsValid
+			? new EmptyResult()
+			: Forbid();
 	}
 
 	public async Task<IActionResult> OnDeleteUserAsync(int id, [FromBody] UserRequest user, CancellationToken cancellationToken)

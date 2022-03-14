@@ -18,7 +18,7 @@ body {
 }
 
 .editable {
-	padding: .25rem;
+	padding: .25em;
 	margin-right: .25rem;
 }
 
@@ -40,4 +40,9 @@ body {
 
 .w-0 {
 	width: 0;
+}
+
+.inherit-font {
+	font-size: inherit;
+	font-weight: inherit;
 }
