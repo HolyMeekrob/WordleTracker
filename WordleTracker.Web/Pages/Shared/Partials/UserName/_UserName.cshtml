@@ -8,7 +8,7 @@
 			<span id="copy-message" class="d-none fs-small text-muted">Copied</span>
 		</div>
 		<span id="view-name" class="editable d-none d-sm-inline-block" title="@Model!.UserId">@Model.UserName</span>
-		<a id="view-name-narrow" class="link-secondary d-sm-none" title="@Model!.UserId" data-bs-toggle="modal" data-bs-target="#user-name-modal">@Model.UserName</a>
+		<a id="view-name-narrow" href="#" class="link-secondary d-sm-none" title="@Model!.UserId" data-bs-toggle="modal" data-bs-target="#user-name-modal">@Model.UserName</a>
 	</div>
 	<form id="edit-name" method="post" asp-page="Partials" asp-page-handler="UpdateName" class="d-none">
 		<div class="input-group">

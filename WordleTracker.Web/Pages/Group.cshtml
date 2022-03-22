@@ -10,7 +10,12 @@
 {
 	<div>
 		<span asp-validation-for="Name" id="update-group-name-error" class="text-danger fs-small"></span>
-		<h1 id="view-group-name" class="editable">@Model.Name</h1>
+		<h1 id="view-group-name" class="editable d-none d-sm-block">
+			@Model.Name
+		</h1>
+		<a id="view-group-name-narrow" href="#" class="h1 text-decoration-none text-body d-sm-none" title="Edit group name" data-bs-toggle="modal" data-bs-target="#group-name-modal">
+			@Model.Name
+		</a>
 	</div>
 
 	<form id="edit-group-name" method="post" asp-page-handler="GroupName" class="d-none">
@@ -74,6 +79,31 @@ else
 		}
 	</tbody>
 </table>
+
+<div id="group-name-modal" class="modal fade" tabindex="-1">
+	<div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Edit group name</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<form id="edit-group-name-modal" method="post" asp-page-handler="GroupName">
+					<div class="input-group">
+						<input type="text" asp-for="Name" id="edit-group-name-input-modal" class="form-control" title="Edit group name" tabindex="0" />
+						@* Prevents form submission upon enter being pressed *@
+						<button type="submit" class="d-none" disabled="disabled" aria-hidden="true"></button>
+					</div>
+				</form>
+				<span asp-validation-for="Name" id="update-group-name-error-modal" class="text-danger"></span>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn secondary" data-bs-dismiss="modal">Cancel</button>
+				<button id="save-group-name" type="button" class="btn btn-primary">Save</button>
+			</div>
+		</div>
+	</div>
+</div>
 
 <input asp-for="Id" type="hidden" />
 

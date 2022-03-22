@@ -42,6 +42,10 @@ body {
 	width: 0;
 }
 
+.inherit-color {
+	color: inherit;
+}
+
 .inherit-font {
 	font-size: inherit;
 	font-weight: inherit;

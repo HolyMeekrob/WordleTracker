@@ -85,7 +85,7 @@ public class GroupModel : PageModel
 		var result = await _groupSvc.UpdateGroupName(id, GetUserId(User), name, cancellationToken);
 
 		return result.IsValid
-			? new EmptyResult()
+			? Content(name)
 			: Forbid();
 	}
 
