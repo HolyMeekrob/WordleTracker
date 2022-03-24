@@ -53,28 +53,43 @@ else
 <table class="table table-light table-bordered">
 	<thead>
 		<tr>
+			@if (Model.AssignableRoles.Any())
+			{
+				<th scope="col"></th>
+			}
 			<th scope="col">Name</th>
 			<th scope="col">Role</th>
 			<th scope="col">Solutions</th>
 			<th scope="col">Solution Rate</th>
 			<th scope="col">Average success</th>
+			@for (int i = 1; i <= 6; ++i)
+			{
+				<th scope="col">@($"{i} guess{(i == 1 ? "" : "es")}")</th>
+			}
 		</tr>
 	</thead>
 	<tbody>
 		@foreach (var member in Model.Members)
 		{
 			<tr>
-				<td title=@member.Id>
-					@member.Name
-					@if (Model.AssignableRoles.Contains(member.Role))
-					{
-						<i class="fa-solid fa-user-xmark pointer" data-id="@member.Id" data-action="remove-user" title="Remove user"></i>
-					}
+				@if (Model.AssignableRoles.Any())
+				{
+					<td>
+						@if (Model.AssignableRoles.Contains(member.Role))
+						{
+							<i class="fa-solid fa-user-xmark pointer" data-id="@member.Id" data-action="remove-user" title="Remove user"></i>
+						}
 				</td>
+				}
+				<td title=@member.Id>@member.Name</td>
 				<td>@member.Role</td>
 				<td>@member.SolutionCount</td>
 				<td>@member.SolutionRate.ToString("P0")</td>
-				<td>@member.SolutionAverage</td>
+				<td>@Math.Round(member.SolutionAverage, 3, MidpointRounding.ToZero).ToString("F3")</td>
+				@for (var i = 1; i <= 6; ++i)
+				{
+					<td>@member.ResultSplits[i]</td>
+				}
 			</tr>
 		}
 	</tbody>

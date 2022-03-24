@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WordleTracker.Data.Models;
 using WordleTracker.Svc;
+
+using static WordleTracker.Core.Utilities.Functional;
 using static WordleTracker.Web.Utilities.Identity;
 
 namespace WordleTracker.Web.Pages;
@@ -110,6 +112,10 @@ public class GroupModel : PageModel
 		public float SolutionAverage => (float)Results
 			.Where(result => result.IsSolved)
 			.Sum(result => result.GuessCount) / SolutionCount;
+
+		public Dictionary<int, int> ResultSplits =>
+			Enumerable.Range(1, 6)
+			.ToDictionary(Identity, n => Results.Count(member => member.GuessCount == n));
 
 		public static Member Create(GroupMember member) => new()
 		{

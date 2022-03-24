@@ -2,6 +2,7 @@
 
 public static class Functional
 {
+	public static T Identity<T>(T x) => x;
 	public static Func<T, bool> Complement<T>(Func<T, bool> f) => x => !f(x);
 
 	public static Func<T, bool> All<T>(params Func<T, bool>[] functions) =>
