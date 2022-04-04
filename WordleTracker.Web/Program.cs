@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authentication.Cookies;
+﻿using HashidsNet;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using WordleTracker.Core.Configuration;
@@ -31,6 +32,8 @@ builder.Services.AddConfig(builder.Configuration);
 
 #region DI Registration
 
+//builder.Services.AddSingleton<IHashids>(_ => new Hashids(salt: builder.Configuration["HashidsSalt"], minHashLength: 10));
+builder.Services.AddSingleton<IHashids>(_ => new Hashids(salt: "test salt", minHashLength: 10));
 builder.Services.AddScoped<GroupSvc, GroupSvc>();
 builder.Services.AddScoped<ResultSvc, ResultSvc>();
 builder.Services.AddScoped<UserSvc, UserSvc>();

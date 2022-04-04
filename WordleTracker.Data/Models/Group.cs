@@ -9,5 +9,5 @@ public class Group : ITrackCreation, ITrackModification
 	public DateTimeOffset UpdatedDate { get; set; }
 
 	public ICollection<User> Members { get; set; } = null!;
-	public List<GroupMember> Memberships { get; set; } = null!;
+	public List<GroupMember> Memberships { get; set; } = new();
 }
