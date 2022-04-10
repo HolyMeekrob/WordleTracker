@@ -32,8 +32,7 @@ builder.Services.AddConfig(builder.Configuration);
 
 #region DI Registration
 
-//builder.Services.AddSingleton<IHashids>(_ => new Hashids(salt: builder.Configuration["HashidsSalt"], minHashLength: 10));
-builder.Services.AddSingleton<IHashids>(_ => new Hashids(salt: "test salt", minHashLength: 10));
+builder.Services.AddSingleton<IHashids>(_ => new Hashids(salt: builder.Configuration["HashidsSalt"], minHashLength: 10));
 builder.Services.AddScoped<GroupSvc, GroupSvc>();
 builder.Services.AddScoped<ResultSvc, ResultSvc>();
 builder.Services.AddScoped<UserSvc, UserSvc>();
